@@ -11,8 +11,10 @@
     
 Dataset #1 is the dataset from research conducted by a Penn psychology professor on how much respondants care about each attribute in their ideal partner.    
 
-Dataset #2 is survey data from a survey conducted by the Pew Research Center. The survey asks parents and their children about their views on dating and other topics. This is the raw data file. URL: https://www.pewresearch.org/internet/dataset/september-2014-march-2015-teens/
+Teen_Dating_Survey.csv is survey data from a survey conducted by the Pew Research Center. The survey asks parents and their children about their views on dating, social media, and other topics. This is the raw data file. URL: https://www.pewresearch.org/internet/dataset/september-2014-march-2015-teens/
 
-Joy_dataset_2_Clean is the cleaned data set from the last 1/3 (approximate) of the dataset. It comprises some of the demographic data and a few questions. 
+Joy_Clean_Teen_Dating.csv is a cleaned data set from the last 1/3 (approximate) of the dataset. It includes a few survey questions and demographic data.
 
-Joy_dataset_2_dem_clean is the cleaned data from dataset #2 except it only contains the demographic information of all of the respondents. 
+Joy_Clean_Teen_Dating_dem.csv is the cleaned data from "Joy_Clean_Teen_Dating.csv" except it only contains demographic information.
+
+Joy_Clean_Teen_Dating_Short.csv is the cleaned data from "Joy_Clean_Teen_Dating.csv" except it only contains demographic information and the detailed responses to the survey questions. 
