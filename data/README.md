@@ -9,7 +9,7 @@
 * You can also create additional sub-folders to better organize your data.
     * For example, you could have a folder called `raw` or `orig` to contain the original data files you downloaded and then a folder called `final` or `clean` that contains versions of these data sheets that you have worked with to clean up missing data, to subset or merge etc.
     
-Dataset #1 is the dataset from research conducted by a Penn psychology professor on how much respondants care about each attribute in their ideal partner.    
+Judy_PSYC_Dataset_clean is the cleaned dataset from research conducted by a Penn psychology professor on how much respondants care about each attribute in their ideal partner.    
 
 Teen_Dating_Survey.csv is survey data from a survey conducted by the Pew Research Center. The survey asks parents and their children about their views on dating, social media, and other topics. This is the raw data file. URL: https://www.pewresearch.org/internet/dataset/september-2014-march-2015-teens/
 

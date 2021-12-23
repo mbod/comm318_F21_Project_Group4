@@ -1,0 +1,1643 @@
+ID,Sex,Sexuality2,Transgender2,Parent_Metro2,Parent_Rent2,Parent_Internet2,Child_Gen2,Child_Age,Household_Size
+5,2,Straight,No,Metro,Rent,Yes,Female,14.0,4.0
+9, ,Straight,No,Metro,Own,Yes,Male,14.0,1.0
+10,,,,,,,,,
+Pinterest,,,,,,,,,
+11, ,,,Metro,Rent,Yes,Female,13.0,5.0
+12, ,Straight,No,Metro,Neither,Yes,Female,13.0,8.0
+14,2,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+15, ,,,Metro,Own,Yes,Male,16.0,5.0
+16, ,Straight,Yes,Metro,Rent,Yes,Male,13.0,4.0
+17, ,,,Metro,Own,Yes,,,5.0
+18, ,,,Metro,Own,Yes,,,4.0
+20,2,Straight,No,Metro,Rent,Yes,Male,15.0,3.0
+21, ,Straight,No,Metro,Own,Yes,Female,16.0,2.0
+23,2,Straight,No,Non-metro,Own,Yes,Male,17.0,3.0
+24, ,,,Metro,Own,Yes,,,4.0
+25, ,,,Metro,Own,Yes,,,4.0
+26, ,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+28, ,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+29, ,Straight,No,Metro,Own,Yes,Female,13.0,6.0
+31, ,,,Non-metro,Own,Yes,,,2.0
+32, ,Straight,No,Metro,Own,Yes,Female,17.0,5.0
+33,2,Not sure,No,Metro,Own,Yes,Male,16.0,3.0
+35, ,,,Metro,Own,Yes,Female,16.0,6.0
+36,1,Straight,No,Metro,Rent,Yes,Male,17.0,3.0
+38, ,Straight,No,Metro,Own,Yes,Female,14.0,3.0
+39, ,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+40, ,Straight,Yes,Metro,Rent,Yes,Male,17.0,2.0
+41, ,Straight,No,Metro,Own,Yes,Male,14.0,5.0
+43, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+44,2,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+45, ,,,Non-metro,Own,Yes,,,5.0
+46, ,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+47, ,Straight,No,Metro,Own,Yes,Female,16.0,2.0
+48, ,Not sure,No,Metro,Own,Yes,Female,15.0,4.0
+49, ,,,Metro,Own,Yes,,,4.0
+51, ,Straight,No,Metro,Rent,Yes,Female,14.0,4.0
+52, ,,,Metro,Own,Yes,,,3.0
+54,2,Straight,No,Metro,Own,Yes,Female,13.0,6.0
+55,2,Straight,No,Metro,Own,Yes,Male,14.0,5.0
+56, ,,,Metro,Rent,Yes,,,4.0
+57,1,Bisexual,No,Metro,Rent,Yes,Female,17.0,5.0
+58,2,Straight,No,Metro,Rent,Yes,Male,15.0,3.0
+59, ,Straight,Yes,Metro,Own,Yes,Male,15.0,4.0
+60, ,Straight,No,Metro,Own,Yes,Female,16.0,4.0
+61, ,,,Metro,Own,Yes,,,5.0
+62, ,,,Metro,Own,Yes,,,5.0
+63, ,Straight,No,Metro,Rent,Yes,Male,13.0,4.0
+64, ,,,Metro,Own,Yes,,,3.0
+65, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+66, ,Straight,No,Metro,Own,Yes,Male,14.0,6.0
+67, ,Straight,No,Metro,Own,Yes,Female,13.0,3.0
+68, ,,,Metro,Own,Yes,,,4.0
+70, ,,,Metro,Own,Yes,,,3.0
+71, ,,,Non-metro,Own,Yes,,,3.0
+72,2,Straight,No,Metro,Own,Yes,Male,14.0,3.0
+73,2,Straight,No,Non-metro,Neither,Yes,Female,13.0,3.0
+74, ,,,Metro,Own,Yes,,,4.0
+78, ,Straight,No,Metro,Own,Yes,Female,14.0,5.0
+79, ,Straight,No,Metro,Rent,Yes,Male,14.0,6.0
+80, ,,,Metro,Own,Yes,,,4.0
+81, ,Straight,No,Metro,Rent,Yes,Male,15.0,2.0
+83, ,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+84, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+85, ,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+86, ,,,Metro,Own,Yes,,,5.0
+88, ,,,Metro,Rent,Yes,,,6.0
+89, ,Straight,No,Metro,Own,Yes,Male,14.0,3.0
+90, ,Straight,No,Metro,Own,Yes,Female,15.0,2.0
+91,2,Straight,No,Metro,Own,Yes,Female,15.0,6.0
+92,2,Straight,No,Non-metro,Own,Yes,Male,13.0,4.0
+95,2,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+97,1,Straight,No,Metro,Rent,Yes,Male,15.0,6.0
+98, ,,,Metro,Own,Yes,,,3.0
+101,1,,Yes,Metro,Own,Yes,Female,16.0,3.0
+102,2,Straight,No,Metro,Own,Yes,Female,13.0,5.0
+104,2,Straight,No,Metro,Rent,Yes,Male,15.0,5.0
+105, ,,,Metro,Own,Yes,,,3.0
+106, ,,,Metro,Own,Yes,,,3.0
+107, ,,,Metro,Own,Yes,,,7.0
+108, ,Straight,No,Metro,Own,Yes,Male,16.0,5.0
+110, ,Straight,No,Metro,Rent,Yes,Female,17.0,3.0
+111, ,Straight,No,Metro,Own,Yes,Male,16.0,3.0
+112, ,,,Metro,Own,Yes,,,6.0
+113, ,,,Metro,Own,Yes,,,3.0
+116, ,Straight,No,Non-metro,Own,Yes,Male,13.0,3.0
+117,2,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+118, ,Straight,No,Metro,Own,Yes,Male,15.0,3.0
+119, ,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+120, ,Straight,No,Metro,Rent,Yes,Female,13.0,5.0
+121,1,Straight,No,Metro,Rent,Yes,Female,17.0,5.0
+122, ,,,Metro,Own,Yes,,,5.0
+123, ,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+124, ,Straight,No,Metro,Own,Yes,Male,14.0,6.0
+125, ,,,Metro,Own,Yes,,,5.0
+126, ,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+127,2,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+128, ,,,Metro,Rent,Yes,,,4.0
+129,2,Straight,No,Metro,Rent,Yes,Female,14.0,6.0
+131, ,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+132, ,Straight,No,Metro,Own,Yes,Male,13.0,3.0
+133,2,Straight,No,Metro,Own,Yes,Male,17.0,7.0
+135, ,Straight,No,Metro,Rent,Yes,Female,15.0,4.0
+136, ,Straight,No,Metro,Own,Yes,Female,14.0,6.0
+138, ,,,Non-metro,Own,Yes,,,7.0
+139, ,,,Metro,Own,Yes,,,4.0
+140,2,Straight,No,Metro,Rent,Yes,Male,16.0,5.0
+141,2,Straight,No,Metro,Own,Yes,Female,14.0,6.0
+142,1,Bisexual,No,Metro,Own,Yes,Female,14.0,5.0
+143, ,,,Metro,Own,Yes,,,7.0
+144, ,Straight,No,Metro,Own,Yes,Female,14.0,5.0
+145, ,Straight,No,Metro,Rent,Yes,Female,13.0,2.0
+146,2,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+147,2,Straight,No,Metro,Rent,Yes,Male,14.0,5.0
+148, ,,,Metro,Own,No,,,3.0
+149,2,Straight,No,Metro,Rent,Yes,Male,13.0,4.0
+150, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+151, ,Straight,No,Metro,Own,Yes,Male,13.0,5.0
+152, ,Straight,No,Metro,Own,Yes,Female,16.0,4.0
+153, ,Straight,No,Metro,Own,Yes,Male,13.0,3.0
+154, ,,,Metro,Own,Yes,,,4.0
+155, ,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+157,2,Straight,No,Non-metro,Own,Yes,Male,16.0,4.0
+158,1,Straight,No,Non-metro,Rent,Yes,Female,16.0,4.0
+159, ,,,Non-metro,Own,Yes,,,4.0
+160, ,Straight,,Metro,Own,Yes,Male,15.0,4.0
+161,2,Straight,No,Metro,Own,Yes,Female,16.0,6.0
+163, ,Straight,No,Metro,Rent,Yes,Female,14.0,5.0
+165,,,,,,,,,
+we heart it,,,,,,,,,
+166, ,Straight,No,Non-metro,Rent,Yes,Female,15.0,4.0
+168,2,Straight,No,Metro,Rent,Yes,Male,14.0,3.0
+171,2,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+172, ,,,Metro,Own,Yes,,,6.0
+174,2,Straight,,Metro,Own,Yes,Female,16.0,3.0
+175, ,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+177, ,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+178, ,,,Non-metro,Own,Yes,,,5.0
+179, ,Straight,No,Metro,Own,Yes,Female,14.0,5.0
+180, ,,,Metro,Own,Yes,,,6.0
+181, ,,,Metro,Own,Yes,,,7.0
+182,2,Straight,No,Metro,Own,Yes,Male,14.0,3.0
+183, ,,,Metro,Own,Yes,,,4.0
+184, ,,,Metro,Own,Yes,,,4.0
+185, ,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+187, ,Straight,No,Metro,Rent,Yes,Female,13.0,4.0
+188, ,,,Metro,Own,Yes,,,2.0
+189, ,,,Metro,Own,Yes,,,7.0
+190, ,Straight,No,Non-metro,Own,Yes,Female,16.0,5.0
+191, ,,,Metro,Own,Yes,,,5.0
+192, ,,,Metro,Own,Yes,,,4.0
+194,2,Straight,No,Metro,Own,Yes,Female,16.0,4.0
+195, ,Straight,No,Metro,Rent,Yes,Female,14.0,5.0
+196,1,Straight,No,Metro,Own,Yes,Female,17.0,5.0
+198,1,Straight,No,Non-metro,Own,Yes,Male,17.0,4.0
+199, ,,,Metro,Own,Yes,,,3.0
+200, ,,,Metro,Own,Yes,,,2.0
+201, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+203, ,,,Metro,Own,Yes,,,4.0
+204,2,Straight,Yes,Metro,Own,Yes,Female,14.0,5.0
+206, ,,,Non-metro,Own,Yes,,,3.0
+207,1,Bisexual,No,Metro,Own,Yes,Female,17.0,1.0
+208,2,Straight,No,Metro,Own,Yes,Male,15.0,5.0
+210, ,Straight,,Metro,Own,Yes,Female,14.0,7.0
+211, ,Straight,No,Non-metro,Own,Yes,Male,13.0,4.0
+212, ,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+213, ,,,Metro,Rent,Yes,,,4.0
+214,2,Straight,No,Metro,Own,Yes,Female,16.0,3.0
+215, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+216, ,Straight,No,Metro,Own,Yes,Female,16.0,3.0
+217, ,Straight,No,Metro,Rent,Yes,Female,17.0,3.0
+218, ,Straight,No,Metro,Own,Yes,Female,16.0,3.0
+219, ,,,Metro,Rent,Yes,,,3.0
+220, ,Straight,No,Metro,Neither,Yes,Male,15.0,5.0
+221,2,Straight,No,Metro,Own,Yes,Male,17.0,5.0
+222,2,Straight,No,Metro,Rent,Yes,Male,17.0,9.0
+223,2,Straight,No,Non-metro,Own,Yes,Male,16.0,7.0
+225, ,,,Metro,Own,Yes,,,3.0
+226,2,Straight,No,Metro,Own,Yes,Female,15.0,3.0
+227, ,Straight,No,Metro,Own,Yes,Male,13.0,5.0
+228, ,,,Metro,Rent,Yes,,,3.0
+229,2,Straight,No,Metro,Rent,Yes,Male,14.0,4.0
+230, ,Straight,No,Metro,Own,Yes,Female,17.0,3.0
+231, ,Straight,No,Metro,Own,Yes,Male,16.0,5.0
+232, ,Straight,No,Metro,Own,Yes,Female,14.0,3.0
+233, ,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+234,2,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+235, ,Straight,No,Non-metro,Own,Yes,Male,17.0,3.0
+236, ,Straight,No,Non-metro,Own,Yes,Female,15.0,4.0
+238, ,,,Non-metro,Own,Yes,,,3.0
+239,1,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+240, ,Straight,,Non-metro,Neither,Yes,Female,16.0,5.0
+242, ,Straight,No,Metro,Rent,Yes,Female,16.0,3.0
+243, ,,,Metro,Own,Yes,,,3.0
+244,2,Straight,No,Metro,Own,Yes,Male,16.0,5.0
+245, ,Not sure,No,Metro,Rent,Yes,Female,14.0,3.0
+246, ,,,Metro,Own,Yes,,,3.0
+247, ,Straight,No,Metro,Own,Yes,Male,14.0,3.0
+248, ,Straight,No,Non-metro,Own,Yes,Male,15.0,7.0
+249,1,Straight,No,Non-metro,Rent,Yes,Female,16.0,2.0
+251, ,Straight,No,Metro,Rent,Yes,Female,17.0,3.0
+252, ,Straight,No,Metro,Rent,Yes,Female,15.0,5.0
+254, ,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+255, ,,,Metro,Own,Yes,,,4.0
+257, ,Straight,No,Metro,Own,Yes,Male,15.0,5.0
+258, ,Straight,No,Metro,Own,Yes,Male,15.0,3.0
+259, ,,,Metro,Rent,Yes,,,4.0
+260,2,Straight,No,Metro,Own,Yes,Female,16.0,5.0
+261,1,Straight,No,Metro,Rent,Yes,Female,14.0,4.0
+263, ,,,Metro,Rent,Yes,,,5.0
+264, ,,,Metro,Own,Yes,,,3.0
+265,1,Straight,No,Metro,Own,Yes,Female,17.0,5.0
+266, ,,,Metro,Neither,No,,,4.0
+268,2,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+269, ,Straight,,Metro,Own,Yes,Female,13.0,4.0
+270, ,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+271,2,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+273, ,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+274,2,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+275, ,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+276, ,Straight,No,Metro,Own,Yes,Male,15.0,5.0
+278, ,Straight,No,Metro,Neither,Yes,Female,17.0,3.0
+279,2,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+280, ,,,Metro,Rent,Yes,,,4.0
+281, ,,,Metro,Own,Yes,,,3.0
+282, ,,,Metro,Own,Yes,,,6.0
+283,2,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+284, ,,,Metro,Own,Yes,,,4.0
+285, ,Straight,No,Non-metro,Own,Yes,Male,17.0,4.0
+286, ,,,Metro,Own,Yes,,,4.0
+287, ,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+288,2,Straight,No,Metro,Own,Yes,Female,16.0,5.0
+290, ,Straight,No,Metro,Own,Yes,Male,15.0,9.0
+291, ,,,Non-metro,Rent,Yes,,,2.0
+292, ,,,Metro,Rent,Yes,,,1.0
+293,1,Straight,No,Metro,Rent,Yes,Male,17.0,4.0
+294,2,Straight,No,Non-metro,Own,Yes,Female,15.0,4.0
+295, ,Straight,No,Non-metro,Own,Yes,Male,13.0,4.0
+296, ,,,Non-metro,Own,Yes,,,5.0
+298, ,Straight,Yes,Metro,Own,Yes,Female,13.0,5.0
+299, ,Straight,No,Metro,Own,Yes,Male,14.0,6.0
+300, ,,,Metro,Own,Yes,,,6.0
+301, ,,,Metro,Own,Yes,,,5.0
+302, ,Straight,No,Metro,Own,Yes,Male,15.0,2.0
+303,1,Straight,No,Metro,Own,Yes,Female,17.0,3.0
+306,2,Straight,No,Metro,Own,Yes,Male,16.0,3.0
+307, ,Straight,No,Metro,Own,Yes,Female,13.0,5.0
+308, ,,,Metro,Own,Yes,,,4.0
+309, ,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+310, ,,,Metro,Own,Yes,,,4.0
+311, ,Straight,No,Metro,Rent,Yes,Female,14.0,4.0
+312, ,Straight,No,Non-metro,Own,Yes,Female,13.0,6.0
+313, ,Straight,No,Metro,Rent,Yes,Male,15.0,4.0
+315, ,Straight,No,Metro,Own,Yes,Male,14.0,5.0
+316,2,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+317, ,,,Metro,Own,Yes,,,3.0
+318, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+319, ,Something else,No,Metro,Rent,Yes,Female,16.0,3.0
+322, ,,,Metro,Own,Yes,,,4.0
+323, ,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+324,1,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+327, ,Straight,No,Non-metro,Own,Yes,Female,17.0,10.0
+328, ,Straight,No,Non-metro,Own,Yes,Female,15.0,7.0
+329, ,,,Metro,Own,Yes,,,5.0
+330, ,,,Metro,Own,Yes,Male,13.0,4.0
+331, ,,,Metro,Own,Yes,,,5.0
+332, ,Straight,No,Metro,Own,Yes,Male,13.0,6.0
+333, ,Straight,,Non-metro,Own,Yes,Female,14.0,4.0
+334,2,Straight,No,Metro,Own,Yes,Male,17.0,6.0
+335, ,,,Metro,Rent,No,,,3.0
+336, ,,,Metro,Own,Yes,,,2.0
+337, ,,,Metro,Own,Yes,,,8.0
+338, ,Straight,No,Metro,Own,Yes,Female,17.0,5.0
+339, ,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+340,2,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+342, ,,,Metro,Rent,Yes,Male,16.0,4.0
+344, ,,,Metro,Own,Yes,,,5.0
+345, ,,,Non-metro,Own,Yes,,,4.0
+347, ,,,Metro,Own,Yes,,,4.0
+348, ,,,Metro,Own,Yes,,,7.0
+349, ,Straight,No,Metro,Own,Yes,Female,16.0,5.0
+350, ,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+351, ,Straight,No,Metro,Neither,Yes,Female,14.0,4.0
+352, ,,,Metro,Own,Yes,,,3.0
+353, ,,,Metro,Own,Yes,,,3.0
+354, ,Straight,No,Non-metro,Own,Yes,Male,13.0,4.0
+355, ,Straight,No,Metro,Own,Yes,Female,14.0,3.0
+357, ,,,Metro,Rent,No,,,3.0
+358, ,,,Non-metro,Own,Yes,,,3.0
+359, ,Not sure,Yes,Metro,Neither,Yes,Male,16.0,4.0
+361, ,Straight,No,Non-metro,Own,Yes,Male,15.0,4.0
+362,2,Straight,No,Metro,Own,Yes,Female,15.0,3.0
+363, ,,,Metro,Rent,Yes,,,3.0
+364, ,Straight,No,Metro,Rent,Yes,Female,17.0,3.0
+365,1,Straight,No,Non-metro,Rent,Yes,Male,17.0,4.0
+367, ,Straight,No,Metro,Own,Yes,Male,13.0,5.0
+369,2,Straight,No,Metro,Rent,Yes,Male,14.0,5.0
+371, ,,,Non-metro,Rent,Yes,,,6.0
+372, ,Straight,No,Metro,Rent,Yes,Male,14.0,6.0
+374, ,,,Metro,Neither,Yes,,,4.0
+375, ,Straight,No,Non-metro,Own,Yes,Female,16.0,4.0
+376, ,Straight,No,Metro,Rent,Yes,Male,13.0,3.0
+377, ,,,Metro,Rent,Yes,,,6.0
+379, ,,,Metro,Rent,Yes,,,3.0
+380, ,,,Metro,Own,Yes,Male,13.0,4.0
+381, ,Straight,No,Metro,Rent,Yes,Female,17.0,6.0
+382,1,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+383, ,,,Metro,Own,Yes,,,3.0
+384, ,Not sure,No,Metro,Own,Yes,Female,17.0,4.0
+385,2,Straight,No,Metro,Rent,Yes,Female,17.0,3.0
+388, ,,,Metro,Own,Yes,,,4.0
+389, ,,,Metro,Rent,Yes,,,3.0
+390,2,Straight,No,Metro,Own,Yes,Female,17.0,5.0
+392,1,Straight,No,Non-metro,Own,Yes,Female,16.0,4.0
+393, ,,,Metro,Own,Yes,,,4.0
+394, ,Straight,No,Metro,Own,Yes,Female,15.0,3.0
+395, ,,,Metro,Own,Yes,,,4.0
+396,2,Straight,No,Metro,Rent,Yes,Female,15.0,7.0
+398, ,Straight,No,Metro,Own,Yes,Female,14.0,3.0
+399,1,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+400,2,Bisexual,No,Metro,Neither,Yes,Female,15.0,4.0
+401, ,,,Metro,Own,Yes,,,2.0
+403, ,,,Metro,Own,Yes,,,5.0
+404, ,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+405, ,Straight,No,Metro,Own,Yes,Female,17.0,7.0
+406, ,Straight,No,Metro,Rent,Yes,Female,14.0,6.0
+408, ,Straight,,Metro,Own,Yes,Male,17.0,6.0
+409, ,Straight,No,Metro,Rent,Yes,Female,14.0,2.0
+410, ,Straight,No,Non-metro,Own,Yes,Male,14.0,8.0
+413, ,,,Metro,Own,Yes,,,4.0
+415, ,,,Metro,Own,Yes,,,4.0
+416, ,,,Metro,Own,Yes,,,3.0
+417, ,Straight,No,Metro,Own,Yes,Male,15.0,6.0
+421, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+422,2,Straight,No,Metro,Rent,Yes,Female,16.0,4.0
+424, ,Straight,No,Metro,Own,Yes,Female,15.0,3.0
+425, ,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+427,1,Straight,No,Metro,Own,Yes,Female,15.0,5.0
+429, ,Straight,No,Metro,Rent,Yes,Male,13.0,5.0
+430,2,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+432, ,,,Metro,Own,Yes,,,5.0
+433, ,Not sure,No,Metro,Own,Yes,Female,17.0,4.0
+435, ,Straight,No,Metro,Own,Yes,Female,13.0,5.0
+438, ,Straight,No,Metro,Own,Yes,Female,17.0,3.0
+439,2,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+441,2,Straight,No,Non-metro,Own,Yes,Female,14.0,5.0
+442, ,Straight,No,Metro,Rent,Yes,Male,13.0,5.0
+443, ,,,Metro,Own,Yes,,,4.0
+444, ,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+445, ,Straight,Yes,Non-metro,Own,Yes,Female,16.0,5.0
+446, ,,,Metro,Own,Yes,,,4.0
+448,2,Straight,No,Metro,Own,Yes,Male,16.0,3.0
+449, ,,,Metro,Own,Yes,,,3.0
+452,2,Straight,No,Metro,Rent,Yes,Female,13.0,7.0
+453, ,,,Metro,Own,Yes,,,3.0
+454, ,Straight,No,Non-metro,Own,Yes,Female,14.0,4.0
+455,-1,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+457, ,Straight,No,Non-metro,Own,Yes,Female,13.0,5.0
+458,2,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+459, ,Straight,No,Non-metro,Own,Yes,Male,14.0,4.0
+461, ,,,Metro,Own,Yes,,,4.0
+462, ,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+463,2,Bisexual,No,Metro,Own,Yes,Female,13.0,5.0
+464,1,Straight,No,Metro,Own,Yes,Female,16.0,3.0
+465, ,,,Metro,Own,Yes,,,5.0
+466, ,,,Metro,Own,Yes,,,4.0
+467,1,Straight,No,Metro,Own,Yes,Female,17.0,3.0
+468,1,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+470, ,Straight,No,Metro,Own,Yes,Male,13.0,3.0
+471, ,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+472, ,Straight,No,Metro,Own,Yes,Male,13.0,3.0
+473,1,Bisexual,No,Metro,Own,Yes,Female,16.0,4.0
+474,2,Straight,No,Metro,Own,Yes,Female,13.0,3.0
+476, ,,,Metro,Own,Yes,Male,14.0,4.0
+477, ,Straight,No,Metro,Rent,Yes,Female,14.0,7.0
+478, ,,,Metro,Own,Yes,,,5.0
+479, ,Straight,No,Metro,Own,Yes,Female,15.0,8.0
+480, ,Straight,No,Metro,Rent,Yes,Female,15.0,5.0
+481, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+482,1,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+484, ,,,Metro,Own,Yes,,,4.0
+486, ,Something else,No,Metro,Own,Yes,Female,14.0,3.0
+487, ,Straight,No,Non-metro,Own,Yes,Male,16.0,10.0
+488, ,Straight,No,Metro,Own,Yes,Male,16.0,3.0
+489, ,,,Metro,Own,Yes,,,5.0
+491, ,,,Metro,Rent,Yes,,,3.0
+492, ,,,Metro,Own,No,,,5.0
+494, ,Straight,No,Metro,Own,Yes,Female,15.0,3.0
+496,1,Not sure,Yes,Non-metro,Rent,Yes,Male,13.0,4.0
+497, ,Straight,No,Metro,Rent,Yes,Female,13.0,4.0
+498,2,Straight,No,Metro,Own,Yes,Male,16.0,3.0
+499, ,Not sure,,Metro,Rent,Yes,Male,13.0,5.0
+500, ,,,Non-metro,Own,No,,,3.0
+501, ,,,Non-metro,Own,Yes,,,4.0
+502, ,,,Metro,Own,Yes,,,4.0
+503, ,Straight,No,Metro,Own,Yes,Female,17.0,5.0
+504, ,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+505, ,Straight,No,Non-metro,Rent,Yes,Male,15.0,3.0
+506,2,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+508,2,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+509, ,Straight,No,Non-metro,Own,Yes,Female,16.0,4.0
+510, ,,,Metro,Own,Yes,,,3.0
+513, ,Straight,,Metro,Rent,Yes,Female,14.0,4.0
+514, ,,,Non-metro,Own,Yes,,,1.0
+515, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+516, ,,,Non-metro,Own,Yes,,,4.0
+518, ,Straight,No,Metro,Own,Yes,Female,13.0,3.0
+519,2,Straight,No,Non-metro,Own,Yes,Male,16.0,5.0
+520, ,Straight,No,Metro,Own,Yes,Female,17.0,8.0
+521, ,Straight,No,Metro,Own,Yes,Female,16.0,5.0
+523, ,,,Metro,Own,Yes,,,4.0
+524,2,Straight,No,Metro,Own,Yes,Female,15.0,5.0
+527, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+528, ,Straight,No,Metro,Rent,Yes,Female,17.0,4.0
+531, ,,,Metro,Own,Yes,,,4.0
+532, ,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+535, ,Straight,No,Metro,Own,Yes,Male,14.0,5.0
+537, ,Straight,No,Metro,Rent,No,Male,16.0,3.0
+538, ,Straight,No,Metro,Rent,Yes,Male,13.0,5.0
+539, ,Straight,No,Non-metro,Own,Yes,Female,17.0,4.0
+542, ,,,Metro,Own,Yes,,,5.0
+543, ,Straight,No,Non-metro,Own,Yes,Male,13.0,3.0
+544, ,Straight,No,Metro,Own,Yes,Male,14.0,5.0
+545, ,Straight,No,Metro,Own,Yes,Female,13.0,5.0
+546, ,,,Metro,Own,Yes,,,4.0
+547, ,,,Metro,Own,Yes,,,4.0
+548,2,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+549, ,,,Metro,Own,Yes,,,4.0
+552,1,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+553, ,,,Metro,Own,Yes,,,4.0
+554, ,,,Metro,Own,Yes,,,6.0
+555, ,Straight,No,Metro,Own,Yes,Female,16.0,4.0
+556, ,Straight,No,Metro,Own,Yes,Female,16.0,3.0
+558, ,Straight,No,Metro,Own,Yes,Male,17.0,5.0
+560, ,Straight,No,Metro,Rent,Yes,Male,15.0,2.0
+565,2,Straight,No,Metro,Own,Yes,Female,17.0,5.0
+566, ,Straight,No,Non-metro,Own,No,Female,16.0,3.0
+567, ,,,Metro,Own,Yes,,,5.0
+568, ,Straight,No,Metro,Own,Yes,Male,14.0,6.0
+569, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+570, ,Straight,No,Metro,Own,Yes,Female,13.0,5.0
+571, ,,,Metro,Own,Yes,,,4.0
+573,2,Straight,No,Metro,Rent,Yes,Female,16.0,6.0
+574, ,,,Non-metro,Own,Yes,,,4.0
+575, ,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+576, ,,,Metro,Rent,Yes,,,5.0
+577, ,Bisexual,Yes,Metro,Rent,Yes,Female,16.0,3.0
+578, ,Straight,No,Metro,Own,Yes,Female,13.0,5.0
+579,2,Straight,No,Non-metro,Own,Yes,Male,14.0,4.0
+581, ,,,Metro,Own,Yes,,,4.0
+582, ,,,Non-metro,Own,Yes,,,3.0
+583,2,Straight,No,Non-metro,Own,Yes,Female,17.0,4.0
+584, ,Straight,No,Metro,Rent,Yes,Female,14.0,6.0
+585, ,Straight,No,Metro,Own,Yes,Male,14.0,3.0
+586, ,,,Metro,Rent,Yes,,,5.0
+588, ,Straight,No,Non-metro,Own,Yes,Male,17.0,6.0
+589,2,Straight,No,Metro,Rent,Yes,Male,14.0,5.0
+592, ,,,Metro,Own,Yes,,,3.0
+595, ,Straight,No,Metro,Rent,Yes,Male,17.0,3.0
+597, ,,,Metro,Rent,Yes,,,4.0
+598,2,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+599,2,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+600, ,,,Non-metro,Rent,Yes,,,3.0
+602, ,Straight,No,Metro,Rent,Yes,Female,13.0,7.0
+604,2,Straight,No,Metro,Rent,Yes,Female,17.0,2.0
+605, ,Straight,No,Metro,Own,Yes,Female,14.0,6.0
+606, ,Straight,No,Metro,Own,No,Female,13.0,3.0
+607, ,,,Metro,Own,Yes,,,4.0
+609,1,Straight,No,Non-metro,Own,Yes,Female,17.0,3.0
+610,1,Straight,No,Metro,Own,Yes,Male,16.0,3.0
+611, ,,,Metro,Own,Yes,,,5.0
+613, ,,,Metro,Rent,Yes,,,3.0
+614,-1,,,Metro,Rent,Yes,Female,17.0,3.0
+615, ,,,Metro,Own,Yes,,,8.0
+616, ,,,Metro,Own,Yes,,,5.0
+617, ,Something else,Yes,Metro,Own,Yes,Female,16.0,4.0
+618,2,,No,Metro,Rent,Yes,Male,15.0,6.0
+619, ,,,Metro,Own,Yes,,,3.0
+620,2,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+623, ,,,Metro,Own,Yes,,,5.0
+624, ,,,Metro,Own,Yes,,,6.0
+625, ,Straight,No,Metro,Own,Yes,Male,14.0,5.0
+626, ,,,Metro,Own,Yes,,,3.0
+627, ,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+628, ,,,Metro,Rent,Yes,,,5.0
+629,2,Straight,No,Metro,Rent,Yes,Male,15.0,5.0
+631,2,Straight,No,Metro,Rent,Yes,Female,17.0,2.0
+632,1,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+634,2,Straight,No,Non-metro,Rent,Yes,Female,16.0,4.0
+635,2,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+636, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+639, ,Straight,,Metro,Neither,Yes,Male,14.0,4.0
+640, ,,,Metro,Rent,Yes,,,4.0
+641,2,Straight,No,Metro,Own,Yes,Female,13.0,6.0
+642, ,Straight,No,Metro,Neither,Yes,Female,16.0,4.0
+643, ,,,Non-metro,Own,Yes,,,4.0
+644, ,,,Metro,Own,Yes,,,5.0
+645, ,Straight,No,Non-metro,Own,Yes,Female,13.0,4.0
+646,2,Straight,No,Metro,Own,Yes,Female,17.0,3.0
+647, ,Straight,No,Metro,Own,Yes,Female,13.0,6.0
+648, ,Straight,No,Non-metro,Own,Yes,Male,14.0,4.0
+649, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+650, ,Straight,No,Metro,Rent,Yes,Male,13.0,2.0
+652, ,,,Non-metro,Own,Yes,,,5.0
+655, ,,,Metro,Own,Yes,,,5.0
+656, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+657, ,,,Metro,Rent,Yes,,,2.0
+658, ,Straight,No,Non-metro,Own,Yes,Female,15.0,5.0
+659,2,Straight,No,Metro,Own,Yes,Male,14.0,6.0
+660,2,Bisexual,No,Metro,Own,Yes,Female,16.0,4.0
+661, ,Straight,No,Metro,Own,Yes,Female,13.0,6.0
+662,2,Straight,No,Metro,Own,Yes,Male,13.0,3.0
+663, ,,,Metro,Own,Yes,,,7.0
+664, ,Straight,No,Metro,Own,Yes,Male,14.0,3.0
+665, ,,,Metro,Own,Yes,,,3.0
+667, ,Straight,No,Metro,Own,Yes,Female,16.0,8.0
+668, ,Straight,No,Metro,Own,Yes,Male,13.0,1.0
+669, ,,,Non-metro,Own,Yes,,,6.0
+671, ,,,Non-metro,Own,Yes,,,3.0
+673, ,Straight,No,Metro,Own,Yes,Male,15.0,7.0
+674, ,Straight,No,Metro,Own,Yes,Female,15.0,3.0
+675, ,Straight,No,Metro,Own,Yes,Female,16.0,6.0
+676, ,Straight,No,Metro,Own,Yes,Male,14.0,3.0
+678, ,,,Metro,Own,Yes,,,4.0
+679, ,Straight,No,Metro,Rent,Yes,Male,13.0,5.0
+681, ,Straight,Yes,Metro,Rent,Yes,Male,14.0,6.0
+682, ,,,Non-metro,Own,Yes,,,2.0
+683, ,Straight,No,Metro,Rent,Yes,Male,15.0,3.0
+684, ,Straight,No,Metro,Rent,Yes,Female,13.0,5.0
+685, ,,,Metro,Own,Yes,,,3.0
+686, ,,,Metro,Own,Yes,,,3.0
+687, ,Straight,No,Metro,Own,Yes,Male,13.0,3.0
+688, ,Straight,No,Metro,Own,Yes,Female,16.0,4.0
+689, ,Straight,No,Metro,Own,Yes,Female,16.0,5.0
+690, ,,,Metro,Own,Yes,,,5.0
+691, ,Straight,No,Metro,Own,Yes,Female,17.0,5.0
+692, ,Straight,No,Non-metro,Rent,Yes,Male,15.0,5.0
+693, ,,,Metro,Own,Yes,,,4.0
+694, ,,,Metro,Own,Yes,,,5.0
+695, ,,,Metro,Own,Yes,,,4.0
+696, ,Straight,No,Metro,Own,Yes,Female,14.0,6.0
+697, ,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+698,2,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+699, ,,,Metro,Own,Yes,,,3.0
+700, ,Straight,No,Metro,Rent,Yes,Male,14.0,4.0
+701, ,Straight,No,Metro,Own,Yes,Male,16.0,6.0
+702, ,,,Metro,Rent,Yes,,,3.0
+703, ,,,Metro,Own,No,,,5.0
+704, ,Straight,No,Metro,Rent,Yes,Male,15.0,4.0
+705, ,Straight,No,Metro,Rent,Yes,Female,16.0,5.0
+707, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+709, ,,,Metro,Rent,No,,,6.0
+710, ,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+711,2,Straight,No,Metro,Own,Yes,Female,17.0,2.0
+712, ,,,Metro,Own,Yes,,,4.0
+713, ,Straight,No,Non-metro,Own,Yes,Female,17.0,3.0
+714,2,Straight,No,Metro,Own,Yes,Female,17.0,2.0
+715,1,Straight,No,Metro,Neither,Yes,Male,17.0,6.0
+717, ,,,Metro,Rent,Yes,,,3.0
+718, ,,,Metro,Rent,Yes,,,4.0
+719, ,Straight,No,Metro,Rent,Yes,Male,15.0,5.0
+720,2,Not sure,No,Metro,Own,Yes,Male,15.0,3.0
+721, ,Straight,No,Non-metro,Own,Yes,Female,14.0,5.0
+722, ,,,Metro,Own,Yes,,,3.0
+724, ,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+725, ,Not sure,No,Metro,Rent,Yes,Female,15.0,6.0
+726, ,,,Metro,Own,Yes,,,4.0
+727,2,Straight,No,Metro,Rent,Yes,Female,16.0,3.0
+728, ,,,Metro,Own,Yes,,,5.0
+730, ,Straight,No,Metro,Own,Yes,Female,14.0,5.0
+731,1,Straight,No,Metro,Own,Yes,Male,15.0,3.0
+732,2,,No,Metro,Own,Yes,Male,14.0,3.0
+733, ,Straight,No,Metro,Rent,Yes,Female,17.0,7.0
+734, ,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+735,2,Straight,No,Non-metro,Own,Yes,Male,13.0,5.0
+736,2,Straight,No,Metro,Rent,Yes,Female,13.0,2.0
+737,2,Straight,No,Non-metro,Rent,Yes,Female,17.0,3.0
+738, ,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+739, ,,,Metro,Own,Yes,,,1.0
+740, ,,,Metro,Rent,Yes,,,4.0
+741, ,,,Non-metro,Rent,Yes,,,4.0
+743, ,,,Metro,Own,Yes,,,4.0
+744, ,Straight,No,Non-metro,Own,Yes,Female,14.0,3.0
+746, ,,,Metro,Own,Yes,,,4.0
+747,1,Straight,No,Non-metro,Own,Yes,Female,16.0,3.0
+748, ,,,Metro,Own,Yes,Male,15.0,3.0
+749, ,,,Metro,Own,No,,,7.0
+751,2,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+752,2,Something else,No,Metro,Own,Yes,Female,16.0,5.0
+753, ,,,Metro,Rent,Yes,,,6.0
+754, ,,,Metro,Own,Yes,,,6.0
+755,2,Straight,No,Metro,Own,Yes,Male,14.0,3.0
+756, ,Straight,No,Metro,Own,Yes,Female,17.0,5.0
+757, ,,,Metro,Own,Yes,,,8.0
+758, ,,,Metro,Own,Yes,,,3.0
+759, ,,,Metro,Own,Yes,,,2.0
+760, ,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+761, ,Straight,No,Metro,Own,No,Male,15.0,5.0
+762, ,,,Non-metro,Own,Yes,,,4.0
+763, ,,,Non-metro,Own,Yes,Female,17.0,1.0
+764, ,,,Metro,Own,Yes,,,4.0
+765, ,,,Non-metro,Own,Yes,,,4.0
+767,1,Straight,No,Non-metro,Own,Yes,Female,17.0,4.0
+768, ,,,Metro,Own,Yes,,,3.0
+769, ,,,Metro,Rent,Yes,,,4.0
+770, ,,,Metro,Own,Yes,,,3.0
+771, ,Straight,No,Metro,Own,Yes,Female,15.0,5.0
+772, ,,,Metro,Rent,Yes,,,4.0
+773, ,Straight,No,Metro,Own,Yes,Female,13.0,6.0
+774, ,Straight,No,Metro,Own,Yes,Female,17.0,5.0
+775, ,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+776, ,,,Metro,Own,No,,,4.0
+777, ,,,Metro,Own,Yes,,,5.0
+778, ,Straight,No,Metro,Own,Yes,Male,14.0,6.0
+779, ,Straight,No,Metro,Own,Yes,Female,17.0,3.0
+780, ,Straight,No,Metro,Rent,Yes,Female,14.0,5.0
+781,1,Straight,No,Metro,Rent,No,Male,14.0,3.0
+782, ,,,Metro,Own,Yes,Male,16.0,4.0
+783, ,,,Metro,Own,Yes,,,4.0
+784, ,Straight,No,Metro,Rent,Yes,Female,17.0,8.0
+786, ,Straight,No,Metro,Rent,Yes,Male,17.0,6.0
+788, ,,,Metro,Own,Yes,,,3.0
+791, ,,,Metro,Own,Yes,,,4.0
+792, ,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+793, ,,,Metro,Own,Yes,,,4.0
+795,2,Straight,No,Metro,Own,Yes,Male,15.0,9.0
+796, ,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+798, ,,,Metro,Own,Yes,,,4.0
+799, ,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+800, ,,,Metro,Own,Yes,,,5.0
+801, ,,,Metro,Own,Yes,,,5.0
+804, ,,,Metro,Own,Yes,,,4.0
+805, ,,,Metro,Rent,No,,,1.0
+806, ,,,Metro,Own,Yes,,,4.0
+807,2,Straight,No,Metro,Own,Yes,Male,16.0,3.0
+808, ,Straight,No,Non-metro,Rent,Yes,Female,13.0,4.0
+810, ,Straight,No,Metro,Rent,No,Female,16.0,4.0
+811, ,Straight,No,Metro,Neither,Yes,Female,14.0,5.0
+812,2,Straight,No,Metro,Rent,Yes,Female,17.0,6.0
+813,2,Straight,,Metro,Rent,Yes,Male,16.0,4.0
+814, ,Straight,No,Metro,Rent,Yes,Female,17.0,4.0
+815, ,,,Metro,Neither,Yes,,,3.0
+816,2,Straight,No,Metro,Rent,Yes,Female,15.0,4.0
+817,2,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+818, ,Straight,No,Non-metro,Own,No,Female,17.0,4.0
+819, ,Straight,No,Metro,Own,Yes,Female,17.0,3.0
+820,1,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+821, ,Straight,No,Metro,Neither,Yes,Female,16.0,4.0
+822, ,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+824,1,Straight,No,Metro,Rent,Yes,Female,15.0,1.0
+825, ,,,Metro,Own,Yes,,,5.0
+826, ,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+827, ,Straight,No,Metro,Own,Yes,Male,16.0,3.0
+828,1,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+829, ,Straight,No,Metro,Own,Yes,Male,13.0,6.0
+830, ,,,Metro,Own,Yes,,,4.0
+831, ,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+832,2,Straight,No,Metro,Own,Yes,Male,13.0,3.0
+833, ,,,Metro,Rent,No,,,5.0
+834,2,Straight,No,Metro,Own,Yes,Male,16.0,3.0
+835, ,,,Non-metro,Own,Yes,,,3.0
+836, ,,,Non-metro,Own,Yes,,,5.0
+837, ,Straight,No,Metro,Rent,Yes,Male,14.0,5.0
+838,2,Straight,No,Non-metro,Own,Yes,Male,17.0,4.0
+841, ,,,Metro,Own,Yes,,,4.0
+842, ,,,Metro,Own,Yes,,,9.0
+843, ,,,Metro,Own,Yes,,,4.0
+845, ,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+846, ,Straight,No,Metro,Rent,Yes,Female,13.0,5.0
+848, ,Straight,No,Metro,Own,Yes,Female,13.0,5.0
+849,1,Straight,No,Metro,Own,Yes,Female,14.0,5.0
+850, ,,,Metro,Rent,Yes,,,2.0
+851, ,Bisexual,No,Metro,Own,Yes,Female,13.0,5.0
+852, ,Straight,No,Metro,Own,Yes,Male,14.0,5.0
+853, ,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+854,2,Gay or Lesbian,No,Non-metro,Own,Yes,Female,13.0,3.0
+855,2,Straight,No,Metro,Rent,Yes,Male,14.0,3.0
+856, ,,,Metro,Own,Yes,,,5.0
+857, ,,,Metro,Own,Yes,,,4.0
+858,1,Straight,No,Metro,Neither,Yes,Male,17.0,4.0
+859,2,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+860,2,Straight,No,Metro,Rent,Yes,Female,17.0,5.0
+861, ,Straight,No,Metro,Own,Yes,Male,13.0,5.0
+862,2,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+864,2,Straight,No,Metro,Rent,Yes,Female,15.0,4.0
+865, ,Straight,No,Metro,Own,Yes,Male,14.0,2.0
+866, ,,,Metro,Own,Yes,,,4.0
+867, ,,No,Metro,Rent,No,Male,13.0,5.0
+869, ,,,Metro,Own,Yes,,,4.0
+870,2,Straight,No,Metro,Own,Yes,Male,16.0,3.0
+871, ,Straight,No,Metro,Own,Yes,Female,16.0,4.0
+872,2,Bisexual,No,Metro,Own,Yes,Female,13.0,2.0
+873,2,Straight,No,Metro,Own,Yes,Male,15.0,3.0
+874, ,,,Metro,Own,Yes,,,6.0
+875, ,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+876, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+877, ,,,Metro,Own,Yes,,,4.0
+878,2,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+879, ,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+881, ,,,Metro,Rent,Yes,,,3.0
+883, ,Bisexual,No,Non-metro,Own,Yes,Male,16.0,4.0
+884, ,Straight,No,Metro,Rent,No,Female,13.0,6.0
+885, ,Straight,No,Metro,Own,Yes,Female,14.0,3.0
+886,1,Something else,Yes,Metro,Own,Yes,Female,15.0,3.0
+887, ,,,Metro,Rent,Yes,Male,13.0,5.0
+888, ,Straight,No,Metro,Own,Yes,Female,16.0,2.0
+889, ,,,Metro,Rent,Yes,,,4.0
+891, ,Straight,No,Metro,Own,Yes,Male,15.0,2.0
+893,1,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+894, ,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+895, ,,,Metro,Rent,Yes,,,4.0
+896, ,Straight,No,Metro,Own,Yes,Female,13.0,3.0
+897, ,Straight,No,Metro,Own,Yes,Female,15.0,5.0
+898,1,Straight,No,Metro,Own,Yes,Male,17.0,9.0
+899, ,,,Metro,Rent,Yes,,,1.0
+900, ,Straight,No,Metro,Own,Yes,Male,13.0,5.0
+901,2,Straight,No,Non-metro,Rent,Yes,Male,15.0,5.0
+902, ,Straight,No,Metro,Own,Yes,Female,13.0,8.0
+904, ,,,Metro,Rent,Yes,,,5.0
+905, ,Straight,No,Metro,Own,Yes,Female,16.0,3.0
+906, ,Straight,No,Metro,Own,Yes,Female,14.0,3.0
+907, ,,,Metro,Own,Yes,,,5.0
+908, ,,,Metro,Own,No,Male,16.0,8.0
+909, ,Straight,No,Metro,Rent,Yes,Female,13.0,3.0
+910, ,Straight,No,Non-metro,Own,Yes,Male,16.0,7.0
+911, ,Straight,No,Metro,Rent,Yes,Male,15.0,4.0
+912, ,,,Metro,Own,Yes,,,3.0
+913, ,Straight,Yes,Non-metro,Rent,No,Male,16.0,3.0
+914, ,Straight,No,Metro,Own,Yes,Male,13.0,5.0
+917, ,,,Metro,Own,No,Female,14.0,4.0
+918, ,Straight,No,Metro,Own,Yes,Female,16.0,6.0
+919, ,Straight,No,Metro,Own,Yes,Female,16.0,4.0
+920, ,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+921, ,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+922, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+923,1,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+924, ,Straight,No,Metro,Own,Yes,Male,14.0,3.0
+925, ,,,Metro,Own,Yes,,,2.0
+926, ,Straight,No,Metro,Rent,Yes,Male,16.0,7.0
+927, ,,,Metro,Own,Yes,,,4.0
+928, ,,,Metro,Own,Yes,,,3.0
+929, ,,,Metro,Rent,Yes,,,5.0
+931, ,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+933, ,,,Metro,Own,Yes,,,4.0
+936, ,,,Metro,Own,Yes,,,4.0
+937,2,Straight,No,Metro,Own,Yes,Male,16.0,3.0
+938,2,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+939, ,Straight,No,Metro,Rent,Yes,Female,15.0,6.0
+941,2,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+942, ,Not sure,No,Metro,Rent,No,Male,16.0,6.0
+943, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+944, ,Straight,No,Non-metro,Own,No,Male,16.0,5.0
+945, ,,,Metro,Own,Yes,,,5.0
+946, ,Straight,,Metro,Own,Yes,Female,15.0,4.0
+947,1,Straight,No,Metro,Rent,Yes,Female,16.0,6.0
+948, ,Straight,No,Metro,Own,Yes,Female,13.0,7.0
+949, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+950, ,,,Non-metro,Own,Yes,,,4.0
+951,1,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+952,1,Straight,No,Metro,Own,Yes,Male,16.0,6.0
+953, ,Straight,,Non-metro,Own,Yes,Male,13.0,5.0
+954, ,,,Metro,Own,Yes,,,3.0
+955, ,,,Non-metro,Own,No,,,3.0
+957, ,Straight,No,Non-metro,Neither,Yes,Female,17.0,3.0
+958, ,,,Metro,Rent,No,,,4.0
+959, ,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+960, ,,,Metro,Rent,Yes,,,6.0
+961,2,Straight,No,Metro,Own,Yes,Male,16.0,3.0
+962,-1,Straight,No,Metro,Own,Yes,Female,16.0,3.0
+963, ,,,Metro,Own,Yes,,,6.0
+964, ,Straight,No,Metro,Rent,Yes,Male,17.0,4.0
+965, ,,,Metro,Own,Yes,,,4.0
+966, ,Straight,No,Metro,Rent,Yes,Male,13.0,10.0
+967, ,Straight,No,Metro,Own,Yes,Female,17.0,3.0
+969, ,Straight,No,Metro,Own,Yes,Male,13.0,2.0
+970, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+971,1,Straight,No,Metro,Own,Yes,Male,17.0,5.0
+972, ,Straight,No,Metro,Own,Yes,Female,14.0,5.0
+974, ,,,Metro,Own,Yes,,,4.0
+975, ,Straight,Yes,Metro,Own,Yes,Female,16.0,9.0
+976,1,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+977, ,Straight,No,Metro,Own,Yes,Male,13.0,5.0
+978, ,,,Metro,Own,Yes,,,3.0
+979, ,,,Metro,Rent,Yes,,,2.0
+981, ,Straight,No,Metro,Own,Yes,Female,17.0,3.0
+982, ,Not sure,No,Metro,Own,Yes,Male,17.0,3.0
+983,3,Straight,No,Metro,Own,Yes,Male,16.0,3.0
+984, ,,,Metro,Own,Yes,,,4.0
+985, ,,,Non-metro,Own,Yes,,,3.0
+986, ,Straight,No,Metro,Neither,No,Female,17.0,6.0
+987, ,Straight,No,Non-metro,Own,Yes,Male,14.0,3.0
+988,1,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+989, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+990, ,Straight,No,Non-metro,Own,Yes,Female,15.0,4.0
+991,1,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+992, ,Straight,No,Metro,Own,Yes,Female,13.0,5.0
+993, ,,,Metro,Rent,Yes,,,4.0
+994, ,Straight,No,Metro,Rent,No,Male,16.0,2.0
+995, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+996, ,Straight,No,Metro,Rent,Yes,Male,17.0,5.0
+997, ,Straight,No,Non-metro,Own,Yes,Male,17.0,2.0
+999, ,,,Metro,Own,Yes,,,3.0
+1000, ,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+1001, ,,,Metro,Own,Yes,,,5.0
+1002, ,Straight,No,Non-metro,Own,Yes,Male,13.0,4.0
+1003, ,Straight,No,Metro,Own,Yes,Male,17.0,5.0
+1004, ,,,Metro,Own,Yes,,,4.0
+1005,2,Straight,No,Metro,Rent,Yes,Male,17.0,6.0
+1006, ,,,Metro,Own,Yes,,,4.0
+1007, ,Straight,No,Metro,Rent,Yes,Male,14.0,2.0
+1008, ,Straight,No,Metro,Rent,Yes,Male,16.0,5.0
+1009, ,,,Metro,Own,Yes,,,3.0
+1010, ,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+1011, ,Straight,No,Non-metro,Rent,No,Male,15.0,3.0
+1012, ,,,Metro,Own,Yes,,,4.0
+1013, ,,,Non-metro,Own,Yes,,,1.0
+1015, ,,,Metro,Rent,Yes,,,7.0
+1016, ,,,Metro,Rent,Yes,,,3.0
+1017, ,,,Metro,Own,Yes,,,3.0
+1018, ,,,Metro,Rent,Yes,Male,13.0,7.0
+1019, ,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+1021, ,Straight,No,Metro,Own,Yes,Female,15.0,6.0
+1022,1,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+1023, ,Straight,No,Metro,Own,Yes,Female,15.0,5.0
+1024,2,Straight,No,Metro,Own,Yes,Female,16.0,4.0
+1026, ,,,Non-metro,Own,Yes,,,5.0
+1027, ,Straight,No,Metro,Own,Yes,Female,15.0,3.0
+1028, ,,,Metro,Own,Yes,,,5.0
+1029,1,Straight,No,Non-metro,Own,Yes,Male,17.0,5.0
+1030, ,,,Metro,Own,Yes,,,4.0
+1031, ,Something else,No,Metro,Own,Yes,Female,16.0,3.0
+1032,2,Straight,No,Metro,Own,Yes,Male,14.0,5.0
+1033, ,,,Metro,Own,Yes,,,3.0
+1034, ,,,Metro,Rent,Yes,,,4.0
+1037, ,Straight,No,Metro,Own,Yes,Male,15.0,2.0
+1038, ,,,Metro,Own,Yes,,,5.0
+1039, ,Straight,No,Metro,Own,Yes,Female,14.0,3.0
+1040, ,Straight,Yes,Metro,Rent,Yes,Female,16.0,5.0
+1041, ,,,Metro,Own,Yes,,,3.0
+1042, ,,,Metro,Own,Yes,,,3.0
+1044, ,,,Metro,Rent,Yes,,,2.0
+1046, ,Straight,No,Metro,Own,Yes,Female,14.0,3.0
+1047, ,,,Metro,Own,Yes,,,6.0
+1048, ,,,Metro,Own,Yes,,,3.0
+1049, ,,,Metro,Own,Yes,,,1.0
+1050,2,Straight,No,Metro,Rent,Yes,Male,15.0,5.0
+1052, ,,,Metro,Own,Yes,,,4.0
+1054, ,Not sure,No,Metro,Rent,Yes,Female,13.0,6.0
+1055,2,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+1056, ,Straight,No,Metro,Own,Yes,Female,15.0,6.0
+1057, ,,,Metro,Own,Yes,,,3.0
+1058, ,Straight,,Metro,Rent,Yes,Female,16.0,3.0
+1059, ,Straight,No,Metro,Own,Yes,Female,13.0,2.0
+1060, ,,,Metro,Rent,Yes,,,3.0
+1063, ,,,Metro,Neither,Yes,,,3.0
+1065, ,,,Metro,Own,Yes,,,4.0
+1066, ,Straight,No,Non-metro,Own,Yes,Male,16.0,3.0
+1067,3,Not sure,No,Metro,Own,Yes,Male,16.0,4.0
+1068, ,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+1070, ,,,Metro,Own,Yes,,,5.0
+1071, ,,,Metro,Rent,No,,,6.0
+1072, ,Straight,No,Metro,Rent,Yes,Male,14.0,3.0
+1074,1,Bisexual,No,Non-metro,Own,Yes,Female,17.0,5.0
+1075, ,,,Metro,Own,Yes,,,3.0
+1079, ,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+1080, ,Not sure,No,Metro,Own,Yes,Male,13.0,8.0
+1082, ,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+1083,2,Straight,No,Metro,Own,Yes,Male,15.0,5.0
+1085, ,,,Metro,Rent,Yes,,,3.0
+1086, ,Straight,No,Metro,Own,Yes,Female,15.0,5.0
+1087, ,,,Metro,Own,Yes,,,4.0
+1088,2,Straight,No,Metro,Own,No,Male,13.0,5.0
+1090, ,,,Metro,Own,Yes,,,4.0
+1091,2,Straight,No,Metro,Own,Yes,Male,17.0,5.0
+1092, ,Not sure,No,Metro,Own,Yes,Male,13.0,4.0
+1093, ,Straight,No,Non-metro,Own,Yes,Female,15.0,6.0
+1094, ,,,Metro,Rent,Yes,Female,17.0,2.0
+1095, ,Straight,No,Non-metro,Rent,Yes,Male,14.0,2.0
+1096, ,Straight,No,Metro,Rent,Yes,Male,14.0,2.0
+1097, ,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+1098, ,,,Metro,Own,Yes,,,9.0
+1099, ,,,Non-metro,Own,Yes,,,5.0
+1103, ,Straight,No,Non-metro,Own,Yes,Male,14.0,4.0
+1104, ,,,Metro,Own,Yes,,,4.0
+1105, ,,,Metro,Own,Yes,,,4.0
+1108, ,,,Metro,Rent,Yes,,,2.0
+1111, ,,,Metro,Own,Yes,Male,17.0,4.0
+1112, ,Straight,No,Metro,Rent,Yes,Female,17.0,3.0
+1113,2,Straight,No,Non-metro,Own,Yes,Female,14.0,5.0
+1115, ,,,Metro,Own,Yes,,,6.0
+1116, ,,,Metro,Own,Yes,,,6.0
+1117, ,Straight,No,Metro,Rent,Yes,Male,15.0,4.0
+1118,2,Straight,No,Metro,Own,Yes,Male,16.0,3.0
+1120, ,,,Metro,Own,Yes,,,6.0
+1121, ,,,Metro,Own,Yes,,,4.0
+1122, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+1123, ,Straight,No,Metro,Rent,Yes,Male,16.0,4.0
+1126, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+1129, ,Straight,Yes,Non-metro,Own,Yes,Male,15.0,2.0
+1130, ,,,Metro,Rent,Yes,,,6.0
+1131, ,Straight,,Metro,Own,Yes,Male,13.0,4.0
+1132, ,,,Metro,Own,Yes,,,4.0
+1133, ,,,Metro,Own,Yes,,,3.0
+1134, ,Straight,No,Metro,Own,Yes,Female,14.0,3.0
+1135, ,Straight,No,Metro,Rent,Yes,Female,16.0,4.0
+1136, ,Straight,Yes,Metro,Own,Yes,Female,13.0,3.0
+1138, ,Bisexual,No,Metro,Own,Yes,Male,13.0,5.0
+1140, ,Straight,No,Metro,Own,Yes,Male,15.0,3.0
+1142, ,,,Metro,Own,Yes,,,5.0
+1143, ,,,Metro,Own,Yes,,,4.0
+1144, ,,,Metro,Own,Yes,,,4.0
+1149, ,Straight,No,Metro,Own,Yes,Male,14.0,5.0
+1150, ,Straight,No,Metro,Own,Yes,Male,13.0,5.0
+1151, ,,,Non-metro,Own,Yes,,,4.0
+1152,2,Straight,No,Metro,Rent,Yes,Female,17.0,5.0
+1154, ,Straight,No,Non-metro,Own,Yes,Female,16.0,3.0
+1155,3,Straight,No,Metro,Own,Yes,Female,14.0,8.0
+1156,2,Bisexual,No,Metro,Rent,Yes,Female,13.0,3.0
+1157, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+1158, ,Not sure,No,Metro,Neither,Yes,Female,13.0,4.0
+1161, ,,,Metro,Own,Yes,,,5.0
+1162, ,,,Metro,Own,Yes,,,3.0
+1164, ,,,Metro,Rent,Yes,,,5.0
+1166, ,,,Metro,Own,Yes,,,4.0
+1167, ,Straight,No,Metro,Rent,Yes,Female,13.0,4.0
+1168, ,,,Metro,Own,Yes,,,9.0
+1169, ,,,Metro,Own,Yes,,,5.0
+1170, ,Straight,No,Non-metro,Own,Yes,Male,15.0,3.0
+1171, ,Straight,No,Metro,Own,Yes,Female,16.0,4.0
+1173, ,Straight,No,Metro,Own,Yes,Female,14.0,3.0
+1176, ,Straight,No,Metro,Own,Yes,Female,17.0,5.0
+1177, ,,,Metro,Own,Yes,,,4.0
+1179, ,Straight,No,Metro,Own,Yes,Female,17.0,3.0
+1183, ,,,Metro,Own,Yes,,,6.0
+1185, ,,,Non-metro,Own,Yes,,,9.0
+1186, ,,,Metro,Own,Yes,,,3.0
+1187, ,,,Non-metro,Own,Yes,,,3.0
+1189,2,Straight,No,Metro,Rent,Yes,Female,14.0,6.0
+1190, ,,,Metro,Own,Yes,,,5.0
+1191,2,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+1192, ,Straight,No,Metro,Own,Yes,Female,14.0,3.0
+1193, ,Straight,No,Metro,Own,Yes,Female,17.0,2.0
+1194,2,Straight,No,Non-metro,Rent,Yes,Male,14.0,6.0
+1195, ,,,Metro,Own,Yes,,,5.0
+1196,2,Straight,No,Non-metro,Own,Yes,Male,17.0,3.0
+1197, ,,,Metro,Own,Yes,,,10.0
+1198, ,,,Metro,Own,Yes,,,3.0
+1200, ,,,Metro,Own,No,,,6.0
+1202,2,Straight,No,Metro,Own,Yes,Male,13.0,5.0
+1204, ,,,Metro,Own,Yes,,,4.0
+1206, ,Straight,No,Metro,Own,Yes,Female,13.0,9.0
+1207, ,Straight,No,Non-metro,Own,Yes,Male,14.0,3.0
+1208, ,,,Metro,Own,Yes,,,3.0
+1209, ,,,Metro,Own,Yes,,,4.0
+1210, ,,,Metro,Own,Yes,,,8.0
+1211, ,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+1213, ,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+1214, ,Straight,No,Metro,Own,Yes,Female,13.0,5.0
+1215, ,,,Metro,Own,Yes,,,4.0
+1217, ,,,Metro,Own,Yes,,,5.0
+1218, ,Straight,No,Non-metro,Rent,Yes,Female,17.0,4.0
+1219, ,,,Non-metro,Own,Yes,,,5.0
+1220, ,,,Metro,Own,Yes,,,2.0
+1222, ,,,Non-metro,Rent,Yes,,,2.0
+1224,1,Straight,No,Non-metro,Own,Yes,Male,16.0,3.0
+1225, ,Straight,No,Metro,Rent,Yes,Female,13.0,5.0
+1227, ,,,Metro,Own,Yes,,,4.0
+1228, ,,,Metro,Own,Yes,,,3.0
+1229, ,,,Metro,Rent,Yes,,,5.0
+1230, ,,,Metro,Rent,Yes,Female,14.0,3.0
+1231, ,,,Metro,Own,Yes,,,5.0
+1233, ,,,Metro,Own,Yes,,,4.0
+1234,1,Straight,No,Metro,Rent,Yes,Male,16.0,4.0
+1235, ,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+1237, ,,,Metro,Own,Yes,,,5.0
+1238, ,,,Metro,Own,Yes,,,3.0
+1239, ,Straight,No,Metro,Rent,No,Male,14.0,4.0
+1242, ,,,Metro,Own,Yes,,,3.0
+1244, ,Something else,No,Metro,Neither,Yes,Female,14.0,6.0
+1245,1,Bisexual,No,Non-metro,Own,Yes,Female,16.0,4.0
+1246, ,,,Metro,Own,Yes,,,3.0
+1247, ,Straight,No,Metro,Own,Yes,Female,17.0,3.0
+1248, ,,,Metro,Rent,Yes,,,5.0
+1249, ,,,Metro,Rent,Yes,,,4.0
+1251, ,,,Non-metro,Own,Yes,,,3.0
+1253,2,Not sure,Yes,Metro,Own,Yes,Female,13.0,8.0
+1255, ,,,Non-metro,Own,Yes,,,6.0
+1256,2,Straight,No,Metro,Own,Yes,Female,15.0,3.0
+1258,2,Straight,No,Metro,Own,Yes,Female,16.0,4.0
+1259, ,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+1260, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+1261, ,,,Metro,Rent,Yes,,,3.0
+1262, ,Bisexual,No,Metro,Own,Yes,Male,13.0,5.0
+1263, ,,,Metro,Own,Yes,,,4.0
+1264, ,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+1265, ,Straight,No,Metro,Own,Yes,Female,14.0,3.0
+1266,1,Straight,Yes,Metro,Own,Yes,Male,16.0,3.0
+1267, ,,,Metro,Own,No,,,4.0
+1268, ,,,Metro,Own,Yes,,,3.0
+1269, ,,,Metro,Own,Yes,,,3.0
+1270, ,Straight,No,Metro,Own,Yes,Female,13.0,8.0
+1271, ,,,Metro,Own,Yes,,,5.0
+1272, ,,,Metro,Own,Yes,,,7.0
+1273, ,,,Metro,Own,Yes,,,2.0
+1275, ,Straight,No,Metro,Own,Yes,Female,16.0,7.0
+1276, ,,,Metro,Rent,Yes,,,5.0
+1277, ,Straight,No,Metro,Own,Yes,Male,15.0,5.0
+1279,2,Not sure,No,Metro,Own,Yes,Female,15.0,4.0
+1280,2,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+1281, ,Straight,No,Metro,Own,Yes,Male,16.0,3.0
+1282, ,Straight,No,Metro,Own,Yes,Female,15.0,2.0
+1283, ,,,Metro,Rent,Yes,,,4.0
+1284,2,Straight,No,Metro,Rent,Yes,Female,16.0,4.0
+1286,2,Straight,No,Metro,Rent,Yes,Female,17.0,3.0
+1287, ,Straight,,Metro,Rent,No,Male,13.0,2.0
+1288, ,,,Metro,Rent,Yes,,,4.0
+1289,2,Straight,No,Metro,Rent,No,Male,15.0,6.0
+1290,2,Straight,No,Metro,Own,Yes,Male,15.0,8.0
+1294, ,,,Metro,Own,Yes,,,3.0
+1295, ,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+1296, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+1297,2,Straight,No,Metro,Rent,Yes,Female,15.0,8.0
+1298,2,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+1299, ,,,Metro,Own,Yes,,,4.0
+1300, ,,,Metro,Own,Yes,,,4.0
+1301,1,Bisexual,No,Metro,Own,Yes,Female,17.0,6.0
+1302, ,Bisexual,No,Metro,Own,Yes,Female,13.0,3.0
+1303, ,Straight,No,Metro,Rent,Yes,Female,17.0,2.0
+1304, ,Straight,No,Metro,Rent,Yes,Male,13.0,4.0
+1305,3,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+1306,2,Straight,No,Metro,Own,Yes,Female,16.0,3.0
+1307, ,,,Metro,Rent,Yes,,,4.0
+1308, ,Straight,No,Metro,Own,Yes,Female,14.0,6.0
+1309,2,Straight,No,Metro,Rent,No,Male,15.0,3.0
+1310, ,Straight,No,Metro,Rent,Yes,Female,14.0,2.0
+1313, ,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+1315, ,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+1317, ,,,Metro,Own,Yes,,,6.0
+1319, ,,,Metro,Own,Yes,,,5.0
+1321,1,Straight,No,Metro,Own,Yes,Female,17.0,5.0
+1322,2,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+1323, ,,,Metro,Own,Yes,,,3.0
+1324, ,,,Metro,Own,Yes,,,5.0
+1325, ,,,Metro,Own,Yes,Female,15.0,7.0
+1326, ,Straight,No,Metro,Own,Yes,Male,13.0,6.0
+1327,2,Straight,No,Metro,Rent,Yes,Male,16.0,3.0
+1328, ,,,Metro,Rent,Yes,,,4.0
+1330, ,,,Metro,Rent,No,,,4.0
+1331, ,,,Metro,Own,Yes,,,4.0
+1332, ,Straight,No,Metro,Rent,Yes,Male,13.0,6.0
+1333, ,,,Metro,Own,Yes,,,4.0
+1334, ,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+1336, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+1337, ,Straight,No,Metro,Rent,No,Female,13.0,3.0
+1338, ,Straight,No,Non-metro,Own,Yes,Female,13.0,4.0
+1339, ,,,Metro,Own,Yes,,,3.0
+1340, ,Straight,No,Non-metro,Own,No,Female,15.0,4.0
+1341, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+1342, ,,,Metro,Own,Yes,,,5.0
+1343, ,,,Metro,Own,Yes,,,5.0
+1344, ,Straight,No,Metro,Rent,Yes,Male,17.0,6.0
+1346, ,Straight,No,Metro,Own,No,Female,13.0,2.0
+1347, ,,,Non-metro,Own,Yes,,,9.0
+1348, ,Straight,No,Metro,Rent,Yes,Male,17.0,6.0
+1349, ,Straight,No,Metro,Own,No,Male,16.0,3.0
+1350, ,Straight,No,Metro,Rent,Yes,Female,15.0,3.0
+1351, ,,,Metro,Rent,No,,,3.0
+1354, ,Something else,No,Metro,Rent,Yes,Female,14.0,6.0
+1355, ,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+1357, ,,,Non-metro,Own,No,,,4.0
+1359, ,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+1360,1,Bisexual,No,Non-metro,Rent,Yes,Female,15.0,4.0
+1361, ,Straight,No,Metro,Own,No,Female,15.0,3.0
+1362,2,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+1363, ,,,Metro,Own,Yes,,,5.0
+1366, ,,,Non-metro,Own,Yes,,,7.0
+1367, ,,,Metro,Own,Yes,,,5.0
+1369,1,Straight,No,Metro,Own,Yes,Female,17.0,3.0
+1370,1,Straight,No,Metro,Own,Yes,Male,17.0,5.0
+1372, ,,,Non-metro,Own,Yes,,,4.0
+1373, ,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+1374,1,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+1375, ,Straight,No,Metro,Rent,Yes,Female,13.0,3.0
+1376,1,Straight,No,Non-metro,Own,Yes,Female,17.0,5.0
+1377,1,Straight,No,Non-metro,Rent,Yes,Male,14.0,3.0
+1378, ,Straight,No,Metro,Own,Yes,Male,13.0,5.0
+1379,2,Straight,No,Metro,Rent,Yes,Male,13.0,3.0
+1380, ,,,Non-metro,Own,Yes,,,4.0
+1381, ,,,Metro,Own,Yes,,,3.0
+1384, ,,,Metro,Own,Yes,Male,16.0,6.0
+1386, ,,,Metro,Own,Yes,,,5.0
+1387, ,,,Metro,Own,Yes,,,5.0
+1388, ,,,Metro,Own,Yes,,,5.0
+1389,2,Straight,No,Metro,Own,Yes,Female,13.0,7.0
+1393, ,,,Metro,Own,Yes,,,3.0
+1394, ,Straight,No,Non-metro,Own,Yes,Female,13.0,5.0
+1396, ,,,Metro,Own,Yes,,,4.0
+1397, ,Straight,No,Metro,Own,Yes,Female,14.0,3.0
+1399, ,,,Metro,Own,Yes,,,4.0
+1400, ,,,Metro,Rent,No,,,5.0
+1401, ,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+1404,3,Straight,No,Non-metro,Own,Yes,Male,16.0,3.0
+1405, ,Bisexual,No,Metro,Own,Yes,Female,17.0,4.0
+1406, ,,,Metro,Own,Yes,,,3.0
+1407, ,Straight,No,Non-metro,Own,Yes,Male,14.0,4.0
+1408,2,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+1411, ,Straight,No,Metro,Own,Yes,Male,15.0,6.0
+1412, ,Straight,No,Metro,Own,Yes,Female,14.0,5.0
+1414, ,,,Metro,Rent,No,,,5.0
+1415, ,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+1416, ,Straight,No,Non-metro,Own,Yes,Male,16.0,3.0
+1417, ,Straight,No,Metro,Rent,Yes,Male,15.0,4.0
+1418,1,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+1419, ,Straight,No,Metro,Own,No,Female,14.0,4.0
+1420, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+1421, ,Not sure,No,Metro,Own,Yes,Male,14.0,4.0
+1422, ,,,Metro,Rent,Yes,,,8.0
+1423, ,Straight,No,Metro,Own,Yes,Male,16.0,5.0
+1424,2,Straight,No,Metro,Rent,Yes,Male,16.0,3.0
+1426,2,Straight,No,Non-metro,Own,Yes,Male,14.0,4.0
+1427,2,Straight,No,Metro,Own,Yes,Female,17.0,3.0
+1428, ,,,Metro,Own,Yes,,,4.0
+1429, ,Straight,No,Metro,Own,Yes,Female,15.0,7.0
+1430, ,,,Metro,Rent,Yes,,,4.0
+1431, ,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+1432, ,,,Metro,Own,Yes,,,4.0
+1434, ,,,Metro,Rent,Yes,,,4.0
+1439,2,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+1441, ,,,Metro,Neither,Yes,,,3.0
+1443, ,,,Metro,Rent,No,,,4.0
+1444, ,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+1445, ,Straight,No,Metro,Own,Yes,Female,16.0,5.0
+1446, ,Straight,No,Non-metro,Own,No,Male,13.0,4.0
+1448,2,Straight,No,Metro,Rent,Yes,Female,15.0,5.0
+1449, ,Bisexual,No,Metro,Own,Yes,Female,13.0,3.0
+1450, ,Straight,Yes,Metro,Own,No,Male,13.0,1.0
+1451, ,,,Metro,Own,No,,,6.0
+1452, ,,,Metro,Rent,Yes,,,5.0
+1453, ,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+1455, ,Straight,No,Metro,Own,Yes,Female,14.0,8.0
+1456, ,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+1457, ,,,Metro,Neither,Yes,,,2.0
+1458,1,Straight,No,Metro,Rent,Yes,Female,17.0,4.0
+1459,2,Straight,No,Non-metro,Neither,Yes,Female,15.0,4.0
+1460, ,Straight,No,Metro,Rent,Yes,Male,15.0,3.0
+1461, ,,,Metro,Neither,No,,,5.0
+1462, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+1464, ,,,Metro,Rent,Yes,,,4.0
+1466, ,Straight,No,Non-metro,Own,No,Female,14.0,4.0
+1467,2,Straight,No,Metro,Own,Yes,Male,16.0,5.0
+1468, ,Straight,Yes,Metro,Rent,No,Male,14.0,3.0
+1469, ,Straight,No,Non-metro,Own,Yes,Female,17.0,6.0
+1470, ,Straight,No,Metro,Own,Yes,Female,13.0,5.0
+1471, ,,,Non-metro,Own,Yes,,,3.0
+1472, ,Straight,No,Metro,Own,Yes,Male,16.0,3.0
+1473,1,Straight,No,Metro,Own,No,Female,17.0,3.0
+1475, ,Straight,No,Metro,Own,Yes,Female,13.0,3.0
+1477,1,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+1479, ,Straight,No,Metro,Own,No,Female,16.0,5.0
+1480, ,Straight,Yes,Metro,Own,Yes,Male,14.0,5.0
+1481, ,,,Metro,Own,Yes,Male,17.0,5.0
+1482,2,Straight,No,Non-metro,Own,Yes,Female,16.0,3.0
+1485,2,Straight,No,Metro,Rent,Yes,Male,15.0,4.0
+1486, ,,,Metro,Own,Yes,,,4.0
+1487,2,Straight,No,Metro,Own,Yes,Female,16.0,4.0
+1488,1,Straight,No,Metro,Own,Yes,Female,16.0,7.0
+1489,2,Straight,No,Non-metro,Own,Yes,Female,13.0,3.0
+1490,2,Straight,No,Non-metro,Own,Yes,Male,15.0,5.0
+1491,2,Bisexual,No,Metro,Rent,Yes,Female,15.0,5.0
+1492, ,Straight,No,Metro,Rent,No,Female,16.0,3.0
+1494, ,,,Metro,Own,Yes,,,7.0
+1496, ,Straight,,Non-metro,Own,Yes,Male,13.0,5.0
+1497, ,Not sure,No,Metro,Own,Yes,Female,13.0,2.0
+1498, ,,,Non-metro,Own,Yes,,,6.0
+1499, ,Straight,No,Non-metro,Own,Yes,Female,13.0,5.0
+1500, ,,,Non-metro,Neither,Yes,,,5.0
+1501, ,,,Metro,Own,Yes,,,5.0
+1502, ,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+1504, ,,,Non-metro,Neither,Yes,,,5.0
+1506, ,,,Metro,Own,Yes,,,4.0
+1507,1,Straight,No,Non-metro,Own,Yes,Female,17.0,4.0
+1509, ,,,Non-metro,Own,Yes,,,4.0
+1511,1,Straight,No,Metro,Own,Yes,Male,14.0,6.0
+1512,1,Straight,No,Non-metro,Own,Yes,Male,16.0,4.0
+1513,2,Straight,No,Metro,Own,Yes,Female,15.0,3.0
+1514, ,Straight,No,Metro,Own,Yes,Male,13.0,5.0
+1517, ,Straight,No,Metro,Own,Yes,Female,13.0,6.0
+1518, ,,,Non-metro,Rent,Yes,,,5.0
+1520, ,,,Metro,Own,Yes,,,4.0
+1521, ,,,Metro,Own,Yes,,,4.0
+1522, ,,,Non-metro,Own,No,,,4.0
+1524, ,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+1525, ,Straight,No,Non-metro,Own,Yes,Male,13.0,3.0
+1527,1,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+1528,2,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+1529, ,Straight,No,Non-metro,Own,Yes,Male,13.0,4.0
+1530,2,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+1532, ,,,Metro,Own,Yes,,,6.0
+1533, ,,,Metro,Own,Yes,,,4.0
+1534, ,Straight,No,Metro,Rent,Yes,Male,13.0,5.0
+1535, ,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+1536, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+1537, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+1539, ,Straight,No,Metro,Rent,Yes,Female,15.0,6.0
+1540,2,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+1542, ,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+1543, ,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+1544, ,Straight,No,Metro,Own,Yes,Female,16.0,4.0
+1545, ,Straight,No,Non-metro,Own,Yes,Female,16.0,6.0
+1546, ,Straight,No,Metro,Rent,Yes,Male,17.0,4.0
+1547, ,Straight,No,Metro,Rent,Yes,Male,13.0,7.0
+1550, ,,,Metro,Own,No,,,10.0
+1551, ,,,Metro,Own,No,,,5.0
+1552, ,Straight,No,Metro,Own,Yes,Female,15.0,3.0
+1553, ,,,Metro,Rent,Yes,,,3.0
+1554, ,,,Metro,Own,Yes,,,7.0
+1555, ,,,Metro,Own,Yes,,,4.0
+1556, ,Straight,No,Metro,Rent,No,Male,16.0,2.0
+1557,2,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+1558, ,Straight,No,Metro,Own,Yes,Male,16.0,5.0
+1560, ,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+1562, ,,,Metro,Own,Yes,,,2.0
+1563, ,Straight,No,Metro,Rent,Yes,Male,13.0,5.0
+1564,1,Straight,No,Non-metro,Rent,Yes,Female,15.0,3.0
+1565, ,,,Metro,Own,No,,,5.0
+1566, ,,,Metro,Rent,Yes,,,2.0
+1567, ,Straight,No,Metro,Rent,No,Female,16.0,2.0
+1568,1,Straight,No,Metro,Own,Yes,Female,17.0,5.0
+1569, ,Straight,No,Metro,Own,Yes,Male,14.0,7.0
+1570,2,Straight,No,Metro,Own,No,Female,14.0,4.0
+1571,1,Straight,No,Metro,Rent,Yes,Female,16.0,4.0
+1572, ,Straight,No,Metro,Own,Yes,Female,13.0,5.0
+1574, ,,,Metro,Rent,Yes,,,4.0
+1575,2,Straight,No,Metro,Own,Yes,Female,13.0,5.0
+1578, ,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+1582, ,,,Non-metro,Own,Yes,Male,16.0,5.0
+1584,2,Straight,No,Metro,Own,Yes,Male,15.0,6.0
+1585,2,Straight,No,Metro,Own,Yes,Male,14.0,5.0
+1586,2,Straight,No,Metro,Rent,Yes,Female,13.0,4.0
+1588, ,,,Metro,Neither,Yes,,,2.0
+1589,2,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+1590, ,Straight,No,Metro,Own,Yes,Male,14.0,5.0
+1591, ,Straight,No,Metro,Rent,Yes,Male,13.0,5.0
+1593, ,Straight,No,Metro,Own,Yes,Male,17.0,5.0
+1594, ,,,Metro,Own,Yes,,,5.0
+1595,2,Not sure,No,Metro,Own,Yes,Female,17.0,3.0
+1596, ,,,Metro,Own,Yes,,,4.0
+1597, ,Straight,No,Metro,Rent,Yes,Male,14.0,6.0
+1598, ,Straight,No,Metro,Own,Yes,Female,16.0,6.0
+1600, ,Straight,No,Metro,Rent,Yes,Male,17.0,4.0
+1601, ,,,Metro,Own,Yes,,,5.0
+1603,1,Straight,No,Non-metro,Own,Yes,Female,16.0,4.0
+1604, ,,,Metro,Own,Yes,,,4.0
+1606, ,Straight,No,Metro,Own,Yes,Female,15.0,2.0
+1607, ,,,Metro,Own,Yes,,,3.0
+1608,1,Straight,No,Metro,Rent,Yes,Male,16.0,6.0
+1609,2,Bisexual,No,Metro,Own,Yes,Female,15.0,4.0
+1610, ,Straight,No,Metro,Rent,Yes,Female,13.0,3.0
+1611, ,Bisexual,No,Metro,Own,Yes,Female,14.0,6.0
+1612,1,Straight,No,Non-metro,Own,Yes,Female,16.0,5.0
+1613, ,,,Metro,Rent,Yes,,,5.0
+1614,1,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+1615,2,Straight,No,Metro,Own,Yes,Male,13.0,3.0
+1617, ,Straight,No,Non-metro,Own,Yes,Female,16.0,4.0
+1618, ,,,Metro,Own,Yes,,,4.0
+1620,2,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+1621,2,Straight,No,Metro,Rent,Yes,Female,16.0,5.0
+1622, ,,,Metro,Own,Yes,,,6.0
+1623, ,,,Metro,Own,No,,,2.0
+1625, ,,,Metro,Own,Yes,,,5.0
+1626,2,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+1627,2,Straight,No,Metro,Rent,Yes,Male,14.0,6.0
+1628, ,,,Metro,Own,Yes,,,3.0
+1630, ,,,Metro,Own,Yes,,,4.0
+1631, ,,,Metro,Own,Yes,,,5.0
+1632,2,Straight,No,Metro,Own,Yes,Female,13.0,5.0
+1633, ,,,Non-metro,Own,Yes,,,8.0
+1636,2,Straight,No,Non-metro,Own,Yes,Female,17.0,3.0
+1640, ,,,Metro,Rent,No,Male,16.0,4.0
+1641, ,Straight,No,Metro,Rent,Yes,Male,14.0,6.0
+1643, ,Straight,No,Metro,Own,Yes,Female,16.0,5.0
+1645, ,Straight,No,Metro,Rent,Yes,Male,14.0,5.0
+1647,2,Straight,No,Metro,Own,Yes,Male,15.0,6.0
+1648, ,Straight,No,Non-metro,Own,Yes,Female,15.0,5.0
+1649, ,Straight,Yes,Metro,Own,Yes,Male,15.0,4.0
+1650, ,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+1651,2,Straight,No,Metro,Rent,Yes,Female,17.0,2.0
+1652, ,,,Metro,Rent,Yes,Female,14.0,5.0
+1653, ,Straight,Yes,Metro,Own,Yes,Female,13.0,8.0
+1655, ,Straight,No,Non-metro,Own,Yes,Female,13.0,6.0
+1656,1,Straight,No,Metro,Own,Yes,Male,16.0,2.0
+1657, ,Straight,No,Metro,Rent,Yes,Female,15.0,3.0
+1658, ,Straight,No,Metro,Rent,Yes,Female,13.0,5.0
+1659,2,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+1660, ,,,Metro,Own,Yes,,,4.0
+1661, ,,,Metro,Rent,No,,,7.0
+1663, ,,,Metro,Own,Yes,,,3.0
+1667, ,,,Metro,Own,Yes,Male,15.0,5.0
+1668, ,,,Metro,Own,Yes,,,5.0
+1669, ,,,Metro,Rent,No,,,6.0
+1670, ,,,Metro,Own,Yes,,,5.0
+1671,2,Straight,No,Metro,Own,Yes,Male,16.0,5.0
+1672,2,Straight,No,Metro,Own,Yes,Female,15.0,6.0
+1673,1,Straight,No,Metro,Rent,Yes,Male,15.0,5.0
+1675, ,,,Metro,Own,Yes,,,4.0
+1677,2,Straight,No,Metro,Rent,Yes,Male,16.0,5.0
+1678, ,,,Metro,Own,No,,,8.0
+1679, ,Straight,No,Metro,Own,Yes,Male,16.0,5.0
+1680, ,,,Metro,Own,Yes,,,5.0
+1681, ,Straight,No,Metro,Own,Yes,Female,13.0,5.0
+1685, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+1686,2,Straight,No,Metro,Rent,Yes,Female,16.0,4.0
+1688,2,Not sure,Yes,Metro,Own,Yes,Male,17.0,3.0
+1689,1,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+1691, ,Straight,No,Metro,Own,Yes,Female,16.0,8.0
+1692, ,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+1694, ,,,Metro,Own,Yes,,,4.0
+1695, ,Straight,No,Non-metro,Own,Yes,Male,13.0,5.0
+1696, ,,,Metro,Own,Yes,,,2.0
+1697, ,Straight,No,Non-metro,Neither,Yes,Female,16.0,3.0
+1700, ,,,Non-metro,Rent,Yes,,,4.0
+1702,1,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+1704,-1,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+1706, ,,,Metro,Own,Yes,,,4.0
+1707,1,Straight,No,Metro,Own,Yes,Male,17.0,6.0
+1712, ,Something else,No,Metro,Own,Yes,Male,13.0,4.0
+1713, ,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+1714,2,Straight,No,Metro,Rent,No,Female,15.0,5.0
+1716, ,,,Metro,Rent,Yes,,,4.0
+1717,2,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+1718,2,Straight,No,Non-metro,Own,No,Female,17.0,3.0
+1719, ,Straight,No,Non-metro,Rent,Yes,Female,13.0,4.0
+1721, ,Straight,No,Metro,Rent,No,Female,14.0,3.0
+1722,2,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+1724, ,Not sure,No,Metro,Rent,Yes,Male,13.0,5.0
+1725, ,,,Non-metro,Own,Yes,,,4.0
+1726, ,Straight,No,Metro,Rent,No,Male,14.0,5.0
+1727, ,,,Metro,Own,Yes,,,4.0
+1729, ,Straight,No,Metro,Own,Yes,Male,17.0,6.0
+1732, ,,,Metro,Own,No,,,5.0
+1735, ,Straight,No,Metro,Own,Yes,Female,13.0,3.0
+1736,2,Bisexual,No,Metro,Own,Yes,Female,14.0,4.0
+1737, ,Straight,No,Metro,Own,Yes,Male,17.0,6.0
+1739, ,,,Non-metro,Own,Yes,,,4.0
+1742, ,,,Metro,Own,Yes,,,10.0
+1743,2,Straight,No,Non-metro,Own,Yes,Male,17.0,5.0
+1745, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+1747, ,Straight,No,Metro,Own,Yes,Female,15.0,3.0
+1748,2,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+1749, ,Straight,No,Metro,Own,Yes,Female,14.0,3.0
+1750, ,Something else,No,Non-metro,Neither,Yes,Female,13.0,6.0
+1751,3,Bisexual,No,Metro,Own,Yes,Female,15.0,4.0
+1752, ,,,Metro,Rent,No,,,4.0
+1753, ,Straight,No,Metro,Own,Yes,Female,14.0,6.0
+1754, ,Straight,No,Metro,Rent,Yes,Male,15.0,6.0
+1755, ,Straight,No,Metro,Rent,Yes,Male,16.0,4.0
+1757, ,,,Non-metro,Own,Yes,,,6.0
+1758, ,,,Metro,Rent,No,,,3.0
+1760, ,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+1761,2,Straight,No,Non-metro,Own,Yes,Female,15.0,7.0
+1762, ,Straight,No,Metro,Own,Yes,Female,13.0,3.0
+1764, ,Straight,No,Metro,Rent,Yes,Male,17.0,6.0
+1765, ,,,Metro,Own,Yes,,,3.0
+1766, ,Something else,No,Metro,Own,Yes,Female,13.0,4.0
+1767,2,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+1769, ,,,Metro,Own,Yes,,,3.0
+1773, ,Straight,No,Metro,Own,Yes,Female,14.0,6.0
+1776,1,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+1777, ,,,Metro,Rent,Yes,,,6.0
+1778, ,Straight,No,Metro,Rent,Yes,Male,15.0,4.0
+1779, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+1780, ,,,Metro,Own,No,,,3.0
+1783, ,Straight,No,Metro,Rent,Yes,Female,17.0,7.0
+1786, ,,,Metro,Rent,Yes,,,4.0
+1787, ,,,Metro,Own,Yes,,,4.0
+1788, ,Straight,No,Metro,Own,Yes,Male,15.0,6.0
+1790, ,,,Metro,Own,Yes,,,5.0
+1791, ,,,Metro,Own,Yes,,,4.0
+1792, ,,,Metro,Rent,Yes,,,7.0
+1794, ,Straight,No,Metro,Own,Yes,Female,14.0,5.0
+1798,-1,Straight,No,Non-metro,Rent,No,Male,15.0,2.0
+1801, ,,,Metro,Own,Yes,,,3.0
+1803, ,,,Metro,Rent,Yes,,,3.0
+1805, ,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+1808,2,Straight,No,Metro,Own,Yes,Male,15.0,3.0
+1811, ,Straight,No,Metro,Own,Yes,Female,16.0,5.0
+1812, ,Straight,No,Metro,Own,Yes,Female,13.0,5.0
+1813, ,,,Metro,Rent,No,,,1.0
+1814, ,,,Metro,Own,No,,,4.0
+1816,2,Straight,No,Non-metro,Own,Yes,Male,15.0,4.0
+1817, ,,,Metro,Own,No,,,3.0
+1818,2,Straight,No,Metro,Rent,Yes,Male,13.0,5.0
+1819, ,Straight,No,Metro,Own,Yes,Male,17.0,2.0
+1820, ,Straight,No,Metro,Rent,Yes,Male,17.0,3.0
+1821, ,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+1822, ,,,Metro,Rent,Yes,,,5.0
+1823, ,Straight,No,Metro,Own,No,Female,13.0,6.0
+1824, ,,,Metro,Own,Yes,,,5.0
+1825, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+1827,2,Straight,No,Metro,Rent,Yes,Female,14.0,5.0
+1828, ,Straight,No,Metro,Own,Yes,Male,13.0,5.0
+1829, ,Straight,No,Metro,Rent,No,Male,16.0,4.0
+1830, ,Straight,No,Metro,Neither,No,Female,13.0,5.0
+1831, ,Straight,No,Metro,Rent,Yes,Male,16.0,4.0
+1833, ,,,Metro,Own,Yes,,,5.0
+1835, ,Straight,No,Metro,Own,Yes,Female,17.0,2.0
+1836, ,Straight,No,Non-metro,Own,Yes,Female,14.0,3.0
+1837, ,,,Metro,Rent,Yes,,,2.0
+1838, ,,,Metro,Rent,Yes,,,3.0
+1839, ,,,Metro,Own,Yes,,,5.0
+1841, ,Not sure,No,Metro,Rent,No,Female,13.0,3.0
+1842, ,Straight,No,Metro,Own,Yes,Male,13.0,6.0
+1844, ,,,Metro,Neither,Yes,,,3.0
+1846, ,,,Metro,Own,Yes,,,5.0
+1847, ,,,Metro,Own,Yes,,,4.0
+1848, ,Straight,No,Metro,Own,No,Female,16.0,4.0
+1849, ,,,Metro,Own,Yes,,,3.0
+1850, ,Straight,No,Non-metro,Rent,Yes,Male,13.0,3.0
+1852, ,Straight,No,Metro,Own,No,Male,17.0,5.0
+1854, ,,,Metro,Rent,No,,,5.0
+1855, ,Straight,No,Metro,Own,Yes,Male,16.0,2.0
+1856, ,,,Metro,Own,Yes,,,4.0
+1857, ,Straight,No,Metro,Own,Yes,Female,13.0,3.0
+1858, ,,,Metro,Own,Yes,,,4.0
+1859, ,,,Metro,Own,Yes,,,8.0
+1862, ,,,Metro,Rent,Yes,,,5.0
+1863, ,,,Metro,Own,Yes,,,4.0
+1864, ,,,Metro,Own,Yes,,,3.0
+1865, ,,,Metro,Own,Yes,,,5.0
+1867, ,Straight,No,Metro,Own,Yes,Female,13.0,5.0
+1869, ,,,Metro,Rent,Yes,,,5.0
+1870, ,,,Metro,Rent,Yes,,,4.0
+1871, ,Straight,No,Metro,Own,Yes,Male,13.0,5.0
+1872, ,,,Metro,Rent,No,Male,13.0,4.0
+1873, ,,,Non-metro,Own,No,,,3.0
+1875, ,Straight,No,Metro,Own,Yes,Female,17.0,3.0
+1877, ,,,Metro,Rent,No,,,4.0
+1878, ,,,Metro,Own,Yes,,,4.0
+1879, ,Straight,No,Non-metro,Own,No,Male,15.0,4.0
+1881, ,Straight,No,Metro,Rent,Yes,Female,16.0,4.0
+1882, ,Straight,,Metro,Rent,Yes,Female,13.0,5.0
+1883, ,,,Non-metro,Rent,Yes,,,7.0
+1884, ,Straight,No,Metro,Rent,Yes,Male,14.0,2.0
+1887, ,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+1888, ,,,Metro,Rent,No,,,6.0
+1889, ,Straight,No,Non-metro,Own,Yes,Male,13.0,5.0
+1890, ,Straight,No,Metro,Own,Yes,Female,14.0,2.0
+1891, ,Straight,No,Metro,Own,Yes,Female,16.0,3.0
+1892, ,Straight,No,Non-metro,Own,Yes,Female,15.0,3.0
+1893, ,,,Metro,Own,Yes,,,3.0
+1894, ,,,Metro,Own,No,,,3.0
+1896, ,,,Metro,Own,Yes,,,6.0
+1897, ,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+1898, ,,,Metro,Own,Yes,,,4.0
+1899, ,Straight,No,Metro,Own,Yes,Female,16.0,4.0
+1901, ,,,Metro,Rent,Yes,,,4.0
+1902, ,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+1906,1,Not sure,No,Metro,Rent,Yes,Female,17.0,3.0
+1907, ,Straight,No,Non-metro,Neither,Yes,Male,15.0,4.0
+1908,2,Straight,No,Metro,Rent,No,Female,13.0,7.0
+1910, ,,,Metro,Own,Yes,,,3.0
+1912, ,,,Non-metro,Own,Yes,,,6.0
+1913, ,,,Metro,Own,Yes,,,4.0
+1915, ,,,Metro,Own,Yes,,,4.0
+1917, ,,,Metro,Own,Yes,,,4.0
+1920, ,Gay or Lesbian,No,Metro,Own,No,Female,15.0,2.0
+1921,2,Straight,No,Metro,Own,Yes,Male,16.0,5.0
+1922, ,,,Metro,Rent,Yes,,,5.0
+1924, ,Straight,No,Metro,Rent,Yes,Male,17.0,5.0
+1926, ,Straight,No,Non-metro,Rent,Yes,Female,17.0,4.0
+1927, ,Straight,No,Metro,Rent,Yes,Male,13.0,5.0
+1928, ,Straight,No,Metro,Rent,Yes,Male,15.0,3.0
+1932, ,Straight,No,Metro,Own,Yes,Female,16.0,2.0
+1933, ,Straight,No,Metro,Rent,Yes,Male,14.0,3.0
+1934, ,Gay or Lesbian,Yes,Metro,Own,No,Female,14.0,2.0
+1937, ,,,Metro,Rent,Yes,,,6.0
+1938, ,Straight,No,Metro,Rent,Yes,Male,16.0,6.0
+1939, ,Straight,No,Metro,Rent,Yes,Male,16.0,4.0
+1940,1,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+1941, ,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+1942, ,,,Metro,Own,Yes,,,4.0
+1944, ,,,Metro,Own,Yes,,,5.0
+1945, ,Not sure,No,Metro,Rent,Yes,Male,17.0,3.0
+1946, ,Straight,No,Metro,Own,Yes,Male,16.0,5.0
+1947,2,Straight,No,Metro,Rent,Yes,Female,15.0,6.0
+1948,1,Straight,No,Metro,Rent,Yes,Male,16.0,3.0
+1950,2,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+1951, ,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+1952,2,Straight,No,Metro,Own,Yes,Female,16.0,4.0
+1954, ,Straight,No,Metro,Own,Yes,Male,14.0,4.0
+1955,,,,,,,,,
+kik,,,,,,,,,
+ommeggle,,,,,,,,,
+1957, ,Straight,No,Metro,Own,No,Female,14.0,4.0
+1959, ,Straight,No,Non-metro,Own,Yes,Female,14.0,6.0
+1960, ,,,Metro,Own,Yes,,,4.0
+1961, ,Straight,No,Metro,Own,Yes,Female,14.0,6.0
+1962,2,Straight,No,Metro,Rent,Yes,Female,17.0,3.0
+1963, ,Straight,No,Metro,Own,Yes,Male,13.0,3.0
+1966, ,Straight,No,Metro,Rent,Yes,Male,15.0,5.0
+1968, ,,,Metro,Own,Yes,,,4.0
+1969, ,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+1970, ,,,Metro,Own,No,,,5.0
+1971, ,,,Metro,Rent,Yes,,,5.0
+1972, ,,,Metro,Rent,Yes,Female,16.0,5.0
+1973, ,,,Metro,Own,Yes,,,4.0
+1974, ,,,Non-metro,Own,Yes,,,5.0
+1975,1,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+1976,1,Straight,No,Metro,Own,Yes,Female,16.0,4.0
+1980, ,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+1982, ,,,Metro,Own,Yes,,,3.0
+1983, ,Something else,No,Metro,Rent,Yes,Female,13.0,4.0
+1984, ,,,Non-metro,Own,No,,,6.0
+1986,2,Straight,No,Non-metro,Own,Yes,Male,14.0,1.0
+1989,2,Straight,No,Metro,Rent,Yes,Female,16.0,6.0
+1991, ,,,Metro,Rent,No,,,5.0
+1992, ,Straight,No,Metro,Own,Yes,Female,16.0,3.0
+1993, ,,,Metro,Rent,No,,,3.0
+1994, ,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+1995, ,,,Metro,Rent,Yes,,,3.0
+1996, ,Straight,No,Metro,Own,Yes,Male,15.0,7.0
+2000, ,,,Metro,Neither,No,,,3.0
+2002, ,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+2003, ,Not sure,No,Metro,Rent,Yes,Male,15.0,4.0
+2004, ,Straight,No,Metro,Own,Yes,Male,15.0,4.0
+2005, ,,,Non-metro,Own,No,,,1.0
+2006, ,,,Metro,Rent,Yes,,,4.0
+2007, ,,,Non-metro,Rent,No,,,5.0
+2008, ,Straight,No,Metro,Rent,Yes,Male,15.0,6.0
+2009, ,Straight,No,Metro,Own,No,Female,16.0,6.0
+2013,1,Straight,No,Metro,Own,No,Male,17.0,5.0
+2014, ,Straight,No,Non-metro,Own,Yes,Male,14.0,5.0
+2017, ,,,Metro,Own,Yes,,,4.0
+2018, ,Straight,No,Metro,Rent,Yes,Female,17.0,4.0
+2019, ,Straight,No,Metro,Own,Yes,Female,17.0,4.0
+2020, ,,,Metro,Own,Yes,,,4.0
+2021, ,Straight,No,Metro,Own,Yes,Male,14.0,5.0
+2022, ,,,Metro,Own,Yes,Female,13.0,3.0
+2024, ,,,Non-metro,Own,No,,,2.0
+2025, ,Not sure,No,Metro,Rent,Yes,Female,14.0,4.0
+2027, ,Straight,No,Metro,Own,Yes,Male,14.0,5.0
+2028, ,Straight,No,Metro,Own,Yes,Male,14.0,5.0
+2030, ,Straight,No,Metro,Own,Yes,Female,14.0,4.0
+2031, ,,,Metro,Own,Yes,,,4.0
+2032, ,Straight,No,Metro,Own,Yes,Female,13.0,7.0
+2035, ,Straight,No,Metro,Rent,Yes,Female,14.0,3.0
+2036, ,,,Metro,Own,Yes,,,4.0
+2037,2,Straight,No,Metro,Own,No,Female,17.0,3.0
+2038, ,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+2039, ,,,Metro,Rent,No,,,5.0
+2040, ,Straight,No,Metro,Own,Yes,Male,15.0,2.0
+2042, ,,,Metro,Own,Yes,,,5.0
+2043,1,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+2045, ,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+2047, ,Straight,No,Metro,Own,Yes,Female,15.0,3.0
+2048, ,Straight,,Metro,Own,Yes,Female,17.0,4.0
+2050,2,Straight,No,Metro,Neither,Yes,Female,15.0,3.0
+2051, ,Straight,No,Metro,Own,Yes,Male,17.0,4.0
+2052,1,Gay or Lesbian,No,Metro,Rent,Yes,Male,16.0,3.0
+2053, ,Straight,No,Metro,Own,Yes,Male,16.0,6.0
+2054,1,Straight,No,Non-metro,Own,Yes,Female,15.0,4.0
+2056, ,,,Metro,Rent,Yes,,,5.0
+2057, ,,,Metro,Own,Yes,,,3.0
+2058, ,Straight,No,Non-metro,Rent,Yes,Female,16.0,3.0
+2062, ,Straight,No,Metro,Rent,Yes,Female,15.0,5.0
+2063,2,Straight,No,Metro,Own,Yes,Female,16.0,3.0
+2065,2,Straight,No,Metro,Rent,Yes,Male,16.0,4.0
+2066, ,Straight,Yes,Metro,Own,Yes,Male,13.0,3.0
+2067, ,Straight,No,Non-metro,Own,Yes,Female,16.0,3.0
+2068, ,,,Metro,Own,Yes,,,3.0
+2069, ,,,Metro,Own,No,Female,17.0,3.0
+2071, ,,,Metro,Rent,Yes,,,5.0
+2072, ,Straight,No,Metro,Own,Yes,Female,16.0,3.0
+2074,2,Straight,No,Metro,Rent,Yes,Male,14.0,6.0
+2078, ,,,Metro,Own,Yes,,,4.0
+2079, ,Straight,No,Metro,Own,Yes,Female,14.0,3.0
+2080, ,Straight,No,Metro,Own,Yes,Female,15.0,3.0
+2082, ,,,Metro,Rent,Yes,Female,15.0,2.0
+2083,2,Straight,No,Metro,Rent,Yes,Female,13.0,3.0
+2084, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+2085,2,Straight,No,Metro,Own,Yes,Female,15.0,4.0
+2086,2,Not sure,No,Metro,Own,Yes,Male,13.0,4.0
+2087, ,,,Metro,Rent,Yes,Male,15.0,2.0
+2088, ,,,Metro,Own,Yes,,,6.0
+2089, ,Straight,No,Metro,Own,Yes,Male,13.0,3.0
+2090,2,Straight,No,Metro,Rent,Yes,Female,15.0,2.0
+2091, ,,,Non-metro,Own,Yes,,,3.0
+2092, ,,,Non-metro,Own,Yes,,,5.0
+2093, ,,,Metro,Own,Yes,,,5.0
+2094,2,Straight,No,Metro,Own,Yes,Male,13.0,4.0
+2095, ,Straight,No,Non-metro,Own,No,Female,14.0,2.0
+2096, ,,,Metro,Rent,Yes,,,4.0
+2097,1,Straight,No,Metro,Rent,Yes,Male,17.0,3.0
+2098,1,Bisexual,No,Metro,Own,Yes,Female,16.0,4.0
+2100, ,Straight,No,Metro,Own,Yes,Male,13.0,3.0
+2101, ,,,Metro,Own,Yes,,,5.0
+2102, ,Straight,No,Metro,Own,Yes,Male,17.0,5.0
+2103, ,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+2104, ,Straight,No,Metro,Rent,Yes,Male,14.0,3.0
+2105, ,Straight,No,Metro,Own,Yes,Female,13.0,4.0
+2106, ,,,Non-metro,Own,Yes,,,8.0
+2107, ,,,Metro,Rent,Yes,Male,17.0,10.0
+2109, ,,,Metro,Own,Yes,,,4.0
+2111, ,,,Metro,Own,Yes,,,2.0
+2112, ,Straight,No,Metro,Rent,Yes,Male,15.0,3.0
+2113,1,Straight,No,Metro,Own,Yes,Male,16.0,6.0
+2115, ,Straight,No,Non-metro,Own,Yes,Female,16.0,2.0
+2116, ,Straight,No,Metro,Own,Yes,Male,15.0,3.0
+2117, ,,No,Metro,Own,Yes,Male,13.0,3.0
+2118, ,,,Metro,Own,Yes,Female,14.0,4.0
+2119, ,,,Metro,Own,Yes,,,4.0
+2120, ,Straight,No,Metro,Neither,Yes,Male,13.0,10.0
+2122, ,Straight,No,Metro,Own,Yes,Male,16.0,4.0
+2125,1,Straight,No,Metro,Rent,Yes,Female,14.0,4.0
+2126,1,Straight,No,Metro,Own,Yes,Male,13.0,2.0
+2127, ,Straight,No,Metro,Own,Yes,Male,14.0,7.0
+2129,2,Straight,No,Metro,Rent,Yes,Male,14.0,4.0
+2130,2,Straight,No,Metro,Own,Yes,Female,15.0,2.0
+2131,2,Straight,No,Metro,Rent,Yes,Male,16.0,3.0
+2132, ,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+2133, ,Straight,No,Metro,Own,Yes,Female,15.0,6.0
+2134, ,,,Metro,Rent,Yes,,,3.0
+2137, ,,,Metro,Own,Yes,,,4.0
+2139, ,Straight,No,Metro,Own,Yes,Male,17.0,2.0
+2141, ,,,Metro,Own,No,,,4.0
+2143, ,,,Metro,Own,Yes,,,4.0
+2144, ,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+2146,1,Straight,No,Metro,Rent,Yes,Female,16.0,4.0
+2148, ,Straight,No,Metro,Own,Yes,Male,17.0,3.0
+2151, ,Straight,No,Metro,Rent,Yes,Male,13.0,3.0
+2152, ,,,Metro,Own,Yes,,,2.0
+2155, ,,,Metro,Rent,Yes,,,2.0
+2157, ,,,Metro,Own,Yes,,,3.0
+2158, ,,,Metro,Own,Yes,,,3.0
+2159,2,Straight,No,Metro,Rent,Yes,Male,16.0,6.0
+2160, ,Straight,No,Non-metro,Rent,No,Male,15.0,4.0
+2161, ,Straight,No,Metro,Own,Yes,Male,15.0,6.0
+2163, ,Straight,No,Metro,Rent,Yes,Male,16.0,2.0
+2165, ,Straight,No,Metro,Own,Yes,Female,16.0,3.0
+2167, ,,,Non-metro,Rent,No,,,3.0
+2168,2,Straight,No,Metro,Rent,Yes,Female,16.0,4.0
+2170, ,Straight,No,Non-metro,Own,Yes,Female,15.0,3.0
+2172, ,,,Metro,Own,Yes,,,4.0

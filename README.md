@@ -1,16 +1,10 @@
-## Group project for COMM318 _Stories from data_ (Fall 21)
+## Romantic Relationships in the Modern Age 
 
-* You will edit this file to act as the main index page for your project 
+#### Project Overview:
 
-* Change the title and write an overview of your project and description of the content.
 
-<div style="background-color: #f0f0ff; font-size: 18px">
-    
-    <h1>PLEASE UPDATE THIS FILE</h1>
- 
-    <ul>
-        <li>Change the title </li>
-        <li>Add a summary paragraph re your project focus</li>
-        <li>Describe the structure of the folders</li>
-    </ul>
-</div>
+#### Content
+* The "data" folder contains raw and clean data files 
+* The "data_analysis" folder contains notebooks documenting our data cleaning and data analyses
+* The "final_data_story" folder contains our final project
+* The "presentations" folder contains our intial and final project presentations 

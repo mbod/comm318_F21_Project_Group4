@@ -1,0 +1,1643 @@
+Unnamed: 0,parent_knowledge_status,parentcontrol,sexualexperience,serious_relationship,notserious_relationship,meeting_online_experience,online_and_never_met,socialmedia_interested_interactedsm,socialmedia_interested_friendedsm,interested_friendedsm,interested_text,interested_video,interested_music,interested_sexypics,interested_inperson,interested_other,search_information_current,friended_setup,search_information_past,askout_text,askout_inperson,askout_phone,askout_dm,askout_friendasked,askout_wait,askout_other,shared_passwords,time_outsideschoool,time_phone,time_text,time_online,time_videochat,time_email,time_socialmediapost,time_messagingapps,shareonline_location,shareonline_activity,shareonline_thoughts,shareonline_friends,shareonline_school,shareonline_health,shareonline_family,shareonline_politics,shareonline_religion,shareonline_funny,pparent_knowledge_status
+0,2,,yes,no,no,none,,1,no,yes,no,no,no,no,yes,no,yes,yes,no,no,yes,no,no,yes,no,no,,every_few_days,less_often,everyday,every_few_days,never,never,every_few_days,everyday,no,yes,yes,,yes,no,,no,no,yes,no
+1,2,,no,,,,, ,,yes,no,no,yes,no,yes,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,not_sure
+3,0,,,,,,,0,,yes,yes,no,no,no,no,yes,no,no,yes,,,,yes,,,yes,,,every_few_days,every_few_days,,never,every_few_days,never,every_few_days,,,no,,no,yes,,yes,,yes,
+4,2,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+5,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+6,1,limit_time,yes,yes,,none,,2,no,no,yes,no,no,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,every_few_days,less_often,every_few_days,never,every_few_days,never,never,every_few_days,yes,yes,yes,,yes,yes,yes,no,yes,yes,yes
+7,3,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,not_sure
+8,2,,no,,,,,2,no,no,no,no,no,no,no,no,yes,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+9, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,1,do_not_limit,yes,yes,,none,,1,yes,yes,yes,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,yes,no,no,no,every_few_days,everyday,everyday,less_often,less_often,less_often,every_few_days,less_often,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+12,2,,no,,,,,1,yes,yes,yes,no,yes,no,yes,no,yes,yes,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+13,2,,yes,yes,,none,,1,yes,yes,yes,yes,no,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,everyday,everyday,everyday,everyday,less_often,everyday,yes,yes,yes,,no,yes,yes,no,no,yes,no
+14, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,1,do_not_limit,no,,,,, ,,yes,no,no,yes,no,no,no,yes,,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+17,2,,no,,,,,2,no,no,yes,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+18,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+19, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,2,,,,,,,1,yes,yes,yes,no,no,no,yes,no,yes,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+21,2,,yes,no,no,none,,2,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,less_often,every_few_days,every_few_days,never,never,every_few_days,less_often,never,no,no,no,,yes,no,no,no,no,yes,no
+22,1,limit_time,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes
+23,1,limit_time,yes,yes,,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,every_few_days,everyday,everyday,everyday,never,never,everyday,everyday,yes,yes,yes,,no,yes,yes,no,no,yes,yes
+24,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+25,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+26,1,do_not_limit,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+27,2,,no,,,,,2,yes,no,no,no,no,no,yes,no,no,no,,no,yes,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+28,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+29,2,,yes,yes,,none,,1,yes,yes,yes,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,no,no,no,yes,every_few_days,less_often,everyday,every_few_days,everyday,never,less_often,never,no,no,no,,no,no,no,no,no,yes,no
+30, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+32,2,,no,,,,,2,no,no,no,no,no,no,yes,no,yes,yes,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+33,2,,no,,,,,1,yes,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+34, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+36, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,2,,yes,no,no,none,,1,yes,yes,no,no,no,no,yes,no,yes,yes,no,no,yes,no,no,no,yes,no,no,every_few_days,every_few_days,every_few_days,every_few_days,every_few_days,every_few_days,every_few_days,every_few_days,yes,no,yes,,no,no,yes,no,yes,yes,no
+38,1,do_not_limit,yes,yes,,none,,1,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,every_few_days,everyday,everyday,less_often,less_often,less_often,every_few_days,everyday,yes,no,no,,no,no,no,no,no,yes,yes
+39, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,2,,yes,no,yes,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,every_few_days,every_few_days,every_few_days,every_few_days,never,never,every_few_days,never,yes,yes,yes,,yes,yes,yes,no,yes,yes,no
+41,1,do_not_limit,yes,yes,,one,yes,1,yes,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,never,every_few_days,less_often,every_few_days,never,less_often,everyday,,yes,yes,yes,,no,no,no,no,no,yes,yes
+42,1,do_not_limit,no,,,,,2,yes,no,no,yes,yes,yes,no,yes,no,yes,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,yes
+43,2,,no,,,,,1,yes,no,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+44, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46,3,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+47, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+49,2,,no,,,,,2,yes,no,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+50,2,,no,,,,, ,,yes,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+51, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54,2,,yes,,,none,,1,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,everyday,everyday,every_few_days,every_few_days,everyday,every_few_days,everyday,everyday,no,no,yes,,yes,no,yes,yes,yes,no,no
+55,1,limit_time,yes,yes,,none,,1,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,every_few_days,never,less_often,everyday,never,never,everyday,never,yes,yes,yes,,yes,no,no,no,yes,yes,yes
+56, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+58,1,limit_time,no,,,,,2,yes,no,yes,no,no,no,yes,no,no,no,,yes,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,yes
+59, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60,2,,no,,,,,2,yes,yes,no,no,no,no,no,no,no,no,,yes,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+61,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+62,2,,no,,,,, ,,yes,yes,no,no,no,yes,no,no,,,no,yes,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+63,3,,no,,,,,2,yes,no,yes,no,no,yes,yes,no,no,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+64, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66,1,limit_time,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+67,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+68,1,limit_time,yes,yes,,none,,1,yes,no,yes,no,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,every_few_days,less_often,everyday,never,every_few_days,never,every_few_days,never,no,no,no,,no,no,no,no,no,no,yes
+69,1,do_not_limit,yes,no,yes,none,,1,yes,yes,yes,no,yes,no,yes,no,no,no,no,yes,yes,no,no,yes,no,no,no,every_few_days,every_few_days,everyday,everyday,never,never,never,never,yes,yes,yes,,yes,no,no,no,no,yes,yes
+70,3,,yes,no,no,one,no,1,yes,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,no,no,no,yes,no,no,less_often,less_often,everyday,never,never,never,every_few_days,everyday,yes,yes,yes,,yes,no,yes,yes,yes,yes,not_sure
+71,2,,yes,yes,,one,no,1,yes,yes,yes,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,every_few_days,everyday,everyday,everyday,every_few_days,never,everyday,everyday,yes,yes,no,,yes,yes,yes,no,no,yes,no
+72, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+73,2,,yes,yes,,none,,1,no,yes,yes,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,less_often,less_often,everyday,everyday,every_few_days,less_often,less_often,never,yes,yes,yes,,yes,no,yes,no,no,yes,no
+74,1,,yes,yes,,none,,1,yes,yes,yes,yes,yes,yes,no,no,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,every_few_days,every_few_days,everyday,everyday,every_few_days,everyday,every_few_days,everyday,yes,yes,yes,,yes,yes,yes,yes,yes,yes,yes
+75,1,do_not_limit,yes,yes,,none,,1,yes,yes,yes,yes,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,less_often,everyday,everyday,everyday,never,less_often,everyday,everyday,yes,yes,yes,,yes,no,no,no,no,yes,yes
+76, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+77, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+78, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+80,2,,no,,,,,2,no,no,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+81,2,,no,,,,,1,yes,yes,no,yes,yes,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+82, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+83, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+84,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+85,1,limit_time,yes,,,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,everyday,never,less_often,never,every_few_days,less_often,yes,yes,yes,,yes,yes,no,no,no,yes,yes
+86,2,,no,,,,, ,,yes,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+87,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+88,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+89,1,limit_time,yes,yes,,none,,1,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,everyday,everyday,everyday,every_few_days,less_often,less_often,everyday,less_often,yes,yes,yes,,yes,yes,yes,yes,yes,yes,yes
+90, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+91,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+92,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+93, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94,2,,no,,,,, ,,yes,yes,no,no,no,yes,no,no,,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+95,2,,yes,no,no,none,,1,yes,no,yes,no,no,no,yes,no,yes,yes,no,yes,no,yes,no,no,no,no,no,every_few_days,every_few_days,every_few_days,every_few_days,every_few_days,less_often,less_often,less_often,yes,yes,yes,,no,no,no,no,no,yes,no
+96, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+97,2,,yes,no,no,none,,1,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,every_few_days,everyday,everyday,never,never,never,less_often,never,yes,yes,no,,yes,no,no,no,no,yes,no
+98,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+99,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+100,1,limit_time,yes,yes,,none,,1,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,yes,no,no,no,no,no,no,every_few_days,everyday,everyday,everyday,every_few_days,everyday,everyday,less_often,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+101,2,,no,,,,,1,yes,no,no,no,no,no,yes,no,no,yes,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+102,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,yes,,yes,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+103, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+105,1,do_not_limit,yes,yes,,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,everyday,less_often,never,never,less_often,less_often,yes,yes,yes,,yes,yes,no,no,no,yes,yes
+106,2,,yes,no,no,none,, ,,no,no,no,no,no,yes,no,yes,,no,no,no,no,no,no,no,yes,no,less_often,never,never,never,never,less_often,,never,no,no,no,,no,no,no,no,no,no,no
+107,3,,yes,yes,,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,every_few_days,everyday,every_few_days,every_few_days,never,everyday,every_few_days,never,yes,yes,yes,,yes,yes,yes,no,no,yes,not_sure
+108, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+109,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+110,2,,no,,,,, ,,yes,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+111,2,,yes,no,yes,none,,1,yes,yes,no,no,no,no,yes,no,yes,no,yes,no,yes,yes,no,no,no,no,no,every_few_days,every_few_days,every_few_days,every_few_days,less_often,every_few_days,less_often,never,yes,yes,yes,,no,no,no,no,no,yes,no
+112,2,,yes,no,no,none,, ,,yes,yes,no,no,no,yes,no,no,,no,yes,yes,no,no,yes,no,no,no,everyday,everyday,everyday,every_few_days,every_few_days,never,,everyday,yes,yes,yes,,yes,no,no,no,no,yes,no
+113, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+114,3,,yes,no,yes,none,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,never,never,everyday,everyday,never,never,never,never,yes,yes,yes,,no,no,no,no,no,yes,not_sure
+115,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+116,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+117,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,yes,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+118,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+119, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+120,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+121,3,,yes,no,yes,none,,1,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,no,no,no,no,no,no,yes,less_often,every_few_days,everyday,less_often,never,never,never,never,no,no,no,,no,no,no,no,no,no,not_sure
+122,1,limit_time,yes,no,no,2-5,yes,1,yes,yes,yes,no,yes,yes,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,every_few_days,every_few_days,everyday,never,every_few_days,never,less_often,every_few_days,yes,yes,yes,,no,yes,yes,no,no,yes,yes
+123, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+124,2,,no,,,,, ,,no,yes,no,no,no,yes,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+125,2,,yes,no,no,none,,1,yes,no,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,yes,no,no,no,no,no,every_few_days,less_often,everyday,never,never,never,less_often,,no,no,no,,no,no,no,no,no,no,no
+126,2,,no,,,,,2,yes,yes,no,no,no,no,no,no,yes,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+127,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+128,0,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,every_few_days,,never,everyday,everyday,every_few_days,,,no,,no,yes,,,,yes,
+129,2,,no,,,,, ,,yes,no,yes,yes,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+130,3,,yes,yes,,none,,1,yes,no,yes,no,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,no,no,no,everyday,every_few_days,everyday,never,less_often,less_often,everyday,never,no,yes,yes,,yes,no,no,no,no,yes,not_sure
+131,2,,yes,no,no,none,, ,,no,yes,no,no,no,yes,no,yes,,yes,no,yes,no,no,no,no,no,no,less_often,less_often,everyday,never,never,every_few_days,,never,yes,yes,yes,,no,no,no,no,no,yes,no
+132, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+133,1,do_not_limit,yes,yes,,none,, ,,no,no,no,no,no,yes,no,,,no,no,yes,no,no,no,no,no,no,every_few_days,less_often,everyday,every_few_days,never,every_few_days,,never,yes,yes,yes,,yes,no,yes,no,no,yes,yes
+134,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,yes,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+135,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+136, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+137,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,yes,,,,,,,,,,,,,,,,,,,,no
+138, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+139, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+140,1,do_not_limit,yes,yes,,one,yes,1,yes,no,yes,no,no,no,yes,yes,no,yes,yes,yes,yes,no,yes,yes,no,no,no,everyday,never,everyday,everyday,never,never,every_few_days,everyday,yes,yes,yes,,yes,yes,yes,yes,yes,yes,yes
+141, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+142, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+143,2,,no,,,,,1,yes,no,no,no,no,no,yes,no,no,yes,,yes,no,no,yes,yes,yes,no,,,,,,,,,,,,,,,,,,,,no
+144,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,yes,no,no,no,yes,yes,,,,,,,,,,,,,,,,,,,,no
+145, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147,2,,no,,,,,2,no,no,yes,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+148, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+149, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+150,2,,yes,no,no,none,,1,yes,yes,no,no,no,no,yes,no,yes,yes,no,yes,no,no,no,yes,yes,no,no,every_few_days,every_few_days,every_few_days,every_few_days,less_often,less_often,every_few_days,less_often,no,yes,no,,no,no,no,no,yes,yes,no
+151,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+152,1,do_not_limit,yes,no,yes,2-5,yes,1,yes,yes,yes,no,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,no,yes,everyday,less_often,everyday,everyday,less_often,less_often,everyday,everyday,yes,yes,yes,,yes,yes,yes,yes,yes,yes,yes
+153,1,do_not_limit,yes,yes,,none,,1,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no,yes,every_few_days,everyday,everyday,never,never,never,never,never,no,no,no,,no,no,no,no,no,no,yes
+154, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+155, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+156,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+157, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+158,1,do_not_limit,yes,yes,,one,no,2,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,no,no,yes,no,no,yes,no,no,everyday,every_few_days,less_often,never,every_few_days,less_often,every_few_days,less_often,no,no,yes,,no,yes,no,yes,no,yes,yes
+159, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+160,2,,yes,no,no,one,no,1,yes,yes,yes,no,yes,yes,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,yes,everyday,everyday,everyday,everyday,everyday,every_few_days,everyday,everyday,yes,yes,yes,,yes,yes,yes,no,no,yes,no
+161,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,never,never,never,never,never,never,never,,yes,yes,yes,,yes,no,yes,no,no,yes,no
+162,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+163,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+164,2,,no,,,,, ,,yes,yes,no,no,no,yes,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+165, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+166,2,,yes,no,no,none,,1,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,yes,no,no,yes,yes,no,no,every_few_days,every_few_days,everyday,everyday,less_often,never,less_often,everyday,yes,yes,yes,,yes,no,no,no,no,yes,no
+167,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+168,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+169,1,do_not_limit,no,,,,,1,yes,no,no,no,no,no,no,no,yes,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,yes
+170,2,,no,,,,,2,yes,no,no,no,no,no,yes,no,yes,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+171, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+172,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+173,1,do_not_limit,yes,yes,,one,no,1,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,less_often,less_often,everyday,everyday,every_few_days,less_often,less_often,every_few_days,yes,yes,yes,,no,no,yes,no,no,yes,yes
+174,3,,yes,no,yes,none,,1,yes,yes,yes,no,yes,no,yes,no,yes,yes,yes,no,yes,no,no,no,no,no,no,less_often,every_few_days,everyday,less_often,less_often,every_few_days,less_often,every_few_days,yes,yes,yes,,yes,yes,no,no,no,yes,not_sure
+175,1,do_not_limit,yes,yes,,one,no,1,yes,no,yes,no,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,everyday,never,never,never,every_few_days,never,yes,yes,yes,,no,no,no,no,no,yes,yes
+176, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+177,2,,yes,no,no,none,,1,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no,no,no,no,no,every_few_days,everyday,everyday,everyday,never,never,everyday,everyday,yes,yes,yes,,yes,yes,yes,yes,yes,yes,no
+178,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,yes,yes,,no,no,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+179, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+180,1,do_not_limit,yes,yes,,2-5,no,1,yes,yes,yes,no,no,no,yes,no,yes,yes,no,no,yes,no,no,no,no,no,yes,everyday,everyday,everyday,every_few_days,every_few_days,less_often,every_few_days,never,yes,yes,yes,,yes,no,no,no,no,yes,yes
+181,1,do_not_limit,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+182,2,,no,,,,,1,yes,no,no,no,no,no,yes,no,yes,no,,yes,no,no,yes,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+183,2,,no,,,,,2,yes,no,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+184,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+185,2,,yes,no,no,none,,2,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,never,never,never,never,never,never,never,never,no,no,no,,no,no,no,no,no,no,no
+186,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+187,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+188, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+189,2,,yes,yes,,none,,2,no,yes,yes,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,no
+190,3,,no,,,,,2,yes,no,no,no,no,no,no,no,yes,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,not_sure
+191,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,yes,yes,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+192, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+193,2,,yes,no,no,one,no,1,no,yes,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,everyday,everyday,everyday,everyday,less_often,never,less_often,never,yes,yes,yes,,yes,yes,yes,no,no,yes,no
+194,1,limit_time,no,,,,, ,,no,no,no,yes,no,no,no,no,,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+195, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+196,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,yes,no,,yes,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+197,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,yes,yes,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+198,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,no,no,no,no,no,yes,no,yes,every_few_days,everyday,everyday,less_often,less_often,never,every_few_days,less_often,yes,yes,yes,,yes,yes,yes,yes,yes,yes,no
+199,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+200,1,limit_time,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,yes
+201,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+202, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+203,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+204,2,,no,,,,,1,yes,yes,no,no,yes,no,no,yes,no,no,,yes,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+205, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+206,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,every_few_days,everyday,everyday,never,never,never,less_often,less_often,yes,yes,no,,no,no,no,no,no,no,no
+207,3,,yes,yes,,2-5,yes,1,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,no,no,yes,no,no,no,no,never,everyday,everyday,everyday,everyday,everyday,everyday,everyday,yes,yes,yes,,no,no,yes,no,no,yes,not_sure
+208, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+209, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+210,1,do_not_limit,yes,yes,,none,,2,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,less_often,every_few_days,everyday,never,every_few_days,every_few_days,less_often,never,yes,yes,yes,,no,yes,yes,no,no,yes,yes
+211, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+212,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,no,yes,yes,no,yes,no,no,no,no,every_few_days,less_often,everyday,everyday,less_often,every_few_days,everyday,everyday,yes,yes,yes,,yes,no,yes,no,no,yes,no
+213,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,yes,yes,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+214,1,limit_time,no,,,,,1,yes,yes,yes,yes,yes,yes,yes,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+215,2,,yes,no,no,none,,1,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,every_few_days,never,everyday,never,never,never,less_often,never,no,no,no,,no,no,no,no,no,no,no
+216,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+217,2,,yes,no,no,none,,1,yes,yes,yes,no,yes,no,yes,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,every_few_days,never,everyday,less_often,never,never,never,never,yes,yes,yes,,yes,no,yes,no,no,yes,no
+218,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+219,2,,no,,,,, ,,yes,no,no,no,no,yes,no,no,,,no,yes,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+220,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+221,2,,yes,no,no,none,,1,yes,yes,yes,no,no,yes,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,every_few_days,less_often,every_few_days,less_often,less_often,never,every_few_days,never,no,no,no,,yes,no,yes,no,no,yes,no
+222, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+223, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+225,2,,yes,no,no,none,,2,yes,no,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,everyday,never,never,never,less_often,never,yes,yes,yes,,yes,no,no,no,no,yes,no
+226, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+227,1,limit_time,no,,,,,1,yes,no,no,no,no,no,yes,no,yes,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+228, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+229,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,yes,no,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+230,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,yes,every_few_days,everyday,everyday,never,never,never,less_often,never,yes,yes,yes,,yes,no,yes,no,yes,yes,no
+231,2,,no,,,,, ,,no,yes,no,no,no,yes,no,no,,,yes,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+232, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+233, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+234,1,do_not_limit,yes,no,yes,none,,1,yes,yes,yes,no,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,less_often,every_few_days,everyday,every_few_days,less_often,never,less_often,less_often,yes,no,yes,,yes,yes,no,no,no,yes,yes
+235,2,,yes,no,yes,one,no,2,yes,yes,yes,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,no,every_few_days,less_often,everyday,every_few_days,less_often,never,never,,yes,yes,yes,,yes,yes,yes,no,yes,yes,no
+236,1,limit_time,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+237, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+238,3,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,not_sure
+239,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+240, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+241, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+242,2,,no,,,,,2,yes,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+243,1,limit_time,yes,yes,,none,,1,yes,yes,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,every_few_days,every_few_days,everyday,less_often,never,never,less_often,never,no,yes,yes,,no,no,no,no,no,yes,yes
+244,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,no,no,no,less_often,less_often,every_few_days,every_few_days,less_often,less_often,every_few_days,every_few_days,yes,yes,yes,,yes,no,yes,no,no,yes,no
+245,2,,no,,,,,2,yes,yes,no,no,no,no,yes,no,no,no,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+246, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+247,1,do_not_limit,no,,,,,2,yes,no,yes,no,no,no,yes,no,yes,no,,yes,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+248, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+249,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,no,no,no,yes,yes,no,,,,,,,,,,,,,,,,,,,,no
+250,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+251,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+252,2,,no,,,,,1,yes,no,no,no,no,no,no,no,yes,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+253,2,,yes,no,no,none,,2,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,everyday,everyday,never,never,never,everyday,yes,yes,yes,,yes,yes,yes,yes,yes,yes,no
+254, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+255,2,,no,,,,,2,no,no,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+256,2,,no,,,,,1,yes,yes,yes,no,yes,no,yes,no,yes,yes,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+257, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+258,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+259,1,do_not_limit,yes,yes,,none,,1,yes,yes,yes,no,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no,yes,every_few_days,everyday,everyday,never,never,never,less_often,never,yes,yes,yes,,no,no,no,no,no,no,yes
+260,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+261,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+262, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+263,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+264, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+265,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+266,2,,no,,,,,2,yes,no,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+267,3,,yes,yes,,none,, ,,yes,no,yes,no,no,yes,no,yes,,no,no,yes,no,no,no,no,no,no,never,every_few_days,everyday,every_few_days,every_few_days,never,,everyday,yes,yes,yes,,yes,yes,yes,no,no,yes,not_sure
+268, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+269, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+270, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+271,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+272,1,limit_time,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+273,1,limit_time,yes,yes,,none,,1,yes,yes,yes,no,no,yes,yes,no,no,no,no,yes,no,yes,no,no,yes,no,no,every_few_days,everyday,everyday,every_few_days,every_few_days,never,less_often,never,yes,yes,yes,,no,yes,yes,no,no,yes,yes
+274,3,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+275, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+276, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+277, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+278, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+279,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+280,2,,no,,,,,2,no,yes,no,no,no,no,yes,no,yes,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+281,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+282, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+283, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+284,2,,no,,,,,2,yes,no,no,no,no,no,no,no,no,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+285,2,,no,,,,, ,,no,no,no,no,no,yes,no,yes,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+286, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+287, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+288,1,limit_time,no,,,,,1,yes,no,no,no,no,no,no,no,no,no,,yes,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+289,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+290,2,,yes,no,no,one,no,1,yes,yes,yes,no,yes,yes,yes,,yes,yes,no,no,no,no,no,no,yes,no,no,less_often,every_few_days,everyday,every_few_days,everyday,less_often,every_few_days,every_few_days,yes,yes,yes,,yes,yes,yes,yes,yes,yes,no
+291, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+292,2,,no,,,,, ,,yes,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+293,1,do_not_limit,yes,no,no,one,no,1,yes,yes,yes,no,yes,no,yes,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,no,every_few_days,every_few_days,everyday,everyday,never,never,everyday,,yes,yes,yes,,no,no,yes,no,yes,no,yes
+294,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+295,1,limit_time,yes,yes,,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,every_few_days,everyday,everyday,every_few_days,less_often,never,everyday,everyday,yes,yes,yes,,yes,no,no,no,no,yes,yes
+296, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+297,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+298, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+299,2,,no,,,,,1,no,yes,yes,no,no,no,yes,no,yes,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+300,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+301, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+302, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+303,2,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+304,2,,no,,,,,2,yes,no,no,no,no,no,no,no,no,no,,no,no,yes,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+305,2,,yes,no,yes,none,,1,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,everyday,never,never,never,less_often,never,yes,yes,yes,,yes,no,no,no,no,yes,no
+306, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+307,2,,no,,,,,2,yes,no,no,no,no,no,no,no,no,no,,no,yes,yes,no,yes,yes,no,,,,,,,,,,,,,,,,,,,,no
+308,1,do_not_limit,yes,yes,,none,,2,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,everyday,everyday,everyday,everyday,never,never,everyday,never,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+309, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+311,2,,yes,no,no,5+,yes,2,no,yes,yes,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,never,never,never,never,never,never,never,everyday,yes,yes,yes,,yes,yes,yes,no,yes,yes,no
+312,1,limit_time,yes,yes,,none,,1,yes,yes,yes,no,no,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,less_often,everyday,everyday,less_often,less_often,less_often,every_few_days,less_often,yes,yes,yes,,yes,no,no,no,no,yes,yes
+313, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+314,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,yes,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+315, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+316,2,,yes,no,no,none,,2,yes,yes,yes,no,no,no,yes,,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,every_few_days,everyday,everyday,everyday,every_few_days,less_often,everyday,everyday,yes,yes,yes,,yes,yes,yes,no,yes,yes,no
+317,3,,no,,,,,1,yes,yes,no,no,no,no,yes,no,yes,yes,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,not_sure
+318,2,,yes,no,no,2-5,no,1,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,every_few_days,everyday,everyday,everyday,less_often,everyday,everyday,everyday,yes,yes,yes,,yes,no,yes,no,yes,yes,no
+319,1,limit_time,yes,no,yes,none,,1,yes,yes,yes,no,no,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,less_often,everyday,everyday,everyday,everyday,never,everyday,never,yes,yes,yes,,no,no,yes,no,no,yes,yes
+320, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+321, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+322,2,,no,,,,, ,,yes,no,no,no,no,yes,no,yes,,,yes,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+323,2,,no,,,,,1,yes,yes,no,no,no,no,yes,yes,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+324,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,no,no,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+325,3,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+326,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+327,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+328, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+329, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+330, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+331,2,,no,,,,,2,yes,no,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+332,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+333,1,limit_time,yes,yes,,none,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,yes,no,yes,yes,no,yes,no,no,every_few_days,every_few_days,everyday,never,less_often,never,less_often,everyday,yes,yes,yes,,yes,yes,yes,yes,yes,yes,yes
+334,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+335,2,,no,,,,,1,yes,yes,yes,no,no,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+336,1,do_not_limit,yes,yes,,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,every_few_days,everyday,less_often,never,every_few_days,never,never,less_often,yes,yes,yes,,no,yes,no,no,no,yes,yes
+337,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+338,1,do_not_limit,yes,yes,,none,,1,yes,no,yes,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,everyday,everyday,every_few_days,never,less_often,less_often,yes,yes,yes,,no,no,yes,no,yes,yes,yes
+339, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+340,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+341,2,,no,,,,, ,,yes,no,no,no,no,yes,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+342,2,,no,,,,,1,yes,no,no,no,no,no,yes,no,no,no,,no,yes,yes,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+343,2,,yes,no,no,none,,1,yes,yes,yes,no,no,yes,yes,no,no,yes,no,yes,yes,no,no,yes,no,no,no,everyday,everyday,everyday,everyday,less_often,never,everyday,everyday,yes,yes,yes,,yes,no,yes,no,yes,yes,no
+344,2,,yes,no,no,none,,1,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,no,no,no,less_often,less_often,everyday,everyday,less_often,never,every_few_days,everyday,yes,yes,yes,,yes,no,no,no,no,yes,no
+345,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+346, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+347,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,yes,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+348,1,do_not_limit,no,,,,,1,no,yes,no,yes,yes,no,yes,no,no,no,,no,yes,yes,no,no,yes,no,,,,,,,,,,,,,,,,,,,,yes
+349, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+350,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,yes,yes,no,no,yes,no,no,no,everyday,every_few_days,every_few_days,never,never,never,less_often,never,yes,yes,yes,,yes,no,no,yes,no,yes,no
+351, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+352,2,,yes,no,no,none,,1,yes,yes,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,never,less_often,everyday,less_often,every_few_days,never,less_often,everyday,yes,yes,yes,,no,no,yes,no,yes,yes,no
+353, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+354,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+355,1,do_not_limit,yes,yes,,none,,1,yes,yes,yes,no,yes,no,yes,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,every_few_days,everyday,everyday,everyday,less_often,every_few_days,every_few_days,every_few_days,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+356,2,,no,,,,,1,yes,no,no,no,no,no,no,no,yes,yes,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+357,1,limit_time,yes,yes,,none,,1,yes,yes,no,yes,no,no,yes,no,yes,no,no,yes,yes,yes,no,no,no,no,no,everyday,everyday,everyday,every_few_days,less_often,less_often,everyday,never,yes,yes,yes,,yes,no,yes,no,no,yes,yes
+358,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+359, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+360,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,yes,yes,,yes,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+361,2,,yes,no,no,none,, ,,yes,yes,no,no,yes,yes,no,no,,no,no,no,no,no,no,yes,no,no,never,every_few_days,everyday,never,less_often,less_often,,never,no,yes,yes,,yes,yes,yes,no,no,yes,no
+362,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,everyday,everyday,everyday,everyday,never,less_often,everyday,never,yes,yes,yes,,yes,no,yes,no,no,yes,no
+363, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+364, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+365,2,,yes,no,no,none,,1,yes,yes,yes,no,yes,yes,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,everyday,everyday,everyday,never,never,everyday,every_few_days,never,yes,yes,yes,,yes,yes,yes,no,no,yes,no
+366,1,do_not_limit,yes,yes,,none,,1,yes,yes,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,less_often,everyday,everyday,everyday,everyday,less_often,less_often,never,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+367,3,,no,,,,,2,no,yes,yes,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+368,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+369,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+370,1,limit_time,yes,no,yes,none,,1,yes,yes,yes,yes,no,yes,yes,no,yes,yes,yes,yes,yes,no,yes,no,yes,no,no,every_few_days,less_often,everyday,never,never,never,less_often,less_often,yes,yes,yes,,no,yes,no,no,yes,yes,yes
+371,2,,yes,no,no,none,,1,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,never,every_few_days,everyday,every_few_days,less_often,never,less_often,never,yes,yes,yes,,yes,no,yes,no,no,yes,no
+372,2,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+373,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+374, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+375,2,,no,,,,,1,yes,no,no,no,no,no,no,no,yes,no,,yes,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+376,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+377,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+378,1,limit_time,yes,yes,,none,,1,yes,yes,yes,yes,no,no,yes,no,yes,yes,yes,no,no,no,no,no,yes,no,yes,less_often,everyday,everyday,every_few_days,less_often,never,every_few_days,never,yes,yes,yes,,no,yes,yes,no,no,yes,yes
+379, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+380,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+381,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+382,2,,no,,,,,1,yes,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+383, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+384, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+385, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+386,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+387,1,do_not_limit,yes,no,no,none,,1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,no,no,no,yes,never,never,never,never,never,never,never,never,yes,yes,yes,,yes,yes,yes,yes,yes,yes,yes
+388,2,,no,,,,,1,yes,no,no,no,no,no,yes,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+389,2,,yes,no,yes,none,,1,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes,no,no,no,no,no,less_often,less_often,everyday,never,never,never,less_often,never,no,no,no,,no,no,no,no,no,no,no
+390,3,,no,,,,, ,,yes,no,no,no,no,no,no,no,,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+391, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+392, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+393, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+394,2,,no,,,,,1,no,no,no,no,no,no,yes,no,yes,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+395,2,,no,,,,,2,no,no,no,no,no,no,yes,no,yes,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+396,2,,no,,,,, ,,yes,yes,no,yes,no,yes,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+397,2,,yes,no,no,none,,1,yes,yes,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,never,every_few_days,every_few_days,every_few_days,every_few_days,less_often,every_few_days,every_few_days,yes,no,yes,,yes,no,no,no,no,yes,no
+398,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,every_few_days,everyday,everyday,everyday,every_few_days,less_often,every_few_days,less_often,yes,yes,yes,,yes,yes,yes,no,no,yes,no
+399,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+400, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+401,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+402, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+403,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+404, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+405,2,,no,,,,,2,yes,yes,yes,no,no,no,no,no,yes,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+406,3,,yes,yes,,none,,2,yes,yes,yes,no,no,no,yes,no,yes,no,yes,yes,yes,yes,yes,no,no,no,no,never,every_few_days,everyday,everyday,every_few_days,never,everyday,everyday,no,no,yes,,yes,yes,yes,no,no,yes,not_sure
+407,1,limit_time,no,,,,, ,,yes,yes,no,no,no,yes,no,yes,,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,yes
+408,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+409, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+410,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,no,yes,no,no,no,yes,no,no,never,everyday,everyday,less_often,every_few_days,never,less_often,less_often,yes,yes,yes,,no,no,yes,no,no,yes,no
+411,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+412,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,yes,yes,yes,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+413, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+414,3,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,not_sure
+415,1,limit_time,no,,,,,1,yes,yes,yes,no,no,no,yes,no,yes,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+416,2,,no,,,,,2,no,no,no,no,no,no,no,no,yes,no,,yes,yes,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+417,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,yes,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+418,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+419, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+420,2,,no,,,,,2,no,yes,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+421,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+422,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+423, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+424, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+425,1,do_not_limit,yes,yes,,none,,1,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,everyday,less_often,everyday,less_often,never,never,less_often,less_often,yes,yes,no,,yes,no,no,no,no,yes,yes
+426, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+427,1,do_not_limit,yes,yes,,2-5,no,1,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,yes,everyday,everyday,everyday,less_often,every_few_days,less_often,less_often,less_often,yes,yes,yes,,yes,yes,yes,no,yes,yes,yes
+428, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+429, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+430,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+431,2,,no,,,,,1,yes,yes,no,no,yes,no,yes,no,no,yes,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+432,2,,no,,,,, ,,yes,yes,no,no,no,yes,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+433,3,,no,,,,,2,no,no,no,no,no,no,no,no,no,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+434,1,do_not_limit,yes,yes,,one,no,1,yes,yes,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,yes,everyday,everyday,everyday,every_few_days,never,never,every_few_days,never,yes,yes,yes,,yes,no,yes,no,no,yes,yes
+435,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,yes,no,yes,yes,no,,,,,,,,,,,,,,,,,,,,no
+436, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+437,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+438,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+439,2,,no,,,,,1,yes,no,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+440, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+441,2,,yes,no,no,none,,1,yes,yes,yes,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,everyday,everyday,everyday,less_often,never,less_often,everyday,less_often,yes,yes,yes,,no,yes,yes,no,yes,yes,no
+442, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+444, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+445,2,,no,,,,,1,no,yes,no,no,yes,no,no,no,yes,no,,no,no,yes,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+446,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,yes,no,,no,yes,no,no,yes,yes,no,,,,,,,,,,,,,,,,,,,,no
+447,1,limit_time,yes,yes,,none,, ,,yes,no,no,no,no,yes,no,no,,no,no,yes,no,no,no,no,no,no,less_often,every_few_days,everyday,everyday,never,less_often,,every_few_days,yes,yes,yes,,no,no,no,no,no,yes,yes
+448, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+450,1,do_not_limit,yes,yes,,none,,2,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,every_few_days,everyday,everyday,never,never,never,never,never,no,no,no,,no,no,no,no,no,no,yes
+451,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+452,3,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,no,,no,yes,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+453, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+454,3,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+455,2,,yes,no,no,none,,1,yes,yes,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,every_few_days,every_few_days,never,every_few_days,every_few_days,never,yes,yes,yes,,yes,no,no,no,no,yes,no
+456, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+457,2,,no,,,,, ,,yes,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+458, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+459,2,,yes,yes,,none,,1,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,every_few_days,every_few_days,everyday,every_few_days,never,never,never,never,yes,no,yes,,yes,no,no,no,yes,yes,no
+460,2,,yes,no,yes,none,,1,yes,yes,yes,yes,yes,no,yes,yes,yes,no,yes,yes,yes,yes,yes,no,no,no,yes,every_few_days,less_often,everyday,everyday,less_often,less_often,less_often,less_often,yes,yes,yes,,yes,yes,no,no,yes,yes,no
+461, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+462,2,,no,,,,,2,no,no,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+463,1,limit_time,yes,yes,,one,no, ,,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,no,yes,every_few_days,everyday,everyday,every_few_days,every_few_days,never,,never,yes,yes,yes,,no,yes,yes,no,no,yes,yes
+464,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,yes,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+465,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+466, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+467,1,limit_time,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,yes,no,no,no,no,no,no,no,every_few_days,every_few_days,everyday,everyday,everyday,less_often,less_often,every_few_days,no,yes,no,,no,no,no,no,no,yes,yes
+468,1,do_not_limit,yes,yes,,none,,1,yes,no,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,every_few_days,everyday,everyday,never,everyday,never,less_often,everyday,yes,yes,yes,,yes,yes,no,no,no,yes,yes
+469, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+470, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+471,3,,yes,yes,,2-5,no,1,no,yes,no,no,no,no,yes,no,,,,no,no,yes,no,no,no,no,no,less_often,less_often,less_often,less_often,less_often,never,less_often,less_often,yes,yes,yes,,yes,yes,yes,yes,yes,yes,not_sure
+472, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+473, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+474,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+475,1,do_not_limit,yes,yes,,one,yes,1,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no,yes,no,yes,no,yes,everyday,everyday,everyday,everyday,everyday,everyday,everyday,everyday,yes,yes,yes,,yes,yes,yes,yes,yes,yes,yes
+476, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+477,1,limit_time,yes,yes,,none,,2,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,every_few_days,everyday,everyday,less_often,less_often,less_often,every_few_days,everyday,yes,yes,yes,,no,no,yes,no,no,yes,yes
+478, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+479, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+480,2,,no,,,,,1,yes,no,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+481, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+482,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+483, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+484,2,,yes,no,no,none,,2,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,every_few_days,less_often,never,less_often,never,never,no,no,yes,,yes,no,yes,no,no,yes,no
+485,1,do_not_limit,yes,no,yes,one,yes,1,yes,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,never,never,everyday,never,less_often,never,never,never,yes,yes,yes,,no,no,yes,no,no,yes,yes
+486,1,do_not_limit,yes,no,yes,2-5,no,2,no,no,yes,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,every_few_days,everyday,everyday,never,never,never,less_often,less_often,yes,yes,yes,,yes,no,no,no,no,yes,yes
+487,1,do_not_limit,yes,yes,,none,,1,yes,yes,yes,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,everyday,never,never,never,never,never,no,no,no,,no,no,no,no,no,no,yes
+488,1,do_not_limit,yes,no,yes,none,,1,yes,no,yes,no,no,no,yes,no,no,yes,no,no,yes,no,no,yes,yes,no,no,less_often,less_often,everyday,never,less_often,never,less_often,less_often,yes,yes,yes,,yes,no,no,no,no,yes,yes
+489,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+490,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+491, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+492,2,,yes,no,no,none,,1,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,never,less_often,every_few_days,never,never,never,never,never,no,no,no,,no,no,no,no,no,no,no
+493,2,,no,,,,,1,yes,no,no,no,no,no,no,no,no,no,,yes,no,no,no,yes,yes,no,,,,,,,,,,,,,,,,,,,,no
+494, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+495, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+496,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+497,2,,yes,no,yes,none,,2,yes,no,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no,every_few_days,every_few_days,everyday,everyday,everyday,every_few_days,every_few_days,never,no,no,yes,,yes,no,no,no,no,no,no
+498,2,,no,,,,,2,no,no,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+499,1,do_not_limit,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+500,2,,no,,,,,2,no,no,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+501,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+502, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+503, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+504,2,,no,,,,,2,yes,no,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+505, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+506,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,yes,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+507,1,limit_time,yes,yes,,none,, ,,no,no,no,no,no,yes,no,no,,no,no,yes,no,no,no,no,no,no,everyday,never,everyday,never,never,never,,never,no,no,no,,no,no,no,no,no,no,yes
+508,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no,no,less_often,never,everyday,less_often,never,never,less_often,less_often,yes,yes,yes,,no,no,no,no,no,yes,no
+509,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+510,2,,yes,no,no,none,, ,,no,no,no,no,no,yes,no,no,,no,yes,yes,yes,no,no,no,no,no,less_often,less_often,less_often,never,never,never,,never,yes,yes,yes,,yes,no,yes,no,no,yes,no
+511, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+512,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,yes,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+513, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+514,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,yes,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+515,2,,no,,,,,1,yes,no,yes,no,no,no,yes,no,no,no,,no,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+516, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+517, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+518,3,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+519,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+520,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,no,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+521,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+522, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+523,2,,no,,,,,1,no,yes,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+524,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,yes,yes,yes,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+525, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+526,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+527,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+528, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+529, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+530,1,do_not_limit,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+531,2,,no,,,,,1,no,no,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+532,1,limit_time,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+533, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+534,2,,no,,,,,1,yes,no,no,no,no,no,no,no,yes,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+535,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+536, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+537, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+538, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+539,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,no,no,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+540,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+541,1,do_not_limit,yes,yes,,none,,1,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,less_often,less_often,less_often,every_few_days,every_few_days,less_often,everyday,,no,yes,yes,,yes,no,no,no,no,yes,yes
+542, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+543,1,do_not_limit,no,,,,,1,yes,yes,yes,no,yes,no,yes,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+544,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+545, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+546, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+547,2,,no,,,,, ,,no,yes,no,no,yes,no,no,yes,,,no,no,no,yes,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+548,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+549,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+550, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+551,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+552,1,do_not_limit,yes,yes,,none,,1,yes,yes,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,everyday,less_often,less_often,never,never,never,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+553, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+554,2,,no,,,,,2,yes,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+555,1,do_not_limit,yes,no,no,none,,1,yes,yes,yes,no,no,yes,no,no,yes,yes,yes,no,no,yes,no,no,no,no,no,every_few_days,less_often,less_often,every_few_days,less_often,less_often,less_often,less_often,yes,yes,yes,,yes,no,yes,no,no,yes,yes
+556,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,every_few_days,never,every_few_days,never,never,every_few_days,yes,yes,no,,yes,yes,no,no,no,yes,no
+557, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+558, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+559,2,,no,,,,,1,no,no,no,no,no,no,no,no,no,yes,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+560,2,,yes,no,no,none,,1,yes,no,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,everyday,never,everyday,every_few_days,less_often,never,less_often,never,yes,yes,yes,,yes,no,yes,no,no,yes,no
+561,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+562, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+563,2,,no,,,,,1,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+564,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+565, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+566,1,do_not_limit,yes,no,yes,none,,1,yes,yes,no,no,yes,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,every_few_days,less_often,every_few_days,every_few_days,never,never,less_often,never,yes,yes,yes,,yes,yes,no,no,no,yes,yes
+567, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+568,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,yes,yes,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+569,1,limit_time,yes,yes,,none,, ,,no,no,no,no,no,no,no,no,,no,no,yes,no,no,yes,no,no,no,less_often,everyday,everyday,never,everyday,never,,never,no,yes,yes,,yes,no,yes,no,no,no,yes
+570,1,do_not_limit,yes,no,no,none,,1,yes,yes,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,every_few_days,everyday,everyday,every_few_days,every_few_days,everyday,less_often,less_often,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+571,3,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,no,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+572,2,,no,,,,, ,,yes,no,no,no,no,yes,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+573,1,do_not_limit,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,never,never,everyday,never,never,never,never,never,yes,yes,no,,no,no,yes,no,yes,yes,yes
+574,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,never,never,never,every_few_days,less_often,never,never,every_few_days,no,no,yes,,yes,no,yes,no,no,yes,no
+575,1,limit_time,yes,yes,,none,,2,yes,no,no,no,no,no,yes,no,yes,yes,yes,yes,no,no,no,no,no,no,no,every_few_days,less_often,every_few_days,never,never,never,less_often,never,no,no,no,,yes,no,no,no,no,yes,yes
+576,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+577, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+578, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+579, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+580, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+581,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+582, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+583,1,do_not_limit,yes,yes,,none,,1,yes,no,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,yes,everyday,never,every_few_days,never,never,never,never,never,yes,yes,no,,no,no,no,no,no,yes,yes
+584,2,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+585, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+586,2,,yes,no,no,none,,1,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,everyday,everyday,everyday,every_few_days,every_few_days,everyday,less_often,less_often,no,yes,yes,,yes,no,yes,no,no,yes,no
+587,3,,yes,no,no,none,,1,yes,yes,yes,no,yes,yes,yes,no,yes,yes,yes,yes,yes,no,yes,yes,yes,no,no,never,less_often,everyday,every_few_days,never,never,every_few_days,never,yes,yes,yes,,yes,yes,yes,yes,yes,yes,not_sure
+588, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+589, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+590,2,,yes,no,no,one,no,2,no,no,no,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no,never,never,never,never,never,never,never,never,no,no,no,,no,no,no,no,no,no,no
+591,2,,no,,,,,1,yes,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+592, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+593, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+594, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+595,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+596,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+597, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+598,1,limit_time,,,,,,-1,,,,,,,,,,,,no,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+599, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+600, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+601,2,,yes,no,no,none,,2,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,yes,everyday,everyday,everyday,everyday,less_often,never,everyday,never,yes,yes,yes,,yes,yes,yes,no,yes,yes,no
+602, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+603, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+604, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+605,2,,no,,,,,1,no,no,no,no,no,no,no,no,no,no,,yes,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+606, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+607,2,,no,,,,,1,no,yes,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+608,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+609,3,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+610, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+611, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+612,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+613,2,,no,,,,, ,,yes,no,no,no,no,yes,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+614,2,,no,,,,,2,no,no,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+615,1,limit_time,yes,yes,,2-5,yes,1,yes,yes,yes,yes,no,yes,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,less_often,less_often,every_few_days,every_few_days,every_few_days,every_few_days,every_few_days,less_often,yes,yes,yes,,no,no,no,no,no,yes,yes
+616,2,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+617, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+618,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+619,1,limit_time,no,,,,,2,yes,no,no,no,no,yes,yes,no,yes,yes,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,yes
+620, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+621, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+622,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+623, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+624,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,every_few_days,everyday,everyday,everyday,less_often,less_often,less_often,less_often,yes,yes,yes,,yes,no,yes,no,no,yes,no
+625,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,no,no,no,yes,yes,no,,,,,,,,,,,,,,,,,,,,no
+626, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+627,2,,no,,,,,2,no,no,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+628, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+629, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+630, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+631, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+632, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+633,2,,yes,no,no,none,, ,,yes,no,no,no,no,yes,no,no,,no,no,yes,no,no,no,no,no,no,every_few_days,everyday,everyday,less_often,never,never,,never,no,no,no,,no,no,no,no,no,no,no
+634,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+635,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+636,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,yes,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+637,3,,yes,yes,,none,,1,yes,yes,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,every_few_days,everyday,everyday,everyday,never,everyday,everyday,never,yes,yes,yes,,yes,yes,yes,no,yes,yes,not_sure
+638,1,limit_time,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,no,yes,no,no,no,no,yes,yes,every_few_days,every_few_days,everyday,every_few_days,never,never,less_often,never,yes,yes,yes,,yes,yes,yes,yes,yes,yes,yes
+639,1,limit_time,no,,,,,1,yes,yes,no,no,no,no,no,no,no,no,,yes,yes,no,yes,no,yes,no,,,,,,,,,,,,,,,,,,,,yes
+640, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+641,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,less_often,every_few_days,everyday,less_often,never,never,less_often,everyday,yes,yes,yes,,no,no,yes,no,no,yes,no
+642,2,,yes,no,no,none,,1,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,less_often,everyday,everyday,never,never,never,every_few_days,never,no,no,yes,,no,no,no,no,no,yes,no
+643,3,,no,,,,, ,,no,no,no,no,no,no,no,,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,not_sure
+644,1,do_not_limit,no,,,,,1,yes,yes,yes,yes,no,no,yes,no,yes,no,,yes,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+645,2,,yes,yes,,none,,1,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,everyday,every_few_days,everyday,everyday,less_often,less_often,everyday,less_often,yes,yes,yes,,yes,yes,yes,yes,no,yes,no
+646,2,,no,,,,,1,yes,yes,yes,no,yes,no,yes,no,yes,yes,,yes,yes,yes,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+647,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,yes,no,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+648,1,do_not_limit,yes,yes,,none,,2,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,everyday,everyday,everyday,less_often,less_often,less_often,less_often,less_often,yes,yes,yes,,yes,no,yes,no,no,yes,yes
+649, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+650,1,limit_time,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+651,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+652,1,do_not_limit,yes,yes,,none,,1,yes,yes,yes,no,no,no,yes,no,yes,no,yes,yes,no,yes,no,yes,no,no,no,less_often,every_few_days,everyday,every_few_days,less_often,never,every_few_days,less_often,yes,yes,yes,,no,no,no,no,no,yes,yes
+653,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+654, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+655,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+656,2,,yes,no,yes,none,, ,,no,no,no,no,no,yes,no,no,,no,no,no,no,no,yes,no,no,no,never,less_often,never,never,never,never,,,no,yes,no,,no,no,no,no,no,yes,no
+657, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+658,2,,yes,no,no,none,,1,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,less_often,less_often,never,never,everyday,never,yes,no,yes,,no,no,no,no,no,yes,no
+659, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+660, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+661,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+662,1,do_not_limit,yes,yes,,none,,1,yes,yes,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,less_often,less_often,every_few_days,every_few_days,never,every_few_days,never,everyday,yes,yes,yes,,yes,no,yes,no,no,yes,yes
+663, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+664, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+665, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+666,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+667,2,,no,,,,,1,no,yes,no,no,no,no,no,no,no,yes,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+668,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,no,yes,,yes,yes,yes,no,yes,yes,no,,,,,,,,,,,,,,,,,,,,no
+669,2,,yes,no,no,none,, ,,yes,no,no,no,no,no,yes,yes,,yes,no,no,no,no,no,no,yes,yes,never,never,never,never,never,never,,never,yes,yes,yes,,yes,no,yes,no,no,yes,no
+670, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+671,2,,no,,,,,1,yes,yes,no,no,no,yes,yes,no,yes,no,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+672,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+673,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+674,2,,yes,no,no,2-5,no, ,,yes,yes,no,yes,no,yes,no,no,,no,no,no,no,no,no,yes,no,no,never,never,never,never,never,never,,never,yes,yes,yes,,no,yes,yes,no,no,yes,no
+675,2,,yes,no,no,none,, ,,no,yes,no,no,no,yes,no,no,,no,yes,yes,no,no,yes,no,no,no,less_often,everyday,everyday,never,never,never,,never,yes,yes,yes,,yes,no,yes,no,no,yes,no
+676, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+677, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+678,2,,yes,no,no,none,,1,yes,yes,yes,no,yes,no,yes,yes,yes,no,yes,no,yes,no,no,no,no,no,no,every_few_days,everyday,everyday,every_few_days,less_often,everyday,less_often,everyday,yes,yes,yes,,yes,no,no,no,no,yes,no
+679,2,,yes,no,no,none,,1,yes,yes,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,no,no,no,no,everyday,every_few_days,everyday,never,less_often,never,every_few_days,,yes,yes,yes,,no,no,no,no,no,yes,no
+680,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,yes,yes,no,yes,no,no,no,no,yes,yes,no,no,every_few_days,everyday,everyday,less_often,never,never,everyday,never,yes,yes,yes,,yes,yes,yes,no,no,yes,no
+681,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,no,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+682,2,,yes,no,no,none,, ,,no,no,no,no,no,yes,no,no,,no,no,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,no
+683,1,limit_time,yes,no,yes,one,yes,1,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,every_few_days,every_few_days,everyday,everyday,never,never,never,never,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+684,2,,no,,,,,2,no,no,yes,no,no,no,yes,no,yes,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+685, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+686,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+687, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+688,1,limit_time,yes,yes,,none,,1,yes,yes,yes,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,everyday,everyday,everyday,everyday,never,everyday,every_few_days,everyday,yes,yes,yes,,yes,no,yes,no,no,yes,yes
+689,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+690,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,no,no,no,no,no,yes,no,yes,every_few_days,less_often,everyday,everyday,every_few_days,never,everyday,every_few_days,yes,yes,yes,,yes,no,yes,no,no,yes,no
+691,2,,yes,no,no,none,,2,yes,yes,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,less_often,less_often,every_few_days,never,never,less_often,never,never,yes,yes,yes,,yes,no,no,no,no,yes,no
+692, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+693,2,,no,,,,, ,,yes,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+694,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+695, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+696,1,limit_time,yes,yes,,none,,1,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,every_few_days,every_few_days,every_few_days,less_often,never,never,every_few_days,every_few_days,no,yes,yes,,yes,no,no,no,no,yes,yes
+697,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+698, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+699,2,,no,,,,,2,yes,no,yes,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+700,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+701,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,yes,no,,no,no,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+702,1,limit_time,yes,no,no,none,, ,,yes,yes,no,no,no,yes,no,no,,no,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,every_few_days,never,every_few_days,never,,never,yes,yes,yes,,yes,yes,yes,yes,no,yes,yes
+703,2,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+704,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+705, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+706,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+707,1,do_not_limit,yes,yes,,one,no,2,yes,yes,yes,no,no,no,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,everyday,everyday,everyday,everyday,every_few_days,everyday,every_few_days,never,yes,yes,yes,,yes,no,yes,no,no,yes,yes
+708,2,,no,,,,,1,yes,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+709, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+710,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+711,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+712,1,do_not_limit,yes,yes,,2-5,no,1,yes,yes,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,no,no,no,no,everyday,everyday,everyday,everyday,everyday,never,everyday,everyday,yes,yes,yes,,no,yes,yes,no,no,yes,yes
+713, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+714,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+715,2,,yes,no,no,2-5,no,1,yes,yes,yes,yes,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,every_few_days,every_few_days,everyday,every_few_days,every_few_days,never,every_few_days,less_often,yes,yes,yes,,no,no,yes,no,yes,yes,no
+716,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+717, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+718,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+719,2,,no,,,,,1,yes,yes,yes,no,no,no,no,no,yes,yes,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+720, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+721,3,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,not_sure
+722,2,,no,,,,,1,no,yes,no,no,yes,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+723,2,,no,,,,,2,no,no,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+724,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,yes,yes,yes,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+725, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+726,1,limit_time,no,,,,,1,no,no,yes,no,no,no,yes,no,no,no,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+727,3,,no,,,,, ,,yes,no,no,no,no,yes,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+728,2,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+729,2,,no,,,,,1,yes,no,no,no,no,no,yes,no,no,no,,yes,yes,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+730,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+731,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,yes,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+732,2,,no,,,,,2,no,no,no,no,no,no,yes,no,no,no,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+733,2,,no,,,,,2,no,no,no,no,no,no,yes,no,no,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+734,1,do_not_limit,yes,yes,,none,,1,yes,yes,yes,no,no,yes,yes,no,no,yes,yes,yes,no,no,no,no,no,no,no,less_often,every_few_days,every_few_days,every_few_days,less_often,less_often,every_few_days,less_often,yes,yes,no,,no,yes,yes,no,no,no,yes
+735,2,,no,,,,, ,,yes,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+736, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+737,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+738, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+739, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+740, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+741,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+742, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+743, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+744,2,,yes,no,no,none,,1,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,every_few_days,everyday,everyday,never,never,never,never,never,no,no,no,,yes,no,no,no,no,yes,no
+745,3,,yes,no,no,2-5,yes,1,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,no,yes,no,yes,no,no,no,yes,less_often,less_often,never,everyday,never,never,everyday,everyday,no,no,yes,,no,no,no,no,no,yes,not_sure
+746,3,,no,,,,,1,yes,no,no,no,no,no,no,no,yes,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,not_sure
+747,2,,yes,no,no,none,,2,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,everyday,less_often,never,never,less_often,never,yes,yes,yes,,yes,yes,yes,yes,yes,yes,no
+748,1,limit_time,no,,,,,1,yes,yes,no,no,yes,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+749,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+750,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+751, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+752,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+753,1,limit_time,yes,yes,,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,yes,every_few_days,everyday,everyday,every_few_days,every_few_days,less_often,less_often,less_often,yes,yes,yes,,yes,no,yes,no,no,yes,yes
+754,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+755,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+756, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+757,1,do_not_limit,yes,yes,,2-5,yes,1,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,everyday,everyday,everyday,everyday,everyday,never,never,never,yes,yes,yes,,yes,yes,yes,yes,yes,yes,yes
+758,1,limit_time,yes,yes,,2-5,no,1,yes,yes,no,no,no,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,every_few_days,less_often,everyday,every_few_days,never,never,every_few_days,every_few_days,yes,yes,yes,,no,no,no,no,no,yes,yes
+759,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+760, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+761, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+762,2,,no,,,,, ,,yes,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+763, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+764,2,,no,,,,,2,yes,yes,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+765, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+766,2,,yes,no,no,none,,2,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,never,never,never,never,never,never,never,never,yes,yes,yes,,yes,no,no,no,no,yes,no
+767,1,do_not_limit,yes,no,no,none,, ,,yes,yes,no,no,no,yes,no,no,,no,no,yes,no,no,no,no,no,no,less_often,never,everyday,everyday,everyday,never,,less_often,no,no,no,,no,no,no,no,no,no,yes
+768, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+769,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,,yes,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+770, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+771,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+772,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+773,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+774,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+775,2,,yes,no,no,2-5,yes,2,yes,yes,yes,no,no,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,less_often,less_often,every_few_days,never,never,every_few_days,every_few_days,never,yes,yes,yes,,no,no,yes,no,no,yes,no
+776,2,,no,,,,,1,no,yes,no,no,no,no,yes,no,yes,yes,,no,no,no,no,yes,yes,no,,,,,,,,,,,,,,,,,,,,no
+777, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+778,2,,no,,,,, ,,no,no,yes,no,no,no,no,no,,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+779,2,,yes,no,yes,2-5,no,1,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,no,no,no,no,less_often,less_often,every_few_days,less_often,less_often,less_often,less_often,less_often,yes,yes,yes,,yes,no,yes,no,no,yes,no
+780,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+781, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+782, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+783,1,do_not_limit,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,yes
+784,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+785,1,do_not_limit,yes,no,yes,none,,1,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,no,no,no,no,less_often,less_often,less_often,less_often,never,less_often,less_often,less_often,yes,yes,no,,yes,no,no,no,no,yes,yes
+786, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+787, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+788,3,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,not_sure
+789,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,,yes,yes,yes,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+790,2,,yes,no,no,none,,1,yes,no,yes,no,no,yes,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,less_often,everyday,everyday,less_often,every_few_days,never,every_few_days,less_often,yes,yes,yes,,yes,yes,no,no,no,yes,no
+791,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+792,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+793,1,limit_time,yes,yes,,none,,1,yes,yes,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,less_often,everyday,everyday,everyday,never,less_often,less_often,never,yes,yes,yes,,yes,yes,yes,yes,no,yes,yes
+794,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+795, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+796,2,,no,,,,,2,no,no,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+797,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+798,1,limit_time,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,yes
+799,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,no,,yes,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+800, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+801,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+802, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+803,3,,no,,,,, ,,no,no,no,no,no,no,no,no,,,yes,yes,yes,no,yes,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+804,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+805, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+806,2,,yes,no,no,none,,2,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,everyday,everyday,everyday,never,less_often,never,less_often,never,no,no,no,,no,no,no,no,no,no,no
+807, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+808,2,,no,,,,,1,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+809,2,,no,,,,,1,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+810, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+811,2,,no,,,,,1,yes,yes,no,no,yes,yes,no,no,yes,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+812,1,limit_time,,,,,,2,no,no,yes,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+813, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+814, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+815, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+816, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+817, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+818,3,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+819,2,,no,,,,,2,yes,no,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+820,2,,no,,,,,1,no,yes,no,no,no,no,yes,no,no,no,,yes,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+821,1,do_not_limit,yes,yes,,none,,1,yes,yes,yes,yes,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,no,no,yes,less_often,everyday,everyday,everyday,everyday,never,every_few_days,never,yes,yes,yes,,no,yes,yes,no,no,yes,yes
+822,2,,no,,,,,2,no,yes,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+823,2,,yes,no,no,none,,1,yes,no,yes,no,no,no,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,everyday,never,everyday,never,every_few_days,never,never,never,no,no,no,,no,no,no,no,no,no,no
+824, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+825,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+826, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+827,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,no,yes,yes,no,yes,no,no,no,no,no,yes,every_few_days,every_few_days,everyday,less_often,less_often,never,less_often,less_often,no,no,yes,,no,no,no,no,no,yes,no
+828, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+829,2,,no,,,,,1,yes,yes,yes,yes,no,no,yes,yes,yes,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+830,2,,yes,no,no,none,,2,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,every_few_days,everyday,never,never,less_often,never,never,never,no,no,no,,no,no,no,no,no,no,no
+831, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+832, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+833,1,do_not_limit,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+834, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+835,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+836,2,,no,,,,,1,yes,no,yes,no,no,yes,yes,no,no,yes,,no,no,no,yes,yes,yes,no,,,,,,,,,,,,,,,,,,,,no
+837, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+838, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+839, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+840,2,,no,,,,,1,yes,yes,no,no,yes,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+841, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+842, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+843, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+844,1,do_not_limit,yes,yes,,none,,1,yes,no,yes,no,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,everyday,everyday,everyday,never,never,never,less_often,never,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+845, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+846,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+847,2,,yes,yes,,one,yes,1,yes,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,never,every_few_days,every_few_days,everyday,everyday,never,everyday,every_few_days,yes,yes,yes,,no,no,no,no,no,yes,no
+848,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+849, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+850,2,,no,,,,,1,yes,no,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+851,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+852, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+853, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+854, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+855,2,,no,,,,,2,yes,yes,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+856,2,,yes,no,no,one,yes,1,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,no,yes,no,no,no,no,no,no,never,never,never,never,never,never,never,never,yes,yes,yes,,yes,yes,yes,no,no,yes,no
+857,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+858, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+859, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+860,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+861,2,,yes,no,yes,2-5,no,1,yes,no,no,no,no,no,yes,no,yes,yes,yes,yes,yes,yes,no,no,yes,no,yes,every_few_days,never,everyday,never,never,never,every_few_days,never,no,yes,yes,,no,no,no,no,no,yes,no
+862, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+863,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+864,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+865,2,,no,,,,, ,,yes,yes,no,no,no,yes,no,yes,,,no,yes,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+866,2,,yes,no,no,none,, ,,yes,yes,no,no,no,yes,yes,no,,no,no,no,no,no,yes,no,no,no,never,less_often,every_few_days,never,never,less_often,,never,yes,yes,yes,,no,no,no,no,no,yes,no
+867, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+868,2,,no,,,,,1,yes,no,yes,no,no,no,yes,no,yes,no,,yes,yes,yes,yes,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+869, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+870,3,,yes,no,no,one,yes,1,yes,yes,yes,yes,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,everyday,everyday,everyday,everyday,every_few_days,never,less_often,everyday,yes,yes,yes,,yes,no,no,no,no,yes,not_sure
+871, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+872,2,,yes,no,no,none,,1,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,everyday,every_few_days,never,never,every_few_days,never,yes,yes,yes,,yes,no,no,no,no,yes,no
+873,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+874,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+875,2,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+876,1,do_not_limit,no,,,,,1,yes,no,yes,no,no,no,yes,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+877,2,,no,,,,,1,yes,yes,yes,no,no,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+878,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+879, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+880, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+881,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+882, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+883, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+884, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+885,2,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+886,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+887,1,do_not_limit,yes,yes,,none,,1,yes,no,yes,no,no,no,yes,no,yes,no,yes,yes,yes,yes,no,no,no,no,no,every_few_days,every_few_days,everyday,less_often,less_often,never,less_often,less_often,no,no,no,,no,no,no,no,no,no,yes
+888, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+889, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+890,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+891,2,,yes,no,no,none,, ,,yes,no,no,no,no,yes,yes,no,,no,no,yes,no,no,no,no,no,no,everyday,less_often,everyday,never,never,never,,never,yes,yes,yes,,yes,no,no,no,no,yes,no
+892, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+893, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+894,2,,no,,,,, ,,yes,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+895,2,,no,,,,, ,,no,yes,no,no,no,yes,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+896,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+897,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+898, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+899,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+900, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+901, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+902,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+903,1,limit_time,no,,,,, ,,yes,yes,no,no,no,yes,no,yes,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,yes
+904,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+905,3,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+906,3,,no,,,,, ,,no,yes,no,no,no,yes,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+907, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+908, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+909, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+910,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+911,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+912, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+913,2,,yes,no,yes,none,,1,yes,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,no,no,less_often,less_often,never,everyday,less_often,never,every_few_days,,yes,yes,yes,,yes,no,yes,no,no,yes,no
+914,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+915,2,,yes,no,no,none,, ,,yes,no,no,yes,no,yes,yes,yes,,yes,no,no,no,no,no,yes,no,yes,every_few_days,everyday,everyday,everyday,never,everyday,,never,yes,yes,yes,,yes,no,yes,no,no,yes,no
+916,1,do_not_limit,yes,yes,,2-5,yes,1,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,yes,no,no,every_few_days,less_often,every_few_days,never,less_often,never,less_often,never,yes,no,yes,,yes,no,yes,no,no,yes,yes
+917,2,,no,,,,,1,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+918,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+919, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+920, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+921, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+922, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+923,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+924, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+925, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+926,1,do_not_limit,no,,,,,1,yes,yes,yes,no,yes,no,yes,no,no,yes,,yes,no,yes,no,no,yes,no,,,,,,,,,,,,,,,,,,,,yes
+927,2,,no,,,,,1,no,no,no,no,no,no,no,no,yes,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+928,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+929,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,yes,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+930, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+931,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+932, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+933, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+934, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+935, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+936,1,do_not_limit,yes,yes,,none,,1,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,every_few_days,every_few_days,everyday,every_few_days,every_few_days,less_often,everyday,every_few_days,yes,yes,yes,,no,no,no,no,yes,yes,yes
+937, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+938,2,,yes,yes,,none,, ,,yes,yes,no,no,no,yes,no,yes,,yes,no,yes,no,no,no,no,no,no,everyday,less_often,less_often,never,never,never,,never,yes,yes,yes,,yes,no,no,no,no,yes,no
+939,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+940,2,,no,,,,,2,no,yes,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+941,1,limit_time,yes,no,no,none,,2,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,yes,no,no,no,no,no,no,no,less_often,every_few_days,everyday,less_often,less_often,less_often,less_often,less_often,yes,yes,yes,,no,yes,yes,yes,yes,yes,yes
+942, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+943,1,limit_time,yes,yes,,none,,2,yes,yes,yes,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no,yes,everyday,everyday,everyday,less_often,less_often,never,less_often,never,yes,yes,yes,,yes,no,yes,no,no,yes,yes
+944, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+945, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+946, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+947,2,,yes,no,no,none,, ,,yes,no,no,no,no,yes,no,no,,no,no,no,no,no,yes,no,no,no,less_often,less_often,everyday,less_often,every_few_days,every_few_days,,,yes,yes,yes,,yes,yes,yes,no,no,yes,no
+948, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+949,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+950,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+951, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+952, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+953, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+954,3,,no,,,,,1,yes,yes,no,no,no,no,yes,no,yes,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+955,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,no,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+956,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+957, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+958, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+959,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+960, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+961, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+962, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+963,1,do_not_limit,yes,yes,,none,,1,yes,yes,yes,no,no,yes,yes,no,no,no,no,yes,yes,yes,no,no,no,no,no,everyday,everyday,everyday,everyday,everyday,never,less_often,never,yes,yes,yes,,no,no,yes,no,no,yes,yes
+964,2,,no,,,,, ,,no,no,no,no,no,yes,no,yes,,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+965, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+966, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+967, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+968,2,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+969, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+970, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+971,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no,no,everyday,every_few_days,everyday,never,never,never,never,never,no,no,no,,no,no,no,no,no,yes,no
+972,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+973, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+974, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+975,3,,no,,,,,2,yes,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,not_sure
+976, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+977,1,limit_time,no,,,,,1,yes,no,yes,no,no,no,yes,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,yes
+978,2,,yes,no,no,none,, ,,yes,yes,no,no,yes,yes,yes,yes,,yes,yes,yes,yes,no,no,no,no,yes,every_few_days,everyday,everyday,never,never,less_often,,never,yes,yes,yes,,yes,yes,yes,no,no,yes,no
+979, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+980,2,,no,,,,,2,no,yes,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+981, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+982, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+983, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+984,2,,yes,no,no,none,,2,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,no,never,never,never,never,never,never,never,,no,no,no,,no,no,no,no,no,no,no
+985, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+986,2,,yes,no,no,none,, ,,yes,yes,no,yes,no,yes,no,yes,,yes,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,everyday,everyday,every_few_days,less_often,,everyday,yes,yes,yes,,no,yes,yes,no,no,yes,no
+987,1,limit_time,yes,yes,,none,, ,,yes,no,no,no,no,yes,no,no,,no,no,no,no,no,no,yes,no,no,everyday,everyday,everyday,every_few_days,everyday,less_often,,never,no,yes,yes,,no,no,no,no,yes,yes,yes
+988,2,,no,,,,,2,yes,no,no,no,no,no,no,no,no,no,,yes,yes,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+989,2,,no,,,,,2,yes,no,no,no,no,no,yes,no,no,yes,,no,yes,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+990, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+991,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+992, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+993,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+994,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+995,1,,yes,no,yes,one,yes,1,no,yes,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,no,no,yes,everyday,every_few_days,less_often,never,never,never,every_few_days,never,no,yes,no,,no,yes,yes,yes,yes,yes,yes
+996, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+997, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+998, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+999,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1000, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1001, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1002, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1003,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1004, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1005,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1006,2,,yes,no,no,none,, ,,no,no,no,no,no,yes,no,no,,no,no,no,no,no,no,yes,no,no,less_often,less_often,less_often,never,never,never,,never,no,no,no,,no,no,no,no,no,no,no
+1007,1,limit_time,yes,yes,,none,,2,no,no,no,no,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,everyday,everyday,less_often,never,never,never,no,no,no,,no,no,no,no,no,yes,yes
+1008,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1009,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1010, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1011,1,limit_time,yes,yes,,none,, ,,no,no,no,no,no,yes,no,no,,no,no,no,no,no,no,yes,no,no,every_few_days,less_often,less_often,every_few_days,less_often,less_often,,less_often,yes,yes,yes,,yes,no,no,no,no,yes,yes
+1012,1,do_not_limit,yes,yes,,one,no,1,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,every_few_days,everyday,everyday,everyday,every_few_days,every_few_days,every_few_days,every_few_days,yes,yes,yes,,no,yes,yes,no,no,yes,yes
+1013,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1014, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1015,2,,yes,no,no,none,, ,,no,no,no,no,no,yes,no,no,,no,no,no,no,no,no,yes,no,no,never,never,never,never,never,never,,never,no,no,no,,no,no,no,no,no,yes,no
+1016,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,never,everyday,never,never,never,never,never,never,no,no,no,,no,no,no,no,no,no,no
+1017, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1018,1,limit_time,no,,,,,1,yes,no,no,no,yes,no,yes,no,no,no,,no,no,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+1019,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1020,1,limit_time,yes,yes,,none,,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,everyday,everyday,everyday,every_few_days,never,never,every_few_days,never,yes,yes,yes,,yes,no,yes,no,no,yes,yes
+1021,2,,yes,no,no,none,,2,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,less_often,less_often,less_often,never,never,never,never,never,yes,yes,no,,no,no,no,no,no,yes,no
+1022, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1023, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1024,1,do_not_limit,yes,yes,,none,, ,,no,no,no,no,no,yes,no,no,,no,no,yes,no,no,no,no,no,yes,every_few_days,everyday,everyday,never,never,never,,never,no,no,no,,no,no,no,no,no,yes,yes
+1025,2,,no,,,,,1,yes,yes,no,no,yes,no,yes,no,no,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1026,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1027,2,,no,,,,,1,yes,yes,yes,yes,no,no,no,no,no,yes,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1028,3,,yes,no,no,one,no,2,yes,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,every_few_days,everyday,everyday,everyday,every_few_days,less_often,every_few_days,never,yes,yes,yes,,no,no,yes,no,no,yes,not_sure
+1029,1,do_not_limit,yes,yes,,none,,2,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,less_often,never,everyday,never,never,never,less_often,never,yes,yes,yes,,yes,yes,yes,no,yes,yes,yes
+1030, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1031,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1032,3,,yes,no,yes,none,,1,yes,yes,yes,no,no,yes,yes,no,yes,yes,yes,yes,yes,no,yes,yes,no,no,no,every_few_days,every_few_days,everyday,everyday,everyday,less_often,everyday,everyday,yes,yes,yes,,yes,yes,no,yes,yes,yes,not_sure
+1033,2,,no,,,,,1,yes,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1034,2,,no,,,,,1,yes,no,no,no,no,no,yes,no,yes,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1035,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1036, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1037, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1038,1,limit_time,yes,yes,,none,,2,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,every_few_days,everyday,everyday,never,never,never,never,never,no,no,no,,no,no,no,no,no,no,yes
+1039,1,do_not_limit,yes,yes,,none,,1,yes,yes,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,everyday,everyday,everyday,never,every_few_days,less_often,everyday,everyday,no,no,no,,no,no,no,no,no,no,yes
+1040, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1041, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1042,2,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+1043,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1044,2,,yes,no,yes,none,,1,yes,yes,yes,no,yes,no,yes,no,yes,no,yes,yes,yes,yes,no,no,no,no,no,every_few_days,everyday,everyday,everyday,every_few_days,less_often,everyday,less_often,yes,yes,yes,,yes,no,no,no,yes,yes,no
+1045, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1046, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1047, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1048,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,,yes,yes,yes,yes,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1049, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1050,2,,no,,,,, ,,yes,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1051,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1052,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,no,,yes,yes,yes,yes,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1053,2,,no,,,,,1,yes,no,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1054, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1055,2,,no,,,,,2,yes,yes,no,no,yes,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1056,2,,no,,,,, ,,yes,no,no,no,no,yes,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1057, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1058, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1059,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1060,2,,,,,,, ,,,,,,,,,no,,,yes,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1061, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1062,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1063,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1064,2,,no,,,,,2,yes,no,no,no,no,no,no,no,no,no,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1065, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1066,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,yes,no,,no,yes,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1067,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1068, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1069,2,,no,,,,,1,no,no,no,no,no,no,no,no,yes,yes,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1070,2,,yes,no,no,2-5,yes,1,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,never,everyday,everyday,everyday,everyday,never,everyday,everyday,yes,yes,yes,,no,yes,yes,no,yes,yes,no
+1071,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1072,2,,yes,no,no,none,, ,,no,no,no,no,no,yes,no,no,,no,no,yes,no,no,no,no,no,no,never,never,everyday,never,never,never,,never,no,no,no,,no,no,no,no,no,no,no
+1073, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1074, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1075, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1076,1,do_not_limit,yes,yes,,none,,1,yes,yes,yes,no,no,yes,yes,no,no,yes,no,no,no,no,yes,no,yes,no,no,everyday,every_few_days,everyday,never,less_often,never,every_few_days,everyday,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+1077,1,limit_time,yes,yes,,none,,1,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,no,no,no,no,no,every_few_days,everyday,everyday,less_often,less_often,less_often,less_often,less_often,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+1078, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1079,2,,no,,,,,1,yes,yes,no,no,yes,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1080,2,,yes,no,no,none,, ,,no,yes,no,no,no,yes,no,no,,no,no,no,yes,no,no,no,no,no,less_often,every_few_days,everyday,never,every_few_days,never,,never,yes,yes,yes,,yes,no,no,no,no,yes,no
+1081,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1082,1,limit_time,yes,no,no,none,,2,yes,yes,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,yes,no,no,every_few_days,everyday,everyday,never,never,less_often,everyday,never,yes,yes,yes,,no,no,yes,no,no,yes,yes
+1083,2,,yes,no,no,2-5,no,1,yes,yes,yes,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,no,no,less_often,less_often,less_often,less_often,less_often,less_often,less_often,,yes,yes,yes,,no,yes,no,no,no,no,no
+1084,2,,no,,,,,1,no,no,yes,no,no,no,no,no,yes,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1085,1,do_not_limit,yes,yes,,none,,1,no,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,no,everyday,everyday,everyday,every_few_days,every_few_days,everyday,everyday,less_often,yes,yes,yes,,yes,no,yes,no,no,yes,yes
+1086, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1087, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1088,2,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+1089, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1090, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1091, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1092,1,limit_time,yes,yes,,one,no,1,yes,no,yes,no,no,no,yes,no,yes,yes,yes,no,no,no,no,no,yes,no,no,everyday,everyday,everyday,everyday,everyday,never,everyday,everyday,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+1093, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1094,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1095, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1096,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,no,no,,no,no,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1097, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1098, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1099,2,,no,,,,,1,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1100,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,less_often,everyday,everyday,never,never,never,every_few_days,never,yes,yes,yes,,no,no,yes,no,no,yes,no
+1101,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,yes,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1102, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1103,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1104,2,,yes,no,no,none,,1,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,every_few_days,never,every_few_days,every_few_days,every_few_days,never,every_few_days,never,yes,no,yes,,yes,,no,,yes,no,no
+1105,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1106,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1107, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1108,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1109,2,,no,,,,,2,yes,no,no,no,no,no,yes,yes,no,no,,no,yes,yes,no,yes,yes,no,,,,,,,,,,,,,,,,,,,,no
+1110,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1111,1,do_not_limit,yes,yes,,one,no,1,yes,yes,yes,no,no,yes,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,every_few_days,everyday,everyday,everyday,everyday,everyday,everyday,less_often,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+1112,3,,no,,,,,1,yes,yes,no,no,no,no,yes,no,yes,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+1113,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1114,2,,no,,,,,2,yes,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1115, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1116,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,yes,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1117,3,,yes,no,yes,none,, ,,no,yes,no,yes,no,yes,no,no,,no,no,yes,no,no,no,no,no,no,less_often,every_few_days,everyday,never,every_few_days,never,,never,yes,yes,yes,,yes,yes,yes,no,yes,yes,not_sure
+1118,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,less_often,everyday,everyday,everyday,never,never,everyday,never,no,no,yes,,no,no,no,no,yes,yes,no
+1119,2,,yes,no,no,none,,1,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,every_few_days,everyday,everyday,everyday,never,never,everyday,never,yes,no,no,,no,no,no,no,no,yes,no
+1120, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1121,2,,no,,,,,1,yes,no,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1122, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1123,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1124, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1125, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1126,1,limit_time,yes,yes,,none,,1,yes,yes,yes,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,no,no,no,less_often,less_often,everyday,less_often,every_few_days,less_often,every_few_days,less_often,yes,yes,yes,,no,no,yes,no,no,yes,yes
+1127, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1128, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1129,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1130,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1131,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1132,2,,yes,no,no,none,,1,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,less_often,everyday,everyday,everyday,less_often,never,every_few_days,every_few_days,yes,yes,yes,,yes,no,no,no,no,yes,no
+1133,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1134,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1135, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1136, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1137,1,do_not_limit,no,,,,,1,yes,no,yes,no,no,no,no,no,yes,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,yes
+1138,2,,no,,,,,1,yes,yes,no,no,yes,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1139,2,,no,,,,,1,no,no,yes,no,no,no,yes,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1140, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1141,2,,yes,no,yes,none,,1,yes,yes,yes,no,yes,yes,yes,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,less_often,every_few_days,everyday,every_few_days,never,every_few_days,everyday,everyday,yes,yes,yes,,yes,no,yes,yes,no,yes,no
+1142,1,limit_time,yes,yes,,none,,1,yes,yes,yes,no,no,no,yes,no,yes,no,no,yes,yes,yes,no,yes,no,no,no,less_often,every_few_days,everyday,less_often,less_often,never,less_often,never,yes,yes,yes,,yes,no,no,no,yes,yes,yes
+1143,2,,no,,,,, ,,yes,no,no,no,no,no,no,yes,,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1144, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1145,2,,no,,,,,2,yes,no,yes,no,no,no,yes,no,no,no,,no,no,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1146, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1147,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1148,2,,yes,no,no,none,,1,yes,yes,yes,yes,yes,yes,yes,no,yes,no,yes,no,yes,no,no,no,no,no,yes,everyday,every_few_days,everyday,every_few_days,every_few_days,less_often,every_few_days,never,yes,yes,yes,,yes,yes,no,no,no,yes,no
+1149,2,,no,,,,,1,yes,yes,no,yes,yes,no,yes,no,yes,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1150,2,,no,,,,,2,yes,yes,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1151,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,yes,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1152, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1153,2,,no,,,,, ,,yes,no,yes,no,no,yes,no,yes,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1154,2,,yes,no,no,none,,1,yes,yes,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,yes,no,no,less_often,everyday,everyday,everyday,never,never,everyday,,yes,yes,yes,,no,no,yes,no,no,yes,no
+1155,1,do_not_limit,no,,,,,1,yes,yes,yes,yes,yes,no,yes,no,yes,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+1156,1,limit_time,yes,yes,,5+,no,1,yes,no,yes,no,no,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,every_few_days,never,everyday,never,everyday,never,everyday,less_often,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+1157,1,limit_time,no,,,,,1,yes,yes,no,yes,yes,no,yes,no,yes,yes,,no,no,no,no,yes,yes,no,,,,,,,,,,,,,,,,,,,,yes
+1158,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1159,2,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+1160,1,limit_time,yes,yes,,none,,1,yes,yes,yes,no,yes,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,every_few_days,every_few_days,everyday,every_few_days,less_often,every_few_days,every_few_days,every_few_days,no,yes,yes,,yes,no,no,no,no,yes,yes
+1161,2,,yes,no,no,none,,2,no,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,everyday,less_often,everyday,everyday,never,never,less_often,never,no,yes,yes,,no,no,no,no,no,yes,no
+1162, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1163,1,limit_time,yes,yes,,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,every_few_days,less_often,everyday,every_few_days,never,never,every_few_days,never,yes,yes,yes,,no,yes,yes,no,yes,yes,yes
+1164,1,do_not_limit,yes,yes,,one,no,1,yes,yes,yes,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,everyday,everyday,everyday,everyday,everyday,never,less_often,never,yes,yes,yes,,no,yes,yes,no,no,yes,yes
+1165,2,,yes,,,none,,1,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,no,no,no,no,never,never,never,never,never,never,never,never,no,no,no,,no,no,no,no,no,no,no
+1166,1,limit_time,yes,yes,,none,,1,yes,yes,no,no,no,no,yes,yes,yes,no,no,yes,no,no,no,no,no,no,yes,less_often,everyday,everyday,every_few_days,less_often,never,never,never,yes,yes,yes,,yes,yes,yes,yes,yes,yes,yes
+1167,2,,yes,no,no,none,,2,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,less_often,less_often,never,less_often,never,never,never,never,no,no,no,,no,no,no,no,no,no,no
+1168,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1169, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1170,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1171,2,,,,,,, ,,no,no,no,no,no,yes,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1172, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1173,3,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+1174, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1175, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1176,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,yes,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1177, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1178, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1179,2,,yes,no,no,one,no,1,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,yes,no,no,no,no,no,no,no,every_few_days,everyday,everyday,less_often,every_few_days,less_often,less_often,less_often,yes,yes,yes,,no,no,no,no,no,yes,no
+1180, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1181,2,,yes,no,no,none,,1,yes,no,yes,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,never,never,never,never,never,never,never,never,no,no,no,,no,no,no,no,no,no,no
+1182,3,,yes,no,yes,none,,1,yes,yes,yes,no,no,yes,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,every_few_days,everyday,everyday,everyday,every_few_days,never,everyday,every_few_days,yes,yes,yes,,no,yes,no,no,no,yes,not_sure
+1183,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,no,no,no,no,no,yes,no,no,less_often,never,everyday,everyday,every_few_days,never,everyday,everyday,yes,yes,yes,,yes,no,yes,no,no,yes,no
+1184,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1185,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1186, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1187, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1188, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1189, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1190,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1191,3,,no,,,,,1,yes,yes,yes,no,no,no,no,no,no,yes,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+1192,2,,yes,no,yes,one,no,1,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,yes,every_few_days,less_often,everyday,every_few_days,less_often,never,less_often,less_often,yes,yes,yes,,yes,no,no,no,no,yes,no
+1193,2,,yes,no,no,none,,1,yes,yes,yes,no,yes,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,no,no,everyday,everyday,every_few_days,every_few_days,less_often,every_few_days,everyday,every_few_days,yes,yes,yes,,yes,no,yes,no,no,yes,no
+1194,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1195,2,,yes,no,no,2-5,no,1,no,yes,yes,yes,no,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,every_few_days,every_few_days,everyday,every_few_days,every_few_days,every_few_days,every_few_days,less_often,yes,yes,yes,,yes,yes,yes,yes,yes,yes,no
+1196, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1197, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1198,3,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+1199,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,yes,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1200,2,,no,,,,,1,no,yes,no,no,no,no,yes,no,no,no,,no,no,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1201,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1202,2,,no,,,,,1,yes,yes,yes,no,no,no,no,no,yes,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1203,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,yes,no,no,no,everyday,less_often,every_few_days,every_few_days,never,never,less_often,every_few_days,yes,yes,yes,,yes,no,yes,no,no,yes,no
+1204,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1205,1,limit_time,no,,,,, ,,no,yes,no,no,no,no,no,yes,,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+1206,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1207,2,,no,,,,,2,yes,no,no,no,no,no,yes,no,yes,no,,no,no,no,no,yes,yes,no,,,,,,,,,,,,,,,,,,,,no
+1208,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1209,2,,no,,,,,2,yes,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1210, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1211, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1212,2,,no,,,,,1,yes,yes,yes,yes,no,no,yes,no,no,no,,no,no,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1213, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1214, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1215, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1216,3,,no,,,,,2,yes,no,yes,no,yes,no,yes,yes,yes,no,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+1217,2,,yes,no,no,none,,1,yes,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,every_few_days,everyday,everyday,never,everyday,never,less_often,everyday,yes,yes,yes,,no,yes,no,no,yes,yes,no
+1218,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1219,2,,no,,,,,2,no,no,no,no,yes,no,no,no,no,no,,yes,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1220, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1221,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1222,1,do_not_limit,yes,no,yes,none,,1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no,no,no,no,yes,less_often,everyday,everyday,everyday,everyday,everyday,everyday,everyday,yes,yes,yes,,no,no,yes,no,no,yes,yes
+1223, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1224, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1225,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1226,1,limit_time,yes,yes,,none,,1,yes,yes,yes,yes,no,yes,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,every_few_days,everyday,everyday,every_few_days,every_few_days,never,every_few_days,less_often,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+1227,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1228,2,,yes,no,no,none,,2,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,never,never,never,never,never,never,never,never,no,no,no,,no,no,no,no,no,no,no
+1229,1,,yes,yes,,none,, ,,yes,no,no,no,no,yes,no,no,,no,no,yes,no,no,no,no,no,yes,every_few_days,everyday,everyday,everyday,never,never,,never,yes,yes,yes,,no,no,no,no,no,yes,yes
+1230,2,,no,,,,,1,yes,no,no,no,no,no,no,no,no,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1231, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1232,1,limit_time,yes,no,yes,none,,1,no,yes,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,no,no,no,no,never,never,everyday,never,every_few_days,never,everyday,every_few_days,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+1233,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1234,2,,no,,,,, ,,,,,,,,,,,,no,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1235,1,do_not_limit,yes,yes,,none,, ,,yes,yes,no,yes,no,yes,no,no,,no,no,yes,yes,no,no,no,no,no,every_few_days,every_few_days,everyday,everyday,every_few_days,less_often,,never,yes,yes,yes,,yes,yes,yes,yes,no,yes,yes
+1236,1,limit_time,yes,yes,,2-5,no,1,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,every_few_days,everyday,everyday,less_often,everyday,less_often,everyday,everyday,yes,yes,yes,,yes,yes,no,yes,yes,yes,yes
+1237,1,do_not_limit,yes,yes,,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,less_often,less_often,everyday,never,never,never,less_often,never,yes,yes,yes,,yes,no,no,no,no,yes,yes
+1238, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1239,2,,yes,no,no,2-5,yes,1,yes,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,never,never,everyday,everyday,every_few_days,less_often,everyday,everyday,yes,yes,yes,,no,no,yes,no,no,yes,no
+1240,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1241,3,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+1242,1,do_not_limit,no,,,,, ,,yes,no,no,no,no,yes,no,no,,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+1243, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1244,2,,yes,no,no,2-5,no,1,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,less_often,everyday,everyday,every_few_days,never,never,never,never,no,yes,yes,,yes,no,no,no,no,yes,no
+1245, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1246,2,,no,,,,,1,no,yes,yes,no,no,no,yes,no,no,no,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1247,2,,no,,,,,1,yes,yes,no,no,yes,no,yes,no,yes,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1248,2,,no,,,,,1,no,yes,yes,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1249, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1250,1,limit_time,yes,yes,,none,,1,yes,no,yes,yes,no,yes,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,less_often,everyday,everyday,never,every_few_days,never,every_few_days,every_few_days,yes,yes,yes,,yes,yes,yes,yes,no,no,yes
+1251, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1252,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,yes,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1253, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1254,1,do_not_limit,yes,yes,,none,,1,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,yes,yes,yes,yes,yes,no,no,no,everyday,less_often,everyday,everyday,never,less_often,every_few_days,never,yes,yes,yes,,no,no,no,no,no,yes,yes
+1255,2,,yes,no,no,one,no,1,yes,yes,yes,no,yes,yes,yes,no,no,yes,no,yes,no,no,yes,yes,yes,no,yes,every_few_days,less_often,everyday,everyday,every_few_days,never,less_often,everyday,yes,yes,yes,,yes,yes,yes,yes,no,yes,no
+1256,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1257,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1258,1,limit_time,yes,yes,,none,,1,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,everyday,every_few_days,every_few_days,never,never,never,never,never,yes,yes,no,,yes,no,no,no,no,yes,yes
+1259, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1260,1,do_not_limit,yes,yes,,none,,1,no,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,everyday,everyday,everyday,less_often,never,less_often,less_often,never,yes,yes,no,,yes,no,no,no,no,yes,yes
+1261,1,limit_time,yes,yes,,one,yes,1,yes,yes,yes,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,yes,no,no,no,yes,never,every_few_days,less_often,every_few_days,never,less_often,every_few_days,every_few_days,yes,yes,yes,,no,yes,yes,no,yes,yes,yes
+1262,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,yes,no,,no,yes,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1263, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1264,3,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,yes,yes,yes,no,yes,no,yes,no,no,no,no,no,less_often,everyday,everyday,everyday,less_often,less_often,every_few_days,never,yes,yes,yes,,yes,yes,yes,yes,yes,yes,not_sure
+1265,1,limit_time,yes,yes,,none,,1,yes,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,every_few_days,everyday,everyday,everyday,everyday,never,less_often,never,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+1266, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1267, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1268, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1269,1,do_not_limit,yes,yes,,none,,1,no,no,no,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,yes,less_often,everyday,everyday,less_often,everyday,less_often,every_few_days,less_often,yes,yes,yes,,yes,no,no,no,no,yes,yes
+1270,1,do_not_limit,yes,yes,,none,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,every_few_days,everyday,everyday,everyday,less_often,everyday,everyday,everyday,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+1271, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1272, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1273, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1274,2,,yes,no,no,none,,1,no,yes,yes,no,no,no,yes,no,yes,yes,yes,no,yes,no,no,no,no,no,no,less_often,every_few_days,everyday,never,never,never,never,never,yes,no,yes,,yes,no,yes,no,no,yes,no
+1275, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1276,2,,yes,no,no,none,,1,yes,no,yes,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,everyday,never,every_few_days,less_often,every_few_days,never,no,yes,yes,,no,no,no,no,no,yes,no
+1277,2,,,,,,, ,,no,no,no,no,no,no,no,,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1278,3,,no,,,,, ,,yes,no,no,no,no,yes,no,no,,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+1279,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1280,2,,no,,,,,1,yes,no,no,no,no,no,yes,no,no,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1281,2,,yes,yes,,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,less_often,everyday,everyday,less_often,every_few_days,less_often,every_few_days,everyday,yes,yes,yes,,yes,yes,yes,yes,yes,yes,no
+1282,2,,no,,,,,1,yes,no,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1283,3,,no,,,,,1,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+1284,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1285,2,,yes,no,no,none,,1,yes,yes,yes,no,yes,no,yes,no,yes,yes,no,yes,yes,yes,yes,no,yes,no,no,never,never,never,never,never,never,never,never,no,no,no,,no,no,no,no,no,no,no
+1286,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1287,3,,no,,,,,1,yes,no,no,no,no,no,yes,no,no,yes,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+1288,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1289,2,,yes,no,no,none,, ,,no,yes,no,no,no,yes,no,no,,no,yes,no,no,no,no,no,no,no,every_few_days,less_often,everyday,less_often,never,never,,never,no,yes,no,,no,no,no,no,no,no,no
+1290,2,,no,,,,,2,yes,no,no,no,no,no,yes,no,no,no,,yes,no,yes,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1291,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1292,1,limit_time,yes,yes,,none,,2,yes,yes,no,no,no,no,yes,no,yes,no,no,yes,yes,yes,no,no,yes,no,no,never,every_few_days,everyday,every_few_days,never,every_few_days,every_few_days,never,yes,yes,yes,,yes,no,no,no,yes,yes,yes
+1293, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1294, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1295, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1296,2,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+1297, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1298, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1299, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1300,1,limit_time,yes,yes,,none,,2,yes,yes,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,yes,no,no,less_often,less_often,everyday,never,every_few_days,never,less_often,never,yes,yes,no,,yes,no,no,no,no,yes,yes
+1301,2,,yes,no,no,5+,yes,1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,never,every_few_days,everyday,everyday,everyday,never,everyday,everyday,yes,yes,yes,,yes,no,no,no,yes,yes,no
+1302,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,yes,no,no,no,no,every_few_days,less_often,less_often,everyday,never,less_often,everyday,,yes,yes,yes,,yes,no,yes,no,no,yes,no
+1303, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1304,2,,yes,no,no,none,,1,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,less_often,less_often,everyday,every_few_days,less_often,less_often,less_often,every_few_days,yes,yes,yes,,no,no,yes,no,no,yes,no
+1305, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1306,3,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+1307, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1308,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1309,2,,no,,,,,2,no,no,no,no,no,no,yes,no,no,yes,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1310,1,limit_time,yes,yes,,none,,2,yes,yes,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,every_few_days,everyday,everyday,everyday,never,less_often,everyday,never,yes,yes,yes,,yes,yes,yes,no,yes,yes,yes
+1311,3,,yes,yes,,2-5,yes,1,no,yes,no,yes,no,no,yes,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,everyday,every_few_days,every_few_days,every_few_days,every_few_days,every_few_days,every_few_days,every_few_days,yes,yes,yes,,yes,no,no,no,no,yes,not_sure
+1312,1,do_not_limit,yes,yes,,2-5,yes,1,yes,yes,yes,no,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,no,no,no,yes,everyday,everyday,everyday,never,never,every_few_days,every_few_days,never,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+1313,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1314,2,,no,,,,,1,yes,yes,no,yes,yes,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1315, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1316,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1317, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1318,1,do_not_limit,no,,,,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,,yes,yes,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,yes
+1319, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1320,1,do_not_limit,yes,yes,,none,,1,no,yes,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,everyday,everyday,everyday,less_often,never,never,less_often,never,no,yes,no,,no,no,no,no,no,yes,yes
+1321,1,limit_time,yes,no,yes,,,2,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,everyday,everyday,everyday,never,never,never,never,never,no,no,no,,no,no,no,no,no,no,yes
+1322, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1323,1,limit_time,yes,yes,,none,,1,yes,yes,yes,yes,yes,yes,yes,no,no,yes,no,yes,no,no,yes,no,no,no,no,every_few_days,everyday,everyday,never,every_few_days,never,everyday,never,no,no,no,,no,no,yes,no,no,yes,yes
+1324,2,,no,,,,, ,,no,no,no,no,no,yes,no,yes,,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1325,2,,no,,,,,1,yes,yes,no,no,yes,no,no,no,no,no,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1326,2,,yes,yes,,2-5,no,1,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,yes,everyday,every_few_days,everyday,everyday,never,never,everyday,everyday,yes,yes,yes,,yes,no,yes,no,no,yes,no
+1327, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1328,2,,yes,no,no,2-5,no,1,yes,yes,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no,no,less_often,less_often,less_often,less_often,never,never,never,never,yes,yes,yes,,no,no,no,no,no,yes,no
+1329,2,,yes,no,no,none,,2,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,less_often,every_few_days,less_often,never,never,never,never,never,no,yes,yes,,yes,no,no,no,no,yes,no
+1330,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1331,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1332,1,limit_time,yes,no,yes,none,,1,yes,yes,yes,no,no,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,never,everyday,everyday,never,every_few_days,never,less_often,less_often,yes,yes,yes,,yes,no,yes,no,yes,yes,yes
+1333,2,,no,,,,,1,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1334, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1335,2,,no,,,,,1,yes,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1336, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1337,2,,no,,,,,2,no,no,no,no,no,no,no,yes,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1338, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1339,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1340,1,do_not_limit,yes,no,yes,none,,1,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,never,never,everyday,never,never,never,never,never,no,no,no,,no,no,no,no,no,no,yes
+1341,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,yes,yes,,yes,yes,yes,yes,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1342, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1343, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1344,2,,yes,no,no,2-5,no,1,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,less_often,every_few_days,everyday,never,never,never,everyday,never,yes,yes,yes,,yes,yes,yes,yes,yes,yes,no
+1345,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1346,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1347,2,,yes,no,no,2-5,no,1,yes,yes,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,no,no,no,no,no,no,every_few_days,every_few_days,every_few_days,every_few_days,every_few_days,every_few_days,every_few_days,every_few_days,yes,yes,yes,,no,no,no,no,no,yes,no
+1348,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1349,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1350,2,,yes,no,yes,one,yes,1,yes,yes,yes,no,yes,no,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,never,less_often,everyday,every_few_days,less_often,less_often,never,never,yes,yes,yes,,yes,yes,yes,no,yes,yes,no
+1351, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1352,1,limit_time,no,,,,,1,yes,no,no,no,no,no,no,no,yes,no,,no,no,yes,yes,no,yes,no,,,,,,,,,,,,,,,,,,,,yes
+1353,2,,no,,,,, ,,no,no,no,no,no,no,yes,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1354,1,do_not_limit,no,,,,, ,,no,no,no,yes,no,yes,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+1355, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1356, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1357,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1358,3,,yes,yes,,none,,2,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,yes,every_few_days,everyday,everyday,everyday,never,never,less_often,everyday,yes,yes,yes,,no,yes,yes,no,yes,yes,not_sure
+1359,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1360,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1361, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1362,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1363,2,,yes,no,no,none,,1,yes,yes,no,no,no,no,yes,no,yes,yes,yes,no,yes,no,no,no,no,no,no,everyday,every_few_days,everyday,everyday,every_few_days,never,every_few_days,never,yes,yes,yes,,yes,no,yes,no,no,yes,no
+1364, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1365,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,yes,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1366,1,do_not_limit,yes,yes,,none,,2,no,yes,yes,no,no,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,everyday,everyday,everyday,every_few_days,less_often,less_often,never,never,no,no,no,,no,no,no,no,no,no,yes
+1367, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1368,2,,no,,,,,1,yes,yes,no,no,no,no,yes,yes,no,yes,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1369,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,yes,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1370, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1371,-1,,no,,,,,1,yes,yes,yes,yes,yes,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,
+1372, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1373, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1374,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,yes,yes,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1375, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1376, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1377, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1378,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1379,2,,yes,no,no,2-5,no,1,yes,yes,no,no,yes,yes,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,less_often,every_few_days,less_often,every_few_days,less_often,less_often,less_often,every_few_days,no,yes,yes,,yes,no,no,no,no,yes,no
+1380, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1381, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1382,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,yes,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1383,2,,yes,no,no,none,,2,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,less_often,never,never,less_often,never,never,less_often,never,no,no,yes,,no,no,yes,no,no,no,no
+1384,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1385,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1386, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1387, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1388,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,yes,no,no,yes,everyday,everyday,everyday,every_few_days,never,less_often,every_few_days,never,no,no,no,,no,no,no,no,no,yes,no
+1389, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1390,3,,yes,no,yes,one,yes,2,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,less_often,every_few_days,less_often,less_often,less_often,never,every_few_days,every_few_days,no,yes,yes,,no,no,no,no,no,yes,not_sure
+1391,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1392,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1393,2,,no,,,,,2,no,no,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1394, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1395,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1396, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1397,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1398,2,,yes,no,no,one,yes,2,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,everyday,every_few_days,everyday,never,never,never,never,less_often,no,no,no,,no,no,no,no,no,no,no
+1399,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1400,1,do_not_limit,no,,,,,2,no,yes,yes,no,yes,no,no,no,yes,no,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+1401,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1402,1,do_not_limit,no,,,,,2,yes,yes,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+1403, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1404,3,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,not_sure
+1405,2,,no,,,,,1,no,yes,no,no,no,no,no,no,yes,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1406, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1407, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1408, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1409,2,,no,,,,,1,no,no,no,no,no,no,no,no,yes,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1410,3,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+1411, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1412, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1413, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1414,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1415, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1416,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1417,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1418, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1419,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1420, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1421,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,yes,yes,yes,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1422, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1423, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1424, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1425, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1426, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1427, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1428,2,,no,,,,, ,,no,no,no,no,no,yes,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1429, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1430, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1431,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1432,2,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+1433, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1434,2,,no,,,,, ,,yes,no,no,no,no,no,no,no,,,yes,yes,yes,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1435, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1436, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1437,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1438,2,,no,,,,,2,no,no,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1439,2,,no,,,,,1,yes,yes,no,no,yes,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1440, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1441,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1442,2,,no,,,,,1,yes,yes,yes,yes,yes,no,yes,,yes,yes,,yes,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1443, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1444,3,,no,,,,, ,,no,no,no,no,no,no,no,no,,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+1445,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1446,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,yes,no,,no,yes,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1447,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,yes,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1448, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1449, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1450, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1451,2,,no,,,,, ,,yes,no,no,no,yes,no,no,no,,,no,no,no,no,yes,yes,no,,,,,,,,,,,,,,,,,,,,no
+1452, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1453,1,do_not_limit,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+1454, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1455,3,,no,,,,,1,no,yes,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+1456,1,do_not_limit,yes,yes,,none,, ,,,,,,,,,yes,,yes,no,no,no,yes,no,no,no,yes,every_few_days,every_few_days,every_few_days,every_few_days,every_few_days,every_few_days,,,yes,yes,yes,,yes,yes,yes,yes,yes,yes,yes
+1457,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1458,2,,yes,no,no,none,,1,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,everyday,every_few_days,everyday,every_few_days,never,never,never,never,yes,yes,yes,,no,no,no,no,yes,yes,no
+1459, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1460, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1461, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1462, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1463, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1464,2,,no,,,,,1,yes,yes,no,yes,no,no,yes,no,no,no,,yes,yes,yes,yes,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1465,2,,yes,no,no,2-5,no,1,yes,yes,yes,yes,no,yes,yes,no,yes,yes,yes,yes,yes,no,yes,yes,no,no,yes,less_often,every_few_days,every_few_days,every_few_days,every_few_days,every_few_days,every_few_days,less_often,no,yes,no,,yes,yes,yes,no,no,yes,no
+1466, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1467,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1468,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1469,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1470,1,do_not_limit,,,,,,2,no,no,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,yes
+1471,3,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,not_sure
+1472,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1473,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1474, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1475,3,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,no,,yes,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+1476,1,limit_time,no,,,,,1,no,no,no,no,yes,no,yes,no,yes,no,,yes,yes,yes,yes,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+1477,3,,yes,no,yes,none,,2,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,no,no,yes,no,no,no,no,no,everyday,less_often,everyday,everyday,every_few_days,never,everyday,never,yes,yes,yes,,no,no,yes,no,no,yes,not_sure
+1478,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1479, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1480, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1481,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1482,2,,no,,,,,1,yes,no,no,no,no,no,yes,no,no,no,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1483,1,limit_time,yes,yes,,none,,1,yes,yes,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,less_often,everyday,everyday,less_often,less_often,less_often,less_often,less_often,yes,no,yes,,no,no,no,no,no,yes,yes
+1484,3,,yes,no,no,none,,1,yes,no,yes,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,every_few_days,everyday,everyday,everyday,never,every_few_days,everyday,never,yes,yes,no,,no,no,no,no,no,yes,not_sure
+1485,2,,yes,no,no,none,, ,,yes,yes,no,no,no,yes,no,no,,no,yes,no,no,no,no,no,no,no,less_often,everyday,everyday,everyday,everyday,never,,less_often,yes,yes,yes,,yes,no,yes,yes,no,yes,no
+1486,2,,no,,,,, ,,no,no,no,no,no,yes,yes,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1487,2,,yes,no,no,none,, ,,yes,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,no,no,less_often,never,everyday,less_often,never,never,,never,no,no,yes,,yes,no,no,no,yes,yes,no
+1488,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,yes,,yes,yes,no,yes,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1489,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+1490,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1491,0,,,,,,,0,,no,no,no,no,no,no,no,no,yes,no,,,,,,,,,,every_few_days,every_few_days,,never,every_few_days,everyday,everyday,,,,,yes,yes,,yes,,yes,
+1492,2,,no,,,,,2,yes,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1493,1,limit_time,no,,,,, ,,yes,yes,no,yes,no,yes,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,yes
+1494, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1495,2,,no,,,,,1,yes,no,yes,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1496,1,do_not_limit,yes,yes,,none,,1,yes,yes,yes,no,no,no,yes,no,yes,no,yes,yes,no,no,yes,no,no,no,no,less_often,every_few_days,everyday,every_few_days,never,never,everyday,never,yes,yes,yes,,yes,no,yes,no,yes,yes,yes
+1497,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,yes,yes,,yes,yes,yes,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1498,2,,no,,,,,1,no,no,no,no,no,no,yes,yes,no,yes,,yes,yes,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1499, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1500,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1501, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1502, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1503,1,limit_time,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes
+1504, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1505, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1506,3,,yes,no,yes,2-5,no,1,yes,yes,yes,no,no,no,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,less_often,every_few_days,everyday,everyday,less_often,every_few_days,everyday,every_few_days,no,yes,no,,no,yes,no,no,yes,yes,not_sure
+1507,1,limit_time,yes,no,yes,none,,1,yes,yes,yes,no,no,no,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,everyday,less_often,everyday,every_few_days,never,every_few_days,less_often,everyday,yes,yes,yes,,yes,yes,yes,no,no,yes,yes
+1508,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,yes,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1509, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1510,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,yes,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1511, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1512,1,limit_time,yes,yes,,one,no,2,no,yes,no,no,no,no,yes,no,no,no,no,yes,yes,no,yes,no,no,no,no,less_often,everyday,everyday,every_few_days,never,never,never,everyday,yes,yes,yes,,yes,no,yes,no,yes,yes,yes
+1513,1,limit_time,yes,no,yes,one,no,1,yes,yes,no,yes,no,yes,no,no,yes,yes,no,yes,no,no,no,no,no,no,yes,less_often,everyday,everyday,less_often,less_often,never,every_few_days,every_few_days,no,yes,yes,,no,no,no,yes,yes,yes,yes
+1514, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1515,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1516, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1517,2,,no,,,,,1,no,no,no,no,no,no,yes,no,yes,yes,,yes,yes,yes,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1518, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1519,2,,no,,,,,1,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1520, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1521,2,,no,,,,, ,,yes,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1522,3,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+1523,2,,no,,,,,2,no,yes,no,yes,yes,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1524, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1525, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1526, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1527,2,,no,,,,,1,no,no,no,no,no,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1528,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1529,2,,yes,yes,,one,no,1,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no,no,everyday,everyday,everyday,everyday,less_often,less_often,never,less_often,yes,yes,no,,yes,no,no,no,no,no,no
+1530,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1531, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1532,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1533,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,yes,yes,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1534, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1535,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,yes,no,yes,,yes,yes,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1536,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1537, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1538,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1539,2,,no,,,,,1,yes,no,no,no,no,no,no,no,no,no,,no,no,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1540,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1541,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1542, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1543,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1544,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,yes,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1545, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1546,1,limit_time,yes,yes,,2-5,no,1,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,no,yes,yes,no,yes,every_few_days,less_often,everyday,less_often,less_often,never,never,everyday,yes,yes,yes,,no,yes,yes,no,no,yes,yes
+1547,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1548, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1549,2,,no,,,,, ,,yes,no,no,yes,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1550, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1551,1,limit_time,yes,no,no,none,, ,,yes,yes,no,no,yes,yes,no,no,,no,no,yes,yes,no,no,no,no,yes,every_few_days,every_few_days,less_often,less_often,never,every_few_days,,,no,no,no,,no,no,yes,no,yes,yes,yes
+1552,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,yes,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1553,1,limit_time,no,,,,, ,,yes,yes,no,no,no,yes,no,no,,,yes,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+1554,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1555,3,,yes,no,no,2-5,no,2,yes,no,yes,no,yes,no,yes,no,no,no,no,yes,yes,no,yes,no,yes,no,no,less_often,never,everyday,everyday,never,everyday,never,everyday,yes,yes,no,,yes,no,yes,no,no,yes,not_sure
+1556,1,limit_time,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,yes
+1557,2,,yes,no,no,one,no,1,yes,yes,no,no,no,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,no,less_often,every_few_days,every_few_days,never,never,never,every_few_days,never,yes,yes,yes,,no,no,yes,no,no,yes,no
+1558,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1559,3,,yes,yes,,2-5,yes, ,,yes,yes,no,yes,yes,yes,no,yes,,yes,no,no,no,yes,yes,yes,no,no,less_often,every_few_days,everyday,less_often,less_often,less_often,,less_often,yes,yes,yes,,yes,yes,yes,no,yes,yes,not_sure
+1560, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1561, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1562,2,,no,,,,,1,yes,no,no,no,no,no,yes,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1563,2,,no,,,,,1,yes,yes,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1564,2,,yes,no,no,2-5,yes,1,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,yes,yes,no,yes,no,no,no,no,everyday,less_often,everyday,every_few_days,never,less_often,every_few_days,everyday,yes,yes,yes,,yes,no,yes,no,no,yes,no
+1565,2,,yes,no,no,none,,1,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,no,yes,no,no,no,yes,no,no,everyday,everyday,everyday,everyday,less_often,less_often,every_few_days,less_often,yes,yes,yes,,yes,no,no,yes,no,yes,no
+1566,2,,no,,,,,1,yes,yes,no,no,yes,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1567,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1568, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1569,1,limit_time,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes
+1570, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1571,2,,no,,,,,1,no,yes,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1572,1,limit_time,yes,yes,,none,,1,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,yes,no,no,no,yes,everyday,everyday,everyday,everyday,everyday,everyday,everyday,everyday,yes,yes,yes,,yes,no,yes,no,no,yes,yes
+1573, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1574,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1575,2,,no,,,,, ,,yes,no,no,no,no,no,no,no,,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1576,2,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+1577,3,,yes,no,yes,one,yes,2,yes,no,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,yes,no,no,no,everyday,never,never,everyday,never,never,everyday,everyday,yes,no,yes,,no,no,yes,no,no,yes,not_sure
+1578,2,,no,,,,,1,no,no,no,no,no,no,yes,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,no
+1579,3,,yes,yes,,2-5,yes,1,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,every_few_days,every_few_days,every_few_days,everyday,less_often,less_often,less_often,everyday,yes,yes,yes,,yes,yes,yes,no,no,yes,not_sure
+1580,2,,yes,yes,,one,no, ,,no,no,no,no,no,yes,no,no,,no,no,yes,no,no,no,no,no,no,never,never,never,never,never,never,,never,no,no,no,,no,no,no,no,no,no,no
+1581,2,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+1582, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1583,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1584,2,,yes,no,no,none,,2,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,no,never,everyday,everyday,everyday,never,never,every_few_days,everyday,yes,yes,yes,,no,no,yes,no,no,yes,no
+1585, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1586, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1587, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1588,2,,yes,no,no,2-5,no,1,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,every_few_days,less_often,less_often,every_few_days,every_few_days,never,everyday,every_few_days,yes,yes,yes,,no,no,no,no,no,yes,no
+1589,3,,no,,,,,1,yes,no,no,no,no,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+1590, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1591,2,,yes,no,no,none,,1,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,less_often,everyday,everyday,everyday,never,never,never,never,yes,yes,yes,,no,no,no,no,no,yes,no
+1592,2,,yes,no,yes,2-5,no,1,yes,yes,yes,no,yes,yes,yes,no,yes,yes,yes,no,no,no,no,no,yes,no,yes,less_often,everyday,everyday,less_often,everyday,less_often,less_often,everyday,yes,yes,yes,,yes,yes,yes,yes,yes,yes,no
+1593,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1594, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1595,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1596,1,do_not_limit,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,yes
+1597,3,,no,,,,,1,no,no,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+1598,2,,no,,,,, ,,no,no,no,yes,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1599, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1600,3,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,not_sure
+1601, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1602, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1603,2,,no,,,,,2,no,no,no,no,no,no,yes,no,no,no,,yes,yes,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1604,2,,yes,no,no,one,no,1,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,yes,no,no,no,no,no,no,every_few_days,everyday,everyday,everyday,everyday,never,everyday,everyday,yes,yes,yes,,yes,no,yes,no,no,yes,no
+1605,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,yes,no,no,,,,,,,,,,,,,,,,,,,,no
+1606,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1607,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1608,2,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no
+1609, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1610,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1611,2,,no,,,,,2,no,no,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1612,3,,yes,no,yes,one,no,1,yes,yes,yes,no,no,yes,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,never,everyday,everyday,everyday,every_few_days,never,less_often,every_few_days,no,yes,yes,,no,no,yes,no,no,yes,not_sure
+1613,2,,yes,yes,,none,,1,yes,yes,yes,no,yes,yes,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,every_few_days,everyday,everyday,never,never,less_often,less_often,never,no,no,no,,no,no,no,no,no,no,no
+1614,2,,no,,,,,1,yes,no,yes,no,no,no,yes,no,no,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1615,3,,yes,no,no,one,yes,1,yes,yes,yes,yes,no,no,yes,no,yes,yes,yes,no,yes,no,no,yes,no,no,yes,every_few_days,every_few_days,every_few_days,every_few_days,less_often,every_few_days,every_few_days,every_few_days,yes,yes,yes,,yes,no,yes,no,yes,yes,not_sure
+1616,1,do_not_limit,yes,yes,,none,, ,,yes,yes,no,no,no,yes,yes,no,,no,yes,yes,no,no,no,no,no,no,everyday,every_few_days,everyday,never,everyday,never,,never,yes,yes,yes,,yes,no,no,yes,no,yes,yes
+1617,2,,yes,no,no,none,,1,yes,yes,no,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,less_often,everyday,everyday,everyday,everyday,never,every_few_days,everyday,yes,yes,yes,,no,no,yes,no,no,yes,no
+1618,2,,no,,,,,1,no,no,yes,no,no,no,yes,no,no,no,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1619,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,yes,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1620, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1621, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1622,3,,no,,,,,1,yes,yes,yes,no,no,yes,yes,no,yes,yes,,yes,no,no,no,no,yes,no,,,,,,,,,,,,,,,,,,,,not_sure
+1623, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1624, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1625,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1626,1,do_not_limit,yes,no,yes,none,,1,yes,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,no,yes,yes,no,no,less_often,everyday,everyday,never,everyday,never,every_few_days,everyday,yes,yes,yes,,no,yes,yes,no,no,yes,yes
+1627,2,,no,,,,,1,no,yes,no,no,no,no,no,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1628,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1629, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1630, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1631, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1632, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1633,2,,yes,no,no,none,,2,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,every_few_days,everyday,everyday,never,never,never,less_often,never,yes,yes,yes,,yes,no,no,yes,yes,yes,no
+1634,3,,no,,,,,1,yes,no,no,no,no,no,no,no,no,no,,yes,no,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,not_sure
+1635,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1636,2,,no,,,,, ,,no,no,no,no,no,no,no,no,,,no,no,no,no,no,no,yes,,,,,,,,,,,,,,,,,,,,no
+1637,2,,no,,,,,1,yes,yes,yes,no,no,no,yes,no,no,no,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1638, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1639,1,limit_time,yes,yes,,none,,1,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,less_often,everyday,everyday,less_often,every_few_days,never,every_few_days,never,yes,yes,yes,,no,no,no,no,no,yes,yes
+1640,2,,no,,,,,1,yes,yes,no,no,no,no,yes,no,yes,yes,,no,yes,no,no,no,no,no,,,,,,,,,,,,,,,,,,,,no
+1641, ,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
