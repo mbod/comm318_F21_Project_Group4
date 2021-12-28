@@ -1,6 +1,5 @@
 ## Presentations for COMM313 Group Project
 
-* This folder should contain the subfolders and files for your project presentations.
 
 ### Initial_Project_Presentation.pdf
 
